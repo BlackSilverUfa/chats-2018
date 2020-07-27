@@ -4,591 +4,591 @@ PlayResY: 720
 
 [V4 Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, TertiaryColour, BackColour, Bold, Italic, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, AlphaLevel, Encoding
-Style: Default,Arial,20,16777215,16777215,16777215,-3221225464,-1,0,1,3,0,1,5,0,5,0,0
+Style: Default, Arial, 18, 16777215, 16777215, 16777215, -3221225464, 0, 0, 1, 3, 0, 1, 5, 0, 5, 0, 0
 
 [Events]
-Format: Marked, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: Marked=0, 0:00:30.49, 0:00:33.00, Default, {\c&H0000FF&}dmngch{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H0000FF&}dmngch{\c&HFFFFFF&}: blackufaChamp x⁣4
-Dialogue: Marked=0, 0:00:38.90, 0:00:41.56, Default, {\c&H20A5DA&}BlackUFA{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H20A5DA&}BlackUFA{\c&HFFFFFF&}: ну совсем раритет LUL
-Dialogue: Marked=0, 0:01:04.58, 0:01:08.14, Default, {\c&HFF901E&}Quiet_Saturn{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFF901E&}Quiet_Saturn{\c&HFFFFFF&}: ааааа, как же хочется полное прохождение BibleThump
-Dialogue: Marked=0, 0:01:13.98, 0:01:16.16, Default, {\c&HFFFFFF&}parz1fal{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}parz1fal{\c&HFFFFFF&}: воооо
-Dialogue: Marked=0, 0:01:16.86, 0:01:19.88, Default, {\c&H0000FF&}dmngch{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H0000FF&}dmngch{\c&HFFFFFF&}: @BlackUFA Та само то blackufaOhNo
-Dialogue: Marked=0, 0:01:37.87, 0:01:40.14, Default, {\c&H20A5DA&}terrasavr{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H20A5DA&}terrasavr{\c&HFFFFFF&}: PogChamp
-Dialogue: Marked=0, 0:01:46.87, 0:01:49.26, Default, {\c&HFFFFFF&}batasuy777{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}batasuy777{\c&HFFFFFF&}: bigBossSalut
-Dialogue: Marked=0, 0:02:12.52, 0:02:14.67, Default, {\c&HFFFFFF&}Asfinks{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}Asfinks{\c&HFFFFFF&}: ооо!
-Dialogue: Marked=0, 0:02:13.54, 0:02:15.93, Default, {\c&HFFFFFF&}WiseDolphin321{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}WiseDolphin321{\c&HFFFFFF&}: bigBossSalut
-Dialogue: Marked=0, 0:02:18.24, 0:02:23.24, Default, {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}: Подписки теперь можно дарить сразу нескольким людям! Сделай мир светлей, сделай нонсабов счастливее, а Блэка - популярнее. Ну типа камон.
-Dialogue: Marked=0, 0:02:22.41, 0:02:24.83, Default, {\c&HFFFFFF&}Asfinks{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}Asfinks{\c&HFFFFFF&}: добрый вечер!
-Dialogue: Marked=0, 0:02:24.04, 0:02:26.46, Default, {\c&HFFFFFF&}KarosKonfrid{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}KarosKonfrid{\c&HFFFFFF&}: Дратути, шоль
-Dialogue: Marked=0, 0:02:27.40, 0:02:29.94, Default, {\c&H32CD99&}STALLFISH{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H32CD99&}STALLFISH{\c&HFFFFFF&}: о сижу один тут))
-Dialogue: Marked=0, 0:02:29.56, 0:02:34.56, Default, {\c&H20A5DA&}BlackUFA{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H20A5DA&}BlackUFA{\c&HFFFFFF&}: У меня две серии - сейчас одна, в 20:00 по МСК будет хост кое-чего от обожаемых всеми польских друзей, а потом вторая blackufaOhYes
-Dialogue: Marked=0, 0:02:30.83, 0:02:33.16, Default, {\c&HFFFFFF&}Asfinks{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}Asfinks{\c&HFFFFFF&}: blackufaHi
-Dialogue: Marked=0, 0:02:37.21, 0:02:40.53, Default, {\c&H32CD99&}STALLFISH{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H32CD99&}STALLFISH{\c&HFFFFFF&}: Смотрю резко стольник пожаловал...всем хай)
-Dialogue: Marked=0, 0:02:39.40, 0:02:42.03, Default, {\c&HB469FF&}IlyaQ{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HB469FF&}IlyaQ{\c&HFFFFFF&}: чад, доброго здравия
-Dialogue: Marked=0, 0:02:54.64, 0:02:56.97, Default, {\c&H066099&}DarKShaM{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H066099&}DarKShaM{\c&HFFFFFF&}: Змейка? =)
-Dialogue: Marked=0, 0:02:58.30, 0:03:00.84, Default, {\c&HA09E5F&}darkcoredigital{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HA09E5F&}darkcoredigital{\c&HFFFFFF&}: Привет! Как дела?
-Dialogue: Marked=0, 0:03:11.52, 0:03:13.88, Default, {\c&H0000FF&}runx{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H0000FF&}runx{\c&HFFFFFF&}: привет всем
-Dialogue: Marked=0, 0:03:15.53, 0:03:19.42, Default, {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}: The alias you set this command to be of, !sub, does not exist.
-Dialogue: Marked=0, 0:03:33.72, 0:03:36.71, Default, {\c&H0000FF&}lork28{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H0000FF&}lork28{\c&HFFFFFF&}: Вечер добрый blackufaHi lirikHEY
-Dialogue: Marked=0, 0:03:36.48, 0:03:39.35, Default, {\c&HFFFFFF&}Asfinks{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}Asfinks{\c&HFFFFFF&}: дела норм! blackufaCoolStory
-Dialogue: Marked=0, 0:03:40.71, 0:03:43.94, Default, {\c&HB469FF&}eromanga_chan{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HB469FF&}eromanga_chan{\c&HFFFFFF&}: В 20:00 геймплей Cyberpunk 2077 конфёрмд
-Dialogue: Marked=0, 0:03:41.57, 0:03:44.32, Default, {\c&HFF901E&}Quiet_Saturn{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFF901E&}Quiet_Saturn{\c&HFFFFFF&}: кодзима гений, уже видно
-Dialogue: Marked=0, 0:03:43.64, 0:03:46.72, Default, {\c&HFFFFFF&}Soviet_microb{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}Soviet_microb{\c&HFFFFFF&}: фига чо аптипека в загашнике держит
-Dialogue: Marked=0, 0:03:46.16, 0:03:50.02, Default, {\c&HB469FF&}IlyaQ{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HB469FF&}IlyaQ{\c&HFFFFFF&}: @blackufa Стримлер заранее знал о всей этой суматохе с кодом?
-Dialogue: Marked=0, 0:03:50.01, 0:03:52.67, Default, {\c&HA09E5F&}Severnaya_Utka{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HA09E5F&}Severnaya_Utka{\c&HFFFFFF&}: blackufaHi blackufaHi
-Dialogue: Marked=0, 0:03:52.15, 0:03:55.08, Default, {\c&H20A5DA&}BlackUFA{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H20A5DA&}BlackUFA{\c&HFFFFFF&}: лучшая игра от Юбисофт всетаки
-Dialogue: Marked=0, 0:04:01.80, 0:04:04.58, Default, {\c&H32CD99&}STALLFISH{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H32CD99&}STALLFISH{\c&HFFFFFF&}: @eromanga_chan та ладна))
-Dialogue: Marked=0, 0:04:13.53, 0:04:15.89, Default, {\c&HFFFFFF&}Asfinks{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}Asfinks{\c&HFFFFFF&}: АРТУУУР!!!!
-Dialogue: Marked=0, 0:04:14.72, 0:04:19.72, Default, {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}: Чад! Вступай в ряды гордых сабов! Что ты получишь за это? Мою персональную благодарностьв прямом эфире, значок Ктулхи рядом с ником, прорву крутейших смайлов и гордое звание саба.
-Dialogue: Marked=0, 0:04:14.80, 0:04:17.22, Default, {\c&HA09E5F&}Severnaya_Utka{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HA09E5F&}Severnaya_Utka{\c&HFFFFFF&}: @BlackUFA LUL
-Dialogue: Marked=0, 0:04:19.29, 0:04:21.41, Default, {\c&HFFFFFF&}Asfinks{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}Asfinks{\c&HFFFFFF&}: ЕЕЕ
-Dialogue: Marked=0, 0:04:20.12, 0:04:22.84, Default, {\c&HB469FF&}eromanga_chan{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HB469FF&}eromanga_chan{\c&HFFFFFF&}: @STALLFISH та атвичаю))
-Dialogue: Marked=0, 0:04:21.63, 0:04:24.56, Default, {\c&HFFFFFF&}Soviet_microb{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}Soviet_microb{\c&HFFFFFF&}: да юбики молодцы были когда то
-Dialogue: Marked=0, 0:04:26.96, 0:04:29.26, Default, {\c&HFFFFFF&}Asfinks{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}Asfinks{\c&HFFFFFF&}: Хозяин!!!
-Dialogue: Marked=0, 0:04:28.30, 0:04:30.48, Default, {\c&HFF901E&}Quiet_Saturn{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFF901E&}Quiet_Saturn{\c&HFFFFFF&}: !кусь
-Dialogue: Marked=0, 0:04:28.53, 0:04:31.91, Default, {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}: Я бы покусался, но скучаю по СВЧ-стримлеру :(
-Dialogue: Marked=0, 0:04:32.03, 0:04:34.21, Default, {\c&HFFFFFF&}kacmanavt{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}kacmanavt{\c&HFFFFFF&}: !кусь
-Dialogue: Marked=0, 0:04:34.33, 0:04:36.84, Default, {\c&HFFFFFF&}WiseDolphin321{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}WiseDolphin321{\c&HFFFFFF&}: ин Юбисофт ви...
-Dialogue: Marked=0, 0:04:46.45, 0:04:49.17, Default, {\c&HFF0000&}Dimhuk{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFF0000&}Dimhuk{\c&HFFFFFF&}: Эта музыка blackufaOhNo
-Dialogue: Marked=0, 0:04:52.86, 0:04:56.00, Default, {\c&H20A5DA&}terrasavr{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H20A5DA&}terrasavr{\c&HFFFFFF&}: @BlackUFA дак этож беседка вроде, не?
-Dialogue: Marked=0, 0:04:57.35, 0:05:00.49, Default, {\c&HFF901E&}SlavMayer{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFF901E&}SlavMayer{\c&HFFFFFF&}: Только недавно пересматривал Kreygasm
-Dialogue: Marked=0, 0:05:10.72, 0:05:13.02, Default, {\c&HE22B8A&}UmiToko{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HE22B8A&}UmiToko{\c&HFFFFFF&}: МГС 3!!!!
-Dialogue: Marked=0, 0:05:24.46, 0:05:26.61, Default, {\c&H7FFF00&}Gibonich{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H7FFF00&}Gibonich{\c&HFFFFFF&}: !фыр
-Dialogue: Marked=0, 0:05:24.70, 0:05:28.47, Default, {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}: Фыркать, пока мой любимый стримлер нежится на море? Щас!!!
-Dialogue: Marked=0, 0:05:40.10, 0:05:42.28, Default, {\c&HE22B8A&}UmiToko{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HE22B8A&}UmiToko{\c&HFFFFFF&}: !вжух
-Dialogue: Marked=0, 0:05:40.35, 0:05:43.73, Default, {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}: Не буду вжухаться, пока стримлер не вернется!
-Dialogue: Marked=0, 0:05:41.04, 0:05:43.31, Default, {\c&HFF901E&}almasmukh{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFF901E&}almasmukh{\c&HFFFFFF&}: Kreygasm
-Dialogue: Marked=0, 0:05:41.64, 0:05:44.39, Default, {\c&HFF901E&}Quiet_Saturn{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFF901E&}Quiet_Saturn{\c&HFFFFFF&}: ээээх, наномашины, сынки
-Dialogue: Marked=0, 0:05:50.37, 0:05:53.12, Default, {\c&H20A5DA&}BlackUFA{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H20A5DA&}BlackUFA{\c&HFFFFFF&}: Shagohod!!! blackufaOhNo
-Dialogue: Marked=0, 0:05:54.05, 0:05:57.34, Default, {\c&HFF901E&}SlavMayer{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFF901E&}SlavMayer{\c&HFFFFFF&}: А Артур же не проходил 4-ый МГС на запись?
-Dialogue: Marked=0, 0:06:08.78, 0:06:11.32, Default, {\c&HB469FF&}IlyaQ{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HB469FF&}IlyaQ{\c&HFFFFFF&}: йор мемес едн хир
-Dialogue: Marked=0, 0:06:09.30, 0:06:11.48, Default, {\c&H0045FF&}tallismanfsh{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H0045FF&}tallismanfsh{\c&HFFFFFF&}: !кусь
-Dialogue: Marked=0, 0:06:09.49, 0:06:12.87, Default, {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}: Я бы покусался, но скучаю по СВЧ-стримлеру :(
-Dialogue: Marked=0, 0:06:10.65, 0:06:13.34, Default, {\c&HFF901E&}dvalitra{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFF901E&}dvalitra{\c&HFFFFFF&}: artgam2AGHeavyHorns x⁣3
-Dialogue: Marked=0, 0:06:14.07, 0:06:16.25, Default, {\c&HFFFFFF&}Qvvear{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}Qvvear{\c&HFFFFFF&}: гений
-Dialogue: Marked=0, 0:06:17.77, 0:06:20.46, Default, {\c&HFF901E&}Quiet_Saturn{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFF901E&}Quiet_Saturn{\c&HFFFFFF&}: кодзима?! ит кент би!!
-Dialogue: Marked=0, 0:06:51.60, 0:06:54.41, Default, {\c&HFFFFFF&}Asfinks{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}Asfinks{\c&HFFFFFF&}: Годзима Гений! blackufaEgo
-Dialogue: Marked=0, 0:07:18.06, 0:07:22.01, Default, {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}: Я скучаю по стремлеру, чад! Давайте запустим меньше чем 3 в чат?
-Dialogue: Marked=0, 0:07:27.10, 0:07:29.67, Default, {\c&H0045FF&}Torranor{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H0045FF&}Torranor{\c&HFFFFFF&}: чтоооооооооооооооо
-Dialogue: Marked=0, 0:07:29.60, 0:07:31.69, Default, {\c&H20A5DA&}BlackUFA{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H20A5DA&}BlackUFA{\c&HFFFFFF&}: <3
-Dialogue: Marked=0, 0:07:32.84, 0:07:35.50, Default, {\c&HFF901E&}almasmukh{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFF901E&}almasmukh{\c&HFFFFFF&}: Соколов - гений Keepo
-Dialogue: Marked=0, 0:07:38.94, 0:07:41.03, Default, {\c&H0045FF&}Hambler55{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H0045FF&}Hambler55{\c&HFFFFFF&}: <3
-Dialogue: Marked=0, 0:07:40.16, 0:07:42.49, Default, {\c&HFFFFFF&}min_net_{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}min_net_{\c&HFFFFFF&}: дратуй чад
-Dialogue: Marked=0, 0:07:40.33, 0:07:42.51, Default, {\c&HFF901E&}Quiet_Saturn{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFF901E&}Quiet_Saturn{\c&HFFFFFF&}: <3 x⁣3
-Dialogue: Marked=0, 0:07:45.00, 0:07:47.18, Default, {\c&H0000FF&}runx{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H0000FF&}runx{\c&HFFFFFF&}: <3 <3
-Dialogue: Marked=0, 0:07:45.26, 0:07:47.41, Default, {\c&HFFFFFF&}Qvvear{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}Qvvear{\c&HFFFFFF&}: ниет
-Dialogue: Marked=0, 0:07:47.05, 0:07:49.14, Default, {\c&HB469FF&}IlyaQ{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HB469FF&}IlyaQ{\c&HFFFFFF&}: <3
-Dialogue: Marked=0, 0:07:50.86, 0:07:53.25, Default, {\c&HFF901E&}SlavMayer{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFF901E&}SlavMayer{\c&HFFFFFF&}: меньше чем 3
-Dialogue: Marked=0, 0:07:52.05, 0:07:54.29, Default, {\c&H0000FF&}lork28{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H0000FF&}lork28{\c&HFFFFFF&}: veldLUV
-Dialogue: Marked=0, 0:07:52.57, 0:07:54.66, Default, {\c&HFFFFFF&}Asfinks{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}Asfinks{\c&HFFFFFF&}: <3
-Dialogue: Marked=0, 0:07:52.96, 0:07:55.14, Default, {\c&HFFFFFF&}min_net_{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}min_net_{\c&HFFFFFF&}: <3 x⁣4
-Dialogue: Marked=0, 0:07:53.83, 0:07:55.92, Default, {\c&H0000FF&}KaDRiel_13{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H0000FF&}KaDRiel_13{\c&HFFFFFF&}: <3
-Dialogue: Marked=0, 0:07:54.00, 0:07:57.11, Default, {\c&HE22B8A&}UmiToko{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HE22B8A&}UmiToko{\c&HFFFFFF&}: @blackufa, спасибо большое за мгс 3!
-Dialogue: Marked=0, 0:07:57.03, 0:07:59.87, Default, {\c&HFF901E&}almasmukh{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFF901E&}almasmukh{\c&HFFFFFF&}: @BlackUFA Как отдыхается?))
-Dialogue: Marked=0, 0:08:02.54, 0:08:04.63, Default, {\c&HB469FF&}Jack_Reno{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HB469FF&}Jack_Reno{\c&HFFFFFF&}: Ай
-Dialogue: Marked=0, 0:08:03.48, 0:08:05.90, Default, {\c&HFF901E&}almasmukh{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFF901E&}almasmukh{\c&HFFFFFF&}: <3 evosayLove
-Dialogue: Marked=0, 0:08:07.50, 0:08:10.28, Default, {\c&H20A5DA&}BlackUFA{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H20A5DA&}BlackUFA{\c&HFFFFFF&}: побазарь тут blackufaRage
-Dialogue: Marked=0, 0:08:15.23, 0:08:18.85, Default, {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}: Наш сервер в Discord - https://discord.gg/fsofbsadw ●
-Dialogue: Marked=0, 0:08:21.09, 0:08:24.02, Default, {\c&HB469FF&}Jack_Reno{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HB469FF&}Jack_Reno{\c&HFFFFFF&}: Понял, больше не буду. WutFace
-Dialogue: Marked=0, 0:08:34.64, 0:08:37.00, Default, {\c&HA09E5F&}Severnaya_Utka{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HA09E5F&}Severnaya_Utka{\c&HFFFFFF&}: bleedPurple
-Dialogue: Marked=0, 0:08:37.00, 0:08:40.26, Default, {\c&HB469FF&}Jack_Reno{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HB469FF&}Jack_Reno{\c&HFFFFFF&}: Артур - лучший стример во всей Вселенной!
-Dialogue: Marked=0, 0:08:37.19, 0:08:40.18, Default, {\c&HFF901E&}Quiet_Saturn{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFF901E&}Quiet_Saturn{\c&HFFFFFF&}: @blackufa выздоравливаешь? SMOrc
-Dialogue: Marked=0, 0:08:45.78, 0:08:48.29, Default, {\c&H20A5DA&}BlackUFA{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H20A5DA&}BlackUFA{\c&HFFFFFF&}: @Jack_Reno lickL
-Dialogue: Marked=0, 0:09:15.44, 0:09:17.95, Default, {\c&HE22B8A&}UmiToko{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HE22B8A&}UmiToko{\c&HFFFFFF&}: @blackufa, lickL
-Dialogue: Marked=0, 0:09:20.70, 0:09:23.96, Default, {\c&HFFFFFF&}Qvvear{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}Qvvear{\c&HFFFFFF&}: стримлер и говорит и в чат пишет PogChamp
-Dialogue: Marked=0, 0:09:25.02, 0:09:28.22, Default, {\c&H32CD99&}STALLFISH{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H32CD99&}STALLFISH{\c&HFFFFFF&}: @BlackUFA ты с Дошей? Привет ей от нас)
-Dialogue: Marked=0, 0:09:30.97, 0:09:34.59, Default, {\c&HB469FF&}Jack_Reno{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HB469FF&}Jack_Reno{\c&HFFFFFF&}: М-м-м, семпай потрогал меня своим язычком... TehePelo
-Dialogue: Marked=0, 0:09:31.18, 0:09:33.54, Default, {\c&H20A5DA&}BlackUFA{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H20A5DA&}BlackUFA{\c&HFFFFFF&}: lickR lickL
-Dialogue: Marked=0, 0:09:31.95, 0:09:34.37, Default, {\c&HE22B8A&}woland_evil{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HE22B8A&}woland_evil{\c&HFFFFFF&}: Привет , Чат!
-Dialogue: Marked=0, 0:09:45.18, 0:09:48.08, Default, {\c&HE22B8A&}woland_evil{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HE22B8A&}woland_evil{\c&HFFFFFF&}: сидим и скучаем по стримлеру?
-Dialogue: Marked=0, 0:09:55.33, 0:09:59.64, Default, {\c&H0045FF&}Torranor{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H0045FF&}Torranor{\c&HFFFFFF&}: но ведь оно же не завершено, я ведь прав ? там всего 3 серии было так ведь ?
-Dialogue: Marked=0, 0:09:58.23, 0:10:00.98, Default, {\c&H20A5DA&}BlackUFA{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H20A5DA&}BlackUFA{\c&HFFFFFF&}: чат lickR lickL стримлер
-Dialogue: Marked=0, 0:10:00.32, 0:10:04.06, Default, {\c&HFF901E&}SlavMayer{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFF901E&}SlavMayer{\c&HFFFFFF&}: @BlackUFA когда-нибудь стоит ждать прохождение 4-ого мгс?
-Dialogue: Marked=0, 0:10:03.48, 0:10:07.01, Default, {\c&H7FFF00&}LevRight{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H7FFF00&}LevRight{\c&HFFFFFF&}: почему уведомления премьер не приходят NotLikeThis
-Dialogue: Marked=0, 0:10:04.64, 0:10:06.73, Default, {\c&H008000&}andrey31458{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H008000&}andrey31458{\c&HFFFFFF&}: да
-Dialogue: Marked=0, 0:10:05.84, 0:10:08.41, Default, {\c&HFF0000&}Dimhuk{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFF0000&}Dimhuk{\c&HFFFFFF&}: blackufaPuke lickL
-Dialogue: Marked=0, 0:10:06.17, 0:10:08.89, Default, {\c&HFFFFFF&}xStake13x{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}xStake13x{\c&HFFFFFF&}: а когда этот стрим был?
-Dialogue: Marked=0, 0:10:08.77, 0:10:11.55, Default, {\c&HFFFFFF&}zavodgames{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}zavodgames{\c&HFFFFFF&}: привет артур привет чатик
-Dialogue: Marked=0, 0:10:11.35, 0:10:13.89, Default, {\c&HB469FF&}Jack_Reno{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HB469FF&}Jack_Reno{\c&HFFFFFF&}: lickR @Chad lickL
-Dialogue: Marked=0, 0:10:14.25, 0:10:17.45, Default, {\c&HB469FF&}IlyaQ{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HB469FF&}IlyaQ{\c&HFFFFFF&}: @woland_evil Привет, да нет, не скучаем
-Dialogue: Marked=0, 0:10:14.69, 0:10:16.87, Default, {\c&HFFFFFF&}min_net_{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}min_net_{\c&HFFFFFF&}: lickR
-Dialogue: Marked=0, 0:10:19.92, 0:10:22.70, Default, {\c&HFF901E&}almasmukh{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFF901E&}almasmukh{\c&HFFFFFF&}: Solviet Shagohot PogChamp
-Dialogue: Marked=0, 0:10:27.01, 0:10:29.97, Default, {\c&HE22B8A&}UmiToko{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HE22B8A&}UmiToko{\c&HFFFFFF&}: @xstake13x, его никогда не было
-Dialogue: Marked=0, 0:10:27.70, 0:10:30.63, Default, {\c&HE22B8A&}woland_evil{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HE22B8A&}woland_evil{\c&HFFFFFF&}: Гайз,это же запись FailFish x⁣3
-Dialogue: Marked=0, 0:10:36.36, 0:10:40.19, Default, {\c&HFFFFFF&}razienn21{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}razienn21{\c&HFFFFFF&}: @BlackUFA может стоит перепройти одну из частей MGS PogChamp
-Dialogue: Marked=0, 0:10:40.30, 0:10:42.54, Default, {\c&HE22B8A&}UmiToko{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HE22B8A&}UmiToko{\c&HFFFFFF&}: BLELELE
-Dialogue: Marked=0, 0:10:41.13, 0:10:43.76, Default, {\c&H0000FF&}runx{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H0000FF&}runx{\c&HFFFFFF&}: lickR стримлер lickL
-Dialogue: Marked=0, 0:10:44.48, 0:10:47.23, Default, {\c&HB469FF&}Jack_Reno{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HB469FF&}Jack_Reno{\c&HFFFFFF&}: @woland_evil в смы-ысле?
-Dialogue: Marked=0, 0:10:50.35, 0:10:53.40, Default, {\c&HFFFFFF&}Qvvear{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}Qvvear{\c&HFFFFFF&}: @woland_evil че умный самый? SMOrc
-Dialogue: Marked=0, 0:10:52.07, 0:10:55.27, Default, {\c&HFF901E&}almasmukh{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFF901E&}almasmukh{\c&HFFFFFF&}: @woland_evil Держи в курсе CoolStoryBob
-Dialogue: Marked=0, 0:10:57.73, 0:11:00.30, Default, {\c&H7FFF00&}mesmallman{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H7FFF00&}mesmallman{\c&HFFFFFF&}: а это что? прямое?
-Dialogue: Marked=0, 0:10:58.65, 0:11:02.69, Default, {\c&H0000FF&}Demonic_smile{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H0000FF&}Demonic_smile{\c&HFFFFFF&}: Не нравится мне этот метал гир wlgFace всем привет, фанаты не бейте
-Dialogue: Marked=0, 0:11:08.07, 0:11:10.76, Default, {\c&HB469FF&}IlyaQ{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HB469FF&}IlyaQ{\c&HFFFFFF&}: @woland_evil бан SMOrc
-Dialogue: Marked=0, 0:11:13.06, 0:11:17.55, Default, {\c&HE22B8A&}woland_evil{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HE22B8A&}woland_evil{\c&HFFFFFF&}: Ну, тут далеко не все врубаются, что запись, так шо не надо тут на меня KappaPride
-Dialogue: Marked=0, 0:11:13.95, 0:11:16.64, Default, {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}: Эх, чад, рекламу бы...
-Dialogue: Marked=0, 0:11:15.04, 0:11:18.27, Default, {\c&H32CD99&}STALLFISH{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H32CD99&}STALLFISH{\c&HFFFFFF&}: @woland_evil мы как бы в курсе вообще-то
-Dialogue: Marked=0, 0:11:19.75, 0:11:22.89, Default, {\c&HFF901E&}almasmukh{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFF901E&}almasmukh{\c&HFFFFFF&}: @Demonic_smile SMOrc smileborodHammer
-Dialogue: Marked=0, 0:11:27.73, 0:11:31.29, Default, {\c&HE22B8A&}UmiToko{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HE22B8A&}UmiToko{\c&HFFFFFF&}: @demonic_smile, а мне нравится именно из-за Оцелота
-Dialogue: Marked=0, 0:11:32.85, 0:11:37.37, Default, {\c&HB469FF&}Jack_Reno{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HB469FF&}Jack_Reno{\c&HFFFFFF&}: @Demonic_smile ну, он похож больше на Бондиану, нежели на "классический" метал гир.
-Dialogue: Marked=0, 0:11:34.68, 0:11:36.92, Default, {\c&H20A5DA&}BlackUFA{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H20A5DA&}BlackUFA{\c&HFFFFFF&}: чат .i.
-Dialogue: Marked=0, 0:11:43.55, 0:11:45.85, Default, {\c&HFFFFFF&}Qvvear{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}Qvvear{\c&HFFFFFF&}: сам такой
-Dialogue: Marked=0, 0:11:45.50, 0:11:49.51, Default, {\c&HE22B8A&}your_pirojok{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HE22B8A&}your_pirojok{\c&HFFFFFF&}: Здрасти чад, Добра и позитива! evosayLove hehCat hehKus hehL Keepo
-Dialogue: Marked=0, 0:11:49.09, 0:11:51.78, Default, {\c&H0044FF&}Mr_Ramych{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H0044FF&}Mr_Ramych{\c&HFFFFFF&}: @blackufa eligorkoEvil
-Dialogue: Marked=0, 0:11:52.67, 0:11:55.15, Default, {\c&HB469FF&}Jack_Reno{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HB469FF&}Jack_Reno{\c&HFFFFFF&}: @BlackUFA lickL
-Dialogue: Marked=0, 0:11:53.91, 0:11:56.39, Default, {\c&HFFFFFF&}h1dewhat{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}h1dewhat{\c&HFFFFFF&}: @BlackUFA SMOrc
-Dialogue: Marked=0, 0:11:55.09, 0:11:59.19, Default, {\c&HFFFFFF&}Asfinks{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}Asfinks{\c&HFFFFFF&}: Скучаем? не. не слышал. Вот он тут. Сидит, молчит. чатик тролит SMOrc
-Dialogue: Marked=0, 0:11:56.08, 0:11:58.71, Default, {\c&HB469FF&}IlyaQ{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HB469FF&}IlyaQ{\c&HFFFFFF&}: @blackufa KappaPride
-Dialogue: Marked=0, 0:11:59.74, 0:12:02.40, Default, {\c&H32CD99&}STALLFISH{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H32CD99&}STALLFISH{\c&HFFFFFF&}: @BlackUFA сам такой))
-Dialogue: Marked=0, 0:12:01.27, 0:12:03.96, Default, {\c&H0000FF&}Demonic_smile{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H0000FF&}Demonic_smile{\c&HFFFFFF&}: @blackufa сам ты пипка
-Dialogue: Marked=0, 0:12:05.35, 0:12:07.98, Default, {\c&H7FFF00&}mesmallman{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H7FFF00&}mesmallman{\c&HFFFFFF&}: @blackufa как отдых?
-Dialogue: Marked=0, 0:12:06.24, 0:12:08.78, Default, {\c&HE22B8A&}your_pirojok{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HE22B8A&}your_pirojok{\c&HFFFFFF&}: @blackufa hehF x⁣3
-Dialogue: Marked=0, 0:12:09.04, 0:12:13.98, Default, {\c&HFFFFFF&}razienn21{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}razienn21{\c&HFFFFFF&}: @Demonic_smile тоже не понимал серию потом после того как взял плойку у друга и как то занесло :P
-Dialogue: Marked=0, 0:12:11.86, 0:12:14.04, Default, {\c&H20A5DA&}BlackUFA{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H20A5DA&}BlackUFA{\c&HFFFFFF&}: хмммм
-Dialogue: Marked=0, 0:12:14.97, 0:12:17.30, Default, {\c&H20A5DA&}BlackUFA{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H20A5DA&}BlackUFA{\c&HFFFFFF&}: а что если
-Dialogue: Marked=0, 0:12:15.27, 0:12:18.14, Default, {\c&H008000&}vsplivshiypes{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H008000&}vsplivshiypes{\c&HFFFFFF&}: @BlackUFA You're pretty good
-Dialogue: Marked=0, 0:12:20.82, 0:12:23.60, Default, {\c&HA09E5F&}Severnaya_Utka{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HA09E5F&}Severnaya_Utka{\c&HFFFFFF&}: @BlackUFA blackufaShocked
-Dialogue: Marked=0, 0:12:21.68, 0:12:24.34, Default, {\c&HE22B8A&}UmiToko{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HE22B8A&}UmiToko{\c&HFFFFFF&}: стример чат не читает
-Dialogue: Marked=0, 0:12:27.02, 0:12:29.32, Default, {\c&H20A5DA&}BlackUFA{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H20A5DA&}BlackUFA{\c&HFFFFFF&}: lickR .i.
-Dialogue: Marked=0, 0:12:31.72, 0:12:34.20, Default, {\c&HB469FF&}Jack_Reno{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HB469FF&}Jack_Reno{\c&HFFFFFF&}: Не надо сабмода
-Dialogue: Marked=0, 0:12:32.59, 0:12:34.71, Default, {\c&H20A5DA&}BlackUFA{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H20A5DA&}BlackUFA{\c&HFFFFFF&}: LUL
-Dialogue: Marked=0, 0:12:40.16, 0:12:42.97, Default, {\c&HE22B8A&}your_pirojok{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HE22B8A&}your_pirojok{\c&HFFFFFF&}: @blackufa hehSh x⁣3 hehF x⁣3
-Dialogue: Marked=0, 0:12:41.13, 0:12:43.67, Default, {\c&HFFFFFF&}min_net_{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}min_net_{\c&HFFFFFF&}: lickR RareW lickL
-Dialogue: Marked=0, 0:12:41.70, 0:12:44.09, Default, {\c&HFFFFFF&}sort_geraina{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}sort_geraina{\c&HFFFFFF&}: чооооооооооо
-Dialogue: Marked=0, 0:12:43.17, 0:12:46.73, Default, {\c&HA09E5F&}cheburator0606{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HA09E5F&}cheburator0606{\c&HFFFFFF&}: @blackufa о Артур, удачного отдыха, скучно без нас?
-Dialogue: Marked=0, 0:12:46.06, 0:12:48.90, Default, {\c&HFF901E&}almasmukh{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFF901E&}almasmukh{\c&HFFFFFF&}: @BlackUFA evosayStupido LUL
-Dialogue: Marked=0, 0:12:46.26, 0:12:48.62, Default, {\c&HFF901E&}Quiet_Saturn{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFF901E&}Quiet_Saturn{\c&HFFFFFF&}: воу воу LUL
-Dialogue: Marked=0, 0:12:46.79, 0:12:49.30, Default, {\c&HFFFFFF&}sort_geraina{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}sort_geraina{\c&HFFFFFF&}: не вы это видели
-Dialogue: Marked=0, 0:12:47.62, 0:12:50.10, Default, {\c&HFFFFFF&}Asfinks{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}Asfinks{\c&HFFFFFF&}: что если? lickR
-Dialogue: Marked=0, 0:12:48.38, 0:12:50.68, Default, {\c&HFF901E&}MeX4NiK_{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFF901E&}MeX4NiK_{\c&HFFFFFF&}: gachiBASS
-Dialogue: Marked=0, 0:12:48.46, 0:12:50.91, Default, {\c&HFFFFFF&}Qvvear{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}Qvvear{\c&HFFFFFF&}: Артур, ты пьян
-Dialogue: Marked=0, 0:12:50.52, 0:12:52.97, Default, {\c&HFFFFFF&}sort_geraina{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}sort_geraina{\c&HFFFFFF&}: это не увжение
-Dialogue: Marked=0, 0:12:50.85, 0:12:53.03, Default, {\c&HFFFFFF&}WiseDolphin321{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}WiseDolphin321{\c&HFFFFFF&}: lickL
-Dialogue: Marked=0, 0:12:53.45, 0:12:55.63, Default, {\c&HFFFFFF&}sort_geraina{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}sort_geraina{\c&HFFFFFF&}: к нам
-Dialogue: Marked=0, 0:12:55.49, 0:12:58.33, Default, {\c&H0000FF&}runx{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H0000FF&}runx{\c&HFFFFFF&}: стример не чсв читает Kappa
-Dialogue: Marked=0, 0:12:56.37, 0:12:59.72, Default, {\c&HFFFFFF&}razienn21{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}razienn21{\c&HFFFFFF&}: @BlackUFA Блэк ты красивый пиписьки не кидай
-Dialogue: Marked=0, 0:12:57.12, 0:12:59.39, Default, {\c&HFFFFFF&}sort_geraina{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}sort_geraina{\c&HFFFFFF&}: нонсабом
-Dialogue: Marked=0, 0:12:58.71, 0:13:01.67, Default, {\c&HB469FF&}Jack_Reno{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HB469FF&}Jack_Reno{\c&HFFFFFF&}: М-м-м... Морковка Ноктиса lickL
-Dialogue: Marked=0, 0:13:00.70, 0:13:02.85, Default, {\c&HFFFFFF&}sort_geraina{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}sort_geraina{\c&HFFFFFF&}: БУНД
-Dialogue: Marked=0, 0:13:02.63, 0:13:05.38, Default, {\c&H0000FF&}Demonic_smile{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H0000FF&}Demonic_smile{\c&HFFFFFF&}: wlgFace Артур 50 годиков
-Dialogue: Marked=0, 0:13:04.64, 0:13:07.69, Default, {\c&H7FFF00&}mesmallman{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H7FFF00&}mesmallman{\c&HFFFFFF&}: там скоро геймплей cyberpunk будет
-Dialogue: Marked=0, 0:13:05.26, 0:13:09.57, Default, {\c&H578B2E&}Spitsnaz_Soldier{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H578B2E&}Spitsnaz_Soldier{\c&HFFFFFF&}: Только зашел, а тут первое же сообщение от Артура вотэтовот яяяяяяясно Kappa
-Dialogue: Marked=0, 0:13:07.92, 0:13:11.96, Default, {\c&H0000FF&}AlexDee2013{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H0000FF&}AlexDee2013{\c&HFFFFFF&}: только сегодня начал пересматривать мгс, вот и Артур подрубил Kappa
-Dialogue: Marked=0, 0:13:14.45, 0:13:17.32, Default, {\c&H0000FF&}VLADTURING{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H0000FF&}VLADTURING{\c&HFFFFFF&}: @BlackUFA привет skoomaRk800
-Dialogue: Marked=0, 0:13:14.53, 0:13:16.71, Default, {\c&HFFFFFF&}Asfinks{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}Asfinks{\c&HFFFFFF&}: lickL
-Dialogue: Marked=0, 0:13:16.04, 0:13:19.33, Default, {\c&H7FFF00&}LevRight{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H7FFF00&}LevRight{\c&HFFFFFF&}: биг босс еще так молод и наивен BibleThump
-Dialogue: Marked=0, 0:13:27.16, 0:13:30.99, Default, {\c&H32CD99&}STALLFISH{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H32CD99&}STALLFISH{\c&HFFFFFF&}: @cheburator0606 я думаю мы его уже задрали, вот и отдыхает))
-Dialogue: Marked=0, 0:13:33.63, 0:13:36.32, Default, {\c&HFF0000&}Dimka90{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFF0000&}Dimka90{\c&HFFFFFF&}: Привет чат. blackufaHi
-Dialogue: Marked=0, 0:13:36.47, 0:13:40.93, Default, {\c&H0045FF&}Torranor{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H0045FF&}Torranor{\c&HFFFFFF&}: Эта боль ведь до прохождения MGS3 еще очень долго если верить конами с ремасеторм
-Dialogue: Marked=0, 0:13:42.79, 0:13:45.93, Default, {\c&HE22B8A&}UmiToko{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HE22B8A&}UmiToko{\c&HFFFFFF&}: я так жду мгс4 от Артура FeelsRainMan
-Dialogue: Marked=0, 0:13:45.02, 0:13:47.59, Default, {\c&HFF0000&}Dimhuk{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFF0000&}Dimhuk{\c&HFFFFFF&}: blackufaPuke lickL
-Dialogue: Marked=0, 0:13:48.94, 0:13:51.57, Default, {\c&HFFFFFF&}Asfinks{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}Asfinks{\c&HFFFFFF&}: СУНЕЙК! blackufaRage
-Dialogue: Marked=0, 0:14:01.78, 0:14:06.30, Default, {\c&HE22B8A&}serhigobi{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HE22B8A&}serhigobi{\c&HFFFFFF&}: Ничоси Артур нормально разговаривает так вот он какой был до чата PogChamp PogChamp
-Dialogue: Marked=0, 0:14:15.72, 0:14:18.56, Default, {\c&HFF901E&}Quiet_Saturn{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFF901E&}Quiet_Saturn{\c&HFFFFFF&}: болтливый биг босс Kreygasm
-Dialogue: Marked=0, 0:14:24.93, 0:14:28.34, Default, {\c&H0000FF&}runx{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H0000FF&}runx{\c&HFFFFFF&}: а полное прохождение мгс 3 сколько серий? две?
-Dialogue: Marked=0, 0:14:28.85, 0:14:31.93, Default, {\c&H0045FF&}Torranor{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H0045FF&}Torranor{\c&HFFFFFF&}: @UmiToko как я тебя понимаю PepeWhy
-Dialogue: Marked=0, 0:14:34.95, 0:14:38.51, Default, {\c&HFFFFFF&}razienn21{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}razienn21{\c&HFFFFFF&}: там какая то трансляция Cyberpunk 2077 от CDprojekt
-Dialogue: Marked=0, 0:14:54.12, 0:14:56.63, Default, {\c&HFFFFFF&}fenixarmory{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}fenixarmory{\c&HFFFFFF&}: teatheKhajiit x⁣6
-Dialogue: Marked=0, 0:14:58.76, 0:15:02.68, Default, {\c&HE22B8A&}UmiToko{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HE22B8A&}UmiToko{\c&HFFFFFF&}: @razienn21, ага нобор когда какого-то ничоси вот это трансляция
-Dialogue: Marked=0, 0:14:59.32, 0:15:01.74, Default, {\c&HA09E5F&}Severnaya_Utka{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HA09E5F&}Severnaya_Utka{\c&HFFFFFF&}: Крууутоой о.о
-Dialogue: Marked=0, 0:15:04.46, 0:15:07.48, Default, {\c&HB469FF&}eromanga_chan{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HB469FF&}eromanga_chan{\c&HFFFFFF&}: @razienn21 геймплей будет в 20:00
-Dialogue: Marked=0, 0:15:06.99, 0:15:09.29, Default, {\c&HFFFFFF&}Based_Magapede{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}Based_Magapede{\c&HFFFFFF&}: Ckya blat
-Dialogue: Marked=0, 0:15:10.51, 0:15:13.26, Default, {\c&H7FFF00&}mesmallman{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H7FFF00&}mesmallman{\c&HFFFFFF&}: @torranor геймплей будет
-Dialogue: Marked=0, 0:15:12.33, 0:15:15.26, Default, {\c&HFFFFFF&}Based_Magapede{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}Based_Magapede{\c&HFFFFFF&}: thats the extent of my russian
-Dialogue: Marked=0, 0:15:20.36, 0:15:23.68, Default, {\c&HFFFFFF&}razienn21{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}razienn21{\c&HFFFFFF&}: Тося еще такая молодая и наивная BibleThump
-Dialogue: Marked=0, 0:15:22.62, 0:15:25.40, Default, {\c&HFF901E&}Quiet_Saturn{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFF901E&}Quiet_Saturn{\c&HFFFFFF&}: Тоось, ну Тооось, ну уйди
-Dialogue: Marked=0, 0:15:32.58, 0:15:37.58, Default, {\c&HB469FF&}Jack_Reno{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HB469FF&}Jack_Reno{\c&HFFFFFF&}: Кстати, Чад. Расскажите, кто в этом году уезжает учиться? CoolStoryBob Я, вот, сам 31 августа прощаюсь с Артурой. Буду скучать. BibleThump
-Dialogue: Marked=0, 0:15:34.99, 0:15:37.32, Default, {\c&H0000FF&}MrRavingRabbit{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H0000FF&}MrRavingRabbit{\c&HFFFFFF&}: хейтер -_-
-Dialogue: Marked=0, 0:15:35.21, 0:15:37.81, Default, {\c&H20A5DA&}BlackUFA{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H20A5DA&}BlackUFA{\c&HFFFFFF&}: @Based_Magapede wow
-Dialogue: Marked=0, 0:15:46.31, 0:15:49.03, Default, {\c&HFFFFFF&}Asfinks{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}Asfinks{\c&HFFFFFF&}: СУНЕЙК!!!! blackufaRage
-Dialogue: Marked=0, 0:15:46.51, 0:15:50.19, Default, {\c&HFF901E&}hawbiguse{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFF901E&}hawbiguse{\c&HFFFFFF&}: в конце окажется что снейк клон оригинального биг босса
-Dialogue: Marked=0, 0:15:51.87, 0:15:55.13, Default, {\c&HB469FF&}eromanga_chan{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HB469FF&}eromanga_chan{\c&HFFFFFF&}: @Based_Magapede and you misspelled it lol
-Dialogue: Marked=0, 0:15:51.92, 0:15:55.39, Default, {\c&HFFFFFF&}razienn21{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}razienn21{\c&HFFFFFF&}: @eromanga_chan знаешь почему все пишут !join LuL
-Dialogue: Marked=0, 0:15:53.73, 0:15:57.47, Default, {\c&HFFFFFF&}sort_geraina{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}sort_geraina{\c&HFFFFFF&}: вы все слышали надо войну против артура сам аоьуо сказал*
-Dialogue: Marked=0, 0:15:55.07, 0:15:57.49, Default, {\c&HFFFFFF&}h1dewhat{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}h1dewhat{\c&HFFFFFF&}: ты копируешь?
-Dialogue: Marked=0, 0:15:56.07, 0:15:58.97, Default, {\c&H0045FF&}Torranor{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H0045FF&}Torranor{\c&HFFFFFF&}: @mesmallman эм гейплей чего ?
-Dialogue: Marked=0, 0:15:58.48, 0:16:01.20, Default, {\c&HFFFFFF&}fenixarmory{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}fenixarmory{\c&HFFFFFF&}: @blackufa teatheKhajiit
-Dialogue: Marked=0, 0:15:59.94, 0:16:02.87, Default, {\c&H7FFF00&}mesmallman{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H7FFF00&}mesmallman{\c&HFFFFFF&}: @jack_reno я закончит, работаю
-Dialogue: Marked=0, 0:16:10.95, 0:16:14.75, Default, {\c&HE22B8A&}UmiToko{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HE22B8A&}UmiToko{\c&HFFFFFF&}: @jack_reno, уезжаю и возвращаюсь каждый день домой к Артуру
-Dialogue: Marked=0, 0:16:11.82, 0:16:14.42, Default, {\c&H7FFF00&}mesmallman{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H7FFF00&}mesmallman{\c&HFFFFFF&}: @torranor cyberpunk
-Dialogue: Marked=0, 0:16:14.09, 0:16:17.29, Default, {\c&HB469FF&}Jack_Reno{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HB469FF&}Jack_Reno{\c&HFFFFFF&}: @hawbiguse you picked wrong game, fool!
-Dialogue: Marked=0, 0:16:25.95, 0:16:28.46, Default, {\c&H7FFF00&}LevRight{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H7FFF00&}LevRight{\c&HFFFFFF&}: снейк KomodoHype
-Dialogue: Marked=0, 0:16:35.95, 0:16:38.49, Default, {\c&H0000FF&}QuiteRaven{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H0000FF&}QuiteRaven{\c&HFFFFFF&}: Голый снейк АЗАЗА
-Dialogue: Marked=0, 0:16:39.35, 0:16:41.80, Default, {\c&H0045FF&}Torranor{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H0045FF&}Torranor{\c&HFFFFFF&}: @mesmallman kk
-Dialogue: Marked=0, 0:16:45.18, 0:16:50.18, Default, {\c&HFFFFFF&}Based_Magapede{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}Based_Magapede{\c&HFFFFFF&}: Its not my fault. THe only russian people i know are meddling in muh elections, so they dont speak russian.
-Dialogue: Marked=0, 0:16:48.12, 0:16:50.93, Default, {\c&H0000FF&}MrRavingRabbit{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H0000FF&}MrRavingRabbit{\c&HFFFFFF&}: снейк? снейк? СНЕЕЕЕЕЕЕЕЙК
-Dialogue: Marked=0, 0:16:49.25, 0:16:52.48, Default, {\c&HFF901E&}hawbiguse{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFF901E&}hawbiguse{\c&HFFFFFF&}: @Jack_Reno ах да это будет после 4 части
-Dialogue: Marked=0, 0:16:50.55, 0:16:52.85, Default, {\c&H0044FF&}Mr_Ramych{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H0044FF&}Mr_Ramych{\c&HFFFFFF&}: Стелс LUL
-Dialogue: Marked=0, 0:16:52.28, 0:16:55.60, Default, {\c&HB469FF&}Jack_Reno{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HB469FF&}Jack_Reno{\c&HFFFFFF&}: Интересно "Major Tom" - это отсылка к Боуи?
-Dialogue: Marked=0, 0:16:53.64, 0:16:58.07, Default, {\c&HFFFFFF&}arthurezessg{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}arthurezessg{\c&HFFFFFF&}: Ох уж этот молоденький,сладкий, тоненький голосок Артура, о да Семпай, продолжай
-Dialogue: Marked=0, 0:16:54.91, 0:16:57.75, Default, {\c&H0000FF&}deemasus{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H0000FF&}deemasus{\c&HFFFFFF&}: ground control to major tom
-Dialogue: Marked=0, 0:16:55.48, 0:16:58.05, Default, {\c&HFFFFFF&}fenixarmory{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}fenixarmory{\c&HFFFFFF&}: teatheKhajiit Snek
-Dialogue: Marked=0, 0:17:10.49, 0:17:13.30, Default, {\c&HFF901E&}Volzhsky_ratnik{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFF901E&}Volzhsky_ratnik{\c&HFFFFFF&}: Чат напомни когда это было
-Dialogue: Marked=0, 0:17:12.52, 0:17:15.21, Default, {\c&H0000FF&}MrRavingRabbit{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H0000FF&}MrRavingRabbit{\c&HFFFFFF&}: @Based_Magapede ask em
-Dialogue: Marked=0, 0:17:13.17, 0:17:15.32, Default, {\c&HE22B8A&}Jusepist{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HE22B8A&}Jusepist{\c&HFFFFFF&}: Snek
-Dialogue: Marked=0, 0:17:25.50, 0:17:28.28, Default, {\c&HFF901E&}hawbiguse{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFF901E&}hawbiguse{\c&HFFFFFF&}: не майор том а майор зиро
-Dialogue: Marked=0, 0:17:26.87, 0:17:31.87, Default, {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}: Подписки теперь можно дарить сразу нескольким людям! Сделай мир светлей, сделай нонсабов счастливее, а Блэка - популярнее. Ну типа камон.
-Dialogue: Marked=0, 0:17:31.71, 0:17:34.34, Default, {\c&HFFFFFF&}Asfinks{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}Asfinks{\c&HFFFFFF&}: СТЭЙК!!!! KomodoHype
-Dialogue: Marked=0, 0:17:45.24, 0:17:48.26, Default, {\c&HE22B8A&}UmiToko{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HE22B8A&}UmiToko{\c&HFFFFFF&}: @volzhsky_ratnik, 2013-2015 вроде
-Dialogue: Marked=0, 0:17:49.45, 0:17:51.63, Default, {\c&HFFFFFF&}Asfinks{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}Asfinks{\c&HFFFFFF&}: !кусь
-Dialogue: Marked=0, 0:17:49.71, 0:17:53.09, Default, {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}: Я бы покусался, но скучаю по СВЧ-стримлеру :(
-Dialogue: Marked=0, 0:18:05.03, 0:18:07.21, Default, {\c&HB469FF&}mrSupermanOV{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HB469FF&}mrSupermanOV{\c&HFFFFFF&}: !time
-Dialogue: Marked=0, 0:18:05.32, 0:18:08.85, Default, {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}: Передаем в СВЧ-диапазоне уже 18 minutes 47 seconds
-Dialogue: Marked=0, 0:18:05.77, 0:18:08.61, Default, {\c&HE22B8A&}Jusepist{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HE22B8A&}Jusepist{\c&HFFFFFF&}: Ground control to major Tom
-Dialogue: Marked=0, 0:18:05.96, 0:18:10.09, Default, {\c&H20A5DA&}BlackUFA{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H20A5DA&}BlackUFA{\c&HFFFFFF&}: как этот стримлер был хорош! Жаль, что с годами испортился blackufaCry
-Dialogue: Marked=0, 0:18:21.52, 0:18:25.41, Default, {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}: The alias you set this command to be of, !sub, does not exist.
-Dialogue: Marked=0, 0:18:23.76, 0:18:27.41, Default, {\c&H0000FF&}Demonic_smile{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H0000FF&}Demonic_smile{\c&HFFFFFF&}: Кстати, кто в курсе, что за стрим устроили сд прожект?
-Dialogue: Marked=0, 0:18:27.68, 0:18:32.68, Default, {\c&HB469FF&}Jack_Reno{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HB469FF&}Jack_Reno{\c&HFFFFFF&}: Ладно, пойду я досматривать первую часть прохождения и начну вторую, чтобы было к чему возвращаться. Буду скучать, Чад. BibleThump Артур, я цалую тобе в пупочку. BibleThump
-Dialogue: Marked=0, 0:18:47.92, 0:18:51.57, Default, {\c&HB469FF&}eromanga_chan{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HB469FF&}eromanga_chan{\c&HFFFFFF&}: @razienn21 не знаю, но на всякий тоже написал cmonBruh
-Dialogue: Marked=0, 0:18:47.97, 0:18:51.98, Default, {\c&HB469FF&}mrSupermanOV{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HB469FF&}mrSupermanOV{\c&HFFFFFF&}: @blackufa Стримлер как вино, хорошеет со временем. Как омское вино
-Dialogue: Marked=0, 0:18:50.64, 0:18:53.21, Default, {\c&H578B2E&}Spitsnaz_Soldier{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H578B2E&}Spitsnaz_Soldier{\c&HFFFFFF&}: Согласен - бан LUL
-Dialogue: Marked=0, 0:18:52.24, 0:18:55.98, Default, {\c&HFFFFFF&}Asfinks{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}Asfinks{\c&HFFFFFF&}: Да, тогда и стример был хорош и водка вкусная blackufaLuL
-Dialogue: Marked=0, 0:18:54.13, 0:18:56.82, Default, {\c&H2222B2&}The__REVerend__{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H2222B2&}The__REVerend__{\c&HFFFFFF&}: Пепе..... FeelsRainMan
-Dialogue: Marked=0, 0:19:03.40, 0:19:06.45, Default, {\c&HFFFFFF&}fenixarmory{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}fenixarmory{\c&HFFFFFF&}: @blackufa ТАК давай вернёммего!!!!
-Dialogue: Marked=0, 0:19:03.80, 0:19:06.19, Default, {\c&H20A5DA&}BlackUFA{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H20A5DA&}BlackUFA{\c&HFFFFFF&}: всем бан LUL
-Dialogue: Marked=0, 0:19:13.24, 0:19:16.05, Default, {\c&HB469FF&}Jack_Reno{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HB469FF&}Jack_Reno{\c&HFFFFFF&}: @Asfinks и доллар по 35...
-Dialogue: Marked=0, 0:19:14.57, 0:19:17.53, Default, {\c&H32CD99&}STALLFISH{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H32CD99&}STALLFISH{\c&HFFFFFF&}: @BlackUFA че обиделся? шютк же)
-Dialogue: Marked=0, 0:19:18.30, 0:19:21.92, Default, {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}: Наш сервер в Discord - https://discord.gg/fsofbsadw ●
-Dialogue: Marked=0, 0:19:20.25, 0:19:22.82, Default, {\c&HFF0000&}Dimhuk{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFF0000&}Dimhuk{\c&HFFFFFF&}: blackufaPuke lickL
-Dialogue: Marked=0, 0:19:20.52, 0:19:23.45, Default, {\c&HE22B8A&}serhigobi{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HE22B8A&}serhigobi{\c&HFFFFFF&}: Артурка с годами только крепче
-Dialogue: Marked=0, 0:19:21.19, 0:19:23.55, Default, {\c&H0000FF&}Solarisbellator{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H0000FF&}Solarisbellator{\c&HFFFFFF&}: Всем привет
-Dialogue: Marked=0, 0:19:27.36, 0:19:29.69, Default, {\c&HE22B8A&}topoly2{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HE22B8A&}topoly2{\c&HFFFFFF&}: привет Бэк
-Dialogue: Marked=0, 0:19:30.52, 0:19:35.28, Default, {\c&HE22B8A&}glaswen{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HE22B8A&}glaswen{\c&HFFFFFF&}: стример настолько чсв стал, что смотрит трансляции записи своих старых прохождений Kappa <3
-Dialogue: Marked=0, 0:19:34.91, 0:19:37.30, Default, {\c&H20A5DA&}BlackUFA{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H20A5DA&}BlackUFA{\c&HFFFFFF&}: привет фронт
-Dialogue: Marked=0, 0:19:35.04, 0:19:37.28, Default, {\c&HE22B8A&}topoly2{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HE22B8A&}topoly2{\c&HFFFFFF&}: шо это?
-Dialogue: Marked=0, 0:19:48.20, 0:19:52.39, Default, {\c&HB469FF&}IlyaQ{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HB469FF&}IlyaQ{\c&HFFFFFF&}: @demonic_smile стрим написания кода для батл рояля во вселенной ведьмака
-Dialogue: Marked=0, 0:19:48.35, 0:19:51.52, Default, {\c&HFF901E&}Quiet_Saturn{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFF901E&}Quiet_Saturn{\c&HFFFFFF&}: а можно ли забанить сразу весь чад? хм
-Dialogue: Marked=0, 0:19:50.78, 0:19:54.22, Default, {\c&HE22B8A&}fivepointsgang{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HE22B8A&}fivepointsgang{\c&HFFFFFF&}: а чего он стримит, он же в отпуске CoolStoryBob
-Dialogue: Marked=0, 0:19:52.63, 0:19:55.74, Default, {\c&HFF901E&}Volzhsky_ratnik{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFF901E&}Volzhsky_ratnik{\c&HFFFFFF&}: @blackufa хорошего "остатка" отдыха)
-Dialogue: Marked=0, 0:20:01.87, 0:20:04.65, Default, {\c&H2222B2&}The__REVerend__{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H2222B2&}The__REVerend__{\c&HFFFFFF&}: "Стееееелс! Начало" Kappa
-Dialogue: Marked=0, 0:20:03.06, 0:20:06.56, Default, {\c&HFFFFFF&}gibljak{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}gibljak{\c&HFFFFFF&}: А жевачку и плейбой для подкупа местных ему дали?
-Dialogue: Marked=0, 0:20:03.15, 0:20:08.15, Default, {\c&HB469FF&}Jack_Reno{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HB469FF&}Jack_Reno{\c&HFFFFFF&}: Вообще, мужчины с годами только хорошеют. Они - как хорошее вино. Особенно, Артур. Когда Артуру станет 100 я его откупорю и тогда... KappaPride
-Dialogue: Marked=0, 0:20:08.80, 0:20:11.25, Default, {\c&HA09E5F&}sad_daniel{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HA09E5F&}sad_daniel{\c&HFFFFFF&}: Артур ! BegWan
-Dialogue: Marked=0, 0:20:12.85, 0:20:16.05, Default, {\c&HFFFFFF&}SloT124{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}SloT124{\c&HFFFFFF&}: Артурка, а когда непосредственно поток?
-Dialogue: Marked=0, 0:20:19.82, 0:20:22.48, Default, {\c&H0000FF&}Demonic_smile{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H0000FF&}Demonic_smile{\c&HFFFFFF&}: @ilyaq забавная шутка
-Dialogue: Marked=0, 0:20:19.95, 0:20:22.34, Default, {\c&H20A5DA&}BlackUFA{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H20A5DA&}BlackUFA{\c&HFFFFFF&}: когда приеду
-Dialogue: Marked=0, 0:20:27.16, 0:20:30.24, Default, {\c&HE22B8A&}topoly2{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HE22B8A&}topoly2{\c&HFFFFFF&}: это типо гайд по прохождению? Kappa
-Dialogue: Marked=0, 0:20:41.54, 0:20:45.34, Default, {\c&HE22B8A&}serhigobi{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HE22B8A&}serhigobi{\c&HFFFFFF&}: @blackufa в отпуске плохо? Зачем к нам смердам зашёл? Kappa
-Dialogue: Marked=0, 0:20:48.88, 0:20:52.62, Default, {\c&H32CD99&}STALLFISH{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H32CD99&}STALLFISH{\c&HFFFFFF&}: @BlackUFA Артур, а ты до какого числа примерно в отъезде?
-Dialogue: Marked=0, 0:20:52.59, 0:20:55.94, Default, {\c&HB469FF&}eromanga_chan{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HB469FF&}eromanga_chan{\c&HFFFFFF&}: @Jack_Reno что ты ему откупоришь? KappaPride
-Dialogue: Marked=0, 0:20:58.23, 0:21:02.63, Default, {\c&HFF901E&}Volzhsky_ratnik{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFF901E&}Volzhsky_ratnik{\c&HFFFFFF&}: Помню в игре можно секретную волную "собрать" и так играла великолепная песенка
-Dialogue: Marked=0, 0:21:01.32, 0:21:04.01, Default, {\c&HFF901E&}Quiet_Saturn{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFF901E&}Quiet_Saturn{\c&HFFFFFF&}: и очень короткое Kappa
-Dialogue: Marked=0, 0:21:04.95, 0:21:07.10, Default, {\c&HA09E5F&}sad_daniel{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HA09E5F&}sad_daniel{\c&HFFFFFF&}: до 3
-Dialogue: Marked=0, 0:21:07.25, 0:21:10.00, Default, {\c&HFFFFFF&}grognack_1st{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}grognack_1st{\c&HFFFFFF&}: @STALLFISH до 3 сентября
-Dialogue: Marked=0, 0:21:07.35, 0:21:10.97, Default, {\c&H0000FF&}0Samuro0{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H0000FF&}0Samuro0{\c&HFFFFFF&}: @BlackUFA спасибо за метал гииир) Приятно отдохнуть )
-Dialogue: Marked=0, 0:21:09.12, 0:21:12.11, Default, {\c&H20A5DA&}ViProtoTypee{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H20A5DA&}ViProtoTypee{\c&HFFFFFF&}: Я думал это прямой эфир FailFish
-Dialogue: Marked=0, 0:21:09.55, 0:21:12.90, Default, {\c&HFFFFFF&}sort_geraina{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}sort_geraina{\c&HFFFFFF&}: почему другой стримлер пришел на стрим этого
-Dialogue: Marked=0, 0:21:11.00, 0:21:13.45, Default, {\c&H0000FF&}Demonic_smile{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H0000FF&}Demonic_smile{\c&HFFFFFF&}: Игра с Ps one?
-Dialogue: Marked=0, 0:21:12.15, 0:21:15.62, Default, {\c&HFFFFFF&}SloT124{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}SloT124{\c&HFFFFFF&}: я видимо упустил это новость, по уши в работе :(
-Dialogue: Marked=0, 0:21:15.10, 0:21:17.52, Default, {\c&HA09E5F&}sad_daniel{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HA09E5F&}sad_daniel{\c&HFFFFFF&}: до 3 сентября
-Dialogue: Marked=0, 0:21:16.92, 0:21:20.75, Default, {\c&HFF0000&}DiGrays{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFF0000&}DiGrays{\c&HFFFFFF&}: Я даже помню это видео, там кажется дальше 3 серии не зашло(
-Dialogue: Marked=0, 0:21:17.53, 0:21:22.53, Default, {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}: Чад! Вступай в ряды гордых сабов! Что ты получишь за это? Мою персональную благодарностьв прямом эфире, значок Ктулхи рядом с ником, прорву крутейших смайлов и гордое звание саба.
-Dialogue: Marked=0, 0:21:20.68, 0:21:24.75, Default, {\c&HFFFFFF&}Asfinks{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}Asfinks{\c&HFFFFFF&}: Стример должен быть как вино. blackufaCoolStory Чат предложи почему.
-Dialogue: Marked=0, 0:21:23.76, 0:21:26.00, Default, {\c&H32CD99&}STALLFISH{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H32CD99&}STALLFISH{\c&HFFFFFF&}: Ясн спс
-Dialogue: Marked=0, 0:21:25.83, 0:21:30.20, Default, {\c&HB469FF&}Jack_Reno{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HB469FF&}Jack_Reno{\c&HFFFFFF&}: @eromanga_chan а тебе это совсем необязательно знать, судя по нику. KappaPride
-Dialogue: Marked=0, 0:21:32.02, 0:21:36.84, Default, {\c&HFFFFFF&}gibljak{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}gibljak{\c&HFFFFFF&}: @blackufa Я обычно избегаю звонков с работы в отпуске. Видимо действительно любишь свое дело.
-Dialogue: Marked=0, 0:21:32.53, 0:21:37.53, Default, {\c&HE22B8A&}fivepointsgang{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HE22B8A&}fivepointsgang{\c&HFFFFFF&}: @SloT124 Артур говорил что-то про 4 сентября если я ничего не путаю + может пара дней на прийти в себя, от стримера зависит
-Dialogue: Marked=0, 0:21:41.70, 0:21:45.05, Default, {\c&HB469FF&}Jack_Reno{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HB469FF&}Jack_Reno{\c&HFFFFFF&}: @eromanga_chan это сугубо мужская церемония.
-Dialogue: Marked=0, 0:21:46.00, 0:21:48.84, Default, {\c&HFFFFFF&}Boltlivi{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}Boltlivi{\c&HFFFFFF&}: @blackufa Хорошо отдохнуть!
-Dialogue: Marked=0, 0:21:52.38, 0:21:54.92, Default, {\c&HFFFFFF&}SloT124{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}SloT124{\c&HFFFFFF&}: Спасибо за инфу:)
-Dialogue: Marked=0, 0:22:03.66, 0:22:05.96, Default, {\c&H20A5DA&}BlackUFA{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H20A5DA&}BlackUFA{\c&HFFFFFF&}: lickR чат
-Dialogue: Marked=0, 0:22:05.46, 0:22:08.93, Default, {\c&HFFFFFF&}grognack_1st{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}grognack_1st{\c&HFFFFFF&}: @BlackUFA эот типо трансляция записи трансляции?
-Dialogue: Marked=0, 0:22:16.58, 0:22:20.05, Default, {\c&HE22B8A&}fivepointsgang{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HE22B8A&}fivepointsgang{\c&HFFFFFF&}: @SloT124 это в группе должно быть точно написано
-Dialogue: Marked=0, 0:22:17.79, 0:22:20.30, Default, {\c&H578B2E&}Spitsnaz_Soldier{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H578B2E&}Spitsnaz_Soldier{\c&HFFFFFF&}: Больше, чем 4221
-Dialogue: Marked=0, 0:22:20.63, 0:22:22.96, Default, {\c&HE22B8A&}fivepointsgang{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HE22B8A&}fivepointsgang{\c&HFFFFFF&}: BLELELE x⁣3
-Dialogue: Marked=0, 0:22:26.51, 0:22:29.29, Default, {\c&HFF901E&}Volzhsky_ratnik{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFF901E&}Volzhsky_ratnik{\c&HFFFFFF&}: Ох какой же мгс 3 хороший
-Dialogue: Marked=0, 0:22:34.40, 0:22:39.40, Default, {\c&HB469FF&}Jack_Reno{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HB469FF&}Jack_Reno{\c&HFFFFFF&}: @Asfinks я уже писал выше. Потому что, когда ему стукнет под сто - его нужно будет откупорить и наслаждаться... KappaPride
-Dialogue: Marked=0, 0:22:35.86, 0:22:38.04, Default, {\c&H20A5DA&}Rex__Erection{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H20A5DA&}Rex__Erection{\c&HFFFFFF&}: !time
-Dialogue: Marked=0, 0:22:36.26, 0:22:39.79, Default, {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}: Передаем в СВЧ-диапазоне уже 23 minutes 18 seconds
-Dialogue: Marked=0, 0:22:39.51, 0:22:42.71, Default, {\c&HE22B8A&}nyuttka{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HE22B8A&}nyuttka{\c&HFFFFFF&}: @BlackUFA с отдыхом вас! меньше чем три
-Dialogue: Marked=0, 0:22:39.67, 0:22:43.32, Default, {\c&HB469FF&}IlyaQ{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HB469FF&}IlyaQ{\c&HFFFFFF&}: стример как вино…хм. от него по утру тож голова болит?
-Dialogue: Marked=0, 0:22:51.51, 0:22:56.45, Default, {\c&HFFFFFF&}L41n_s4kura{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}L41n_s4kura{\c&HFFFFFF&}: Артурка с приездом тебя, все жду от тебя прохождения Shenmue 1& 2 сам уже играю. Будешь стримить?
-Dialogue: Marked=0, 0:22:56.97, 0:22:59.42, Default, {\c&H0000FF&}QuiteRaven{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H0000FF&}QuiteRaven{\c&HFFFFFF&}: Фокс дай Kappa
-Dialogue: Marked=0, 0:23:12.55, 0:23:14.64, Default, {\c&HA09E5F&}sad_daniel{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HA09E5F&}sad_daniel{\c&HFFFFFF&}: <3
-Dialogue: Marked=0, 0:23:16.33, 0:23:19.02, Default, {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}: Эх, чад, рекламу бы...
-Dialogue: Marked=0, 0:23:20.91, 0:23:25.70, Default, {\c&H32CD99&}STALLFISH{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H32CD99&}STALLFISH{\c&HFFFFFF&}: У меня МГС3 почему-то всегда ассоциировался с SC Chaos Theory...что-то неуловимо схожее есть
-Dialogue: Marked=0, 0:23:29.32, 0:23:32.19, Default, {\c&H20A5DA&}BlackUFA{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H20A5DA&}BlackUFA{\c&HFFFFFF&}: я еще не приехал blackufaWut
-Dialogue: Marked=0, 0:23:31.02, 0:23:34.70, Default, {\c&HFFFFFF&}SalamiInTheSky{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}SalamiInTheSky{\c&HFFFFFF&}: @blackufa как много серий было записано по 3-му mgs’у?)
-Dialogue: Marked=0, 0:23:35.78, 0:23:38.53, Default, {\c&H20A5DA&}Rex__Erection{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H20A5DA&}Rex__Erection{\c&HFFFFFF&}: добрый вечерочек пупсики
-Dialogue: Marked=0, 0:23:36.48, 0:23:41.48, Default, {\c&HB469FF&}eromanga_chan{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HB469FF&}eromanga_chan{\c&HFFFFFF&}: @Jack_Reno лул, а за моим ником скрывается бородатый мужик, так что можешь поведать про церемонию, на ушко ArgieB8
-Dialogue: Marked=0, 0:23:54.33, 0:23:56.93, Default, {\c&H32CD99&}STALLFISH{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H32CD99&}STALLFISH{\c&HFFFFFF&}: @BlackUFA А сейчас?
-Dialogue: Marked=0, 0:24:04.20, 0:24:06.53, Default, {\c&H20A5DA&}BlackUFA{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H20A5DA&}BlackUFA{\c&HFFFFFF&}: а щас тоже
-Dialogue: Marked=0, 0:24:04.22, 0:24:07.42, Default, {\c&HB469FF&}Jack_Reno{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HB469FF&}Jack_Reno{\c&HFFFFFF&}: @eromanga_chan и всё же я тебе не верю.
-Dialogue: Marked=0, 0:24:09.38, 0:24:11.98, Default, {\c&HFFFFFF&}sort_geraina{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}sort_geraina{\c&HFFFFFF&}: он пьяный пишет гам
-Dialogue: Marked=0, 0:24:10.83, 0:24:14.36, Default, {\c&HE22B8A&}fivepointsgang{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HE22B8A&}fivepointsgang{\c&HFFFFFF&}: @BlackUFA но стрим же идет, чат не обманешь OpieOP
-Dialogue: Marked=0, 0:24:13.88, 0:24:16.06, Default, {\c&H20A5DA&}BlackUFA{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H20A5DA&}BlackUFA{\c&HFFFFFF&}: и щас
-Dialogue: Marked=0, 0:24:14.01, 0:24:16.85, Default, {\c&HFFFFFF&}Asfinks{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}Asfinks{\c&HFFFFFF&}: @eromanga_chan blackufaPalm
-Dialogue: Marked=0, 0:24:16.51, 0:24:19.92, Default, {\c&HFF0000&}DiGrays{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFF0000&}DiGrays{\c&HFFFFFF&}: @BlackUFA Паука стримить бушь или на ютабчике?
-Dialogue: Marked=0, 0:24:23.51, 0:24:26.05, Default, {\c&HFFFFFF&}sort_geraina{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}sort_geraina{\c&HFFFFFF&}: опять выпил масло
-Dialogue: Marked=0, 0:24:29.79, 0:24:32.18, Default, {\c&H32CD99&}STALLFISH{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H32CD99&}STALLFISH{\c&HFFFFFF&}: @BlackUFA :(
-Dialogue: Marked=0, 0:24:32.27, 0:24:34.90, Default, {\c&HE22B8A&}UmiToko{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HE22B8A&}UmiToko{\c&HFFFFFF&}: @blackufa, и сейчас?
-Dialogue: Marked=0, 0:24:39.41, 0:24:43.42, Default, {\c&HE22B8A&}nyuttka{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HE22B8A&}nyuttka{\c&HFFFFFF&}: @BlackUFA поцелуй там от ЧАДа морьеце, ну или пасынки в него Kappa
-Dialogue: Marked=0, 0:24:41.56, 0:24:45.12, Default, {\c&HFFFFFF&}gibljak{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}gibljak{\c&HFFFFFF&}: До чего техника дошла. Артура и там и тут передают.
-Dialogue: Marked=0, 0:24:47.80, 0:24:50.91, Default, {\c&HB469FF&}eromanga_chan{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HB469FF&}eromanga_chan{\c&HFFFFFF&}: @Jack_Reno блэт, над переименоваться
-Dialogue: Marked=0, 0:24:53.03, 0:24:55.60, Default, {\c&HFFFFFF&}andreynedavniy1999{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}andreynedavniy1999{\c&HFFFFFF&}: Ооо, семпай Артур.
-Dialogue: Marked=0, 0:24:54.41, 0:24:56.83, Default, {\c&H20A5DA&}BlackUFA{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H20A5DA&}BlackUFA{\c&HFFFFFF&}: и сейчас тоже
-Dialogue: Marked=0, 0:25:04.11, 0:25:07.94, Default, {\c&HB469FF&}Jack_Reno{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HB469FF&}Jack_Reno{\c&HFFFFFF&}: @BlackUFA в смы-ысле? Разве это не твой клон сейчас стримит?
-Dialogue: Marked=0, 0:25:04.63, 0:25:08.73, Default, {\c&HE22B8A&}fivepointsgang{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HE22B8A&}fivepointsgang{\c&HFFFFFF&}: Артур соскучился по чату, посидел 5 минут и понял, что не скучает LUL
-Dialogue: Marked=0, 0:25:19.07, 0:25:22.18, Default, {\c&H32CD99&}STALLFISH{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H32CD99&}STALLFISH{\c&HFFFFFF&}: @BlackUFA Ну ты приехал уже нет? -))
-Dialogue: Marked=0, 0:25:20.70, 0:25:23.27, Default, {\c&H0000FF&}deemasus{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H0000FF&}deemasus{\c&HFFFFFF&}: Кошка нажала Kappa
-Dialogue: Marked=0, 0:25:21.80, 0:25:25.27, Default, {\c&HFFFFFF&}sort_geraina{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}sort_geraina{\c&HFFFFFF&}: слава богу что он не видит мои сообщения учитесь
-Dialogue: Marked=0, 0:25:27.19, 0:25:29.43, Default, {\c&HA09E5F&}sad_daniel{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HA09E5F&}sad_daniel{\c&HFFFFFF&}: MingLee
-Dialogue: Marked=0, 0:25:28.04, 0:25:31.30, Default, {\c&HFF0000&}DiGrays{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFF0000&}DiGrays{\c&HFFFFFF&}: Кошка у него нажала, но мы то знаем Kappa
-Dialogue: Marked=0, 0:25:30.08, 0:25:32.80, Default, {\c&H32CD99&}STALLFISH{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H32CD99&}STALLFISH{\c&HFFFFFF&}: @BlackUFA че так долго?
-Dialogue: Marked=0, 0:25:34.88, 0:25:37.12, Default, {\c&HFF0000&}Dimhuk{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFF0000&}Dimhuk{\c&HFFFFFF&}: Сас LUL
-Dialogue: Marked=0, 0:25:38.56, 0:25:41.07, Default, {\c&HB469FF&}IlyaQ{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HB469FF&}IlyaQ{\c&HFFFFFF&}: долга едеш SMOrc
-Dialogue: Marked=0, 0:25:39.44, 0:25:42.40, Default, {\c&H20A5DA&}BlackUFA{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H20A5DA&}BlackUFA{\c&HFFFFFF&}: да. это тося пробежала по клаве
-Dialogue: Marked=0, 0:25:53.79, 0:25:55.91, Default, {\c&HFF0000&}Dimhuk{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFF0000&}Dimhuk{\c&HFFFFFF&}: Да?
-Dialogue: Marked=0, 0:25:56.03, 0:25:58.45, Default, {\c&HFFFFFF&}slimchanskiy12345{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}slimchanskiy12345{\c&HFFFFFF&}: Че происходит
-Dialogue: Marked=0, 0:26:03.59, 0:26:06.25, Default, {\c&HE22B8A&}nyuttka{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HE22B8A&}nyuttka{\c&HFFFFFF&}: ТОСЯ стримит DansGame
-Dialogue: Marked=0, 0:26:03.71, 0:26:06.10, Default, {\c&HFF0000&}Dimhuk{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFF0000&}Dimhuk{\c&HFFFFFF&}: blackufaDumb
-Dialogue: Marked=0, 0:26:04.38, 0:26:07.43, Default, {\c&HE22B8A&}Rumaruka{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HE22B8A&}Rumaruka{\c&HFFFFFF&}: @BlackUFA как отдыхается? ninjaPon
-Dialogue: Marked=0, 0:26:06.53, 0:26:08.71, Default, {\c&H0000FF&}QuiteRaven{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H0000FF&}QuiteRaven{\c&HFFFFFF&}: Джеки
-Dialogue: Marked=0, 0:26:06.67, 0:26:09.18, Default, {\c&HFFFFFF&}andreynedavniy1999{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}andreynedavniy1999{\c&HFFFFFF&}: Так Тося у мамы.
-Dialogue: Marked=0, 0:26:15.31, 0:26:18.78, Default, {\c&HFF0000&}DiGrays{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFF0000&}DiGrays{\c&HFFFFFF&}: Щас бы на клаве в МГС 3 в 2ккакойтотам играть...
-Dialogue: Marked=0, 0:26:19.78, 0:26:23.52, Default, {\c&HE22B8A&}UmiToko{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HE22B8A&}UmiToko{\c&HFFFFFF&}: там на стриме у сд проджект чо то началось, держу в курсе
-Dialogue: Marked=0, 0:26:20.17, 0:26:23.13, Default, {\c&HFFFFFF&}gibljak{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}gibljak{\c&HFFFFFF&}: Тося стримит, а кто модерирует?
-Dialogue: Marked=0, 0:26:21.44, 0:26:23.74, Default, {\c&H20A5DA&}BlackUFA{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H20A5DA&}BlackUFA{\c&HFFFFFF&}: ох и чаад
-Dialogue: Marked=0, 0:26:26.61, 0:26:30.44, Default, {\c&HB469FF&}Jack_Reno{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HB469FF&}Jack_Reno{\c&HFFFFFF&}: лан, ребят, развлекайтесь. Я потом на ютабе посмотрю. KonCha
-Dialogue: Marked=0, 0:26:30.95, 0:26:33.49, Default, {\c&H20A5DA&}BlackUFA{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H20A5DA&}BlackUFA{\c&HFFFFFF&}: а модерирует эван
-Dialogue: Marked=0, 0:26:33.78, 0:26:36.47, Default, {\c&HE22B8A&}nyuttka{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HE22B8A&}nyuttka{\c&HFFFFFF&}: @BlackUFA а ты сгорел?
-Dialogue: Marked=0, 0:26:35.50, 0:26:37.77, Default, {\c&HFFFFFF&}andreynedavniy1999{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}andreynedavniy1999{\c&HFFFFFF&}: Гыыыыыг.
-Dialogue: Marked=0, 0:26:38.21, 0:26:40.87, Default, {\c&HFFFFFF&}razienn21{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}razienn21{\c&HFFFFFF&}: Чадо нужно уничтожить
-Dialogue: Marked=0, 0:26:46.21, 0:26:49.56, Default, {\c&HFFFFFF&}fenixarmory{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}fenixarmory{\c&HFFFFFF&}: @blackufa смотри кого я привёл teatheKhajiit
-Dialogue: Marked=0, 0:26:50.84, 0:26:54.10, Default, {\c&HFF0000&}Dimhuk{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFF0000&}Dimhuk{\c&HFFFFFF&}: 3 часть была без перевода?Чет я забыл уже
-Dialogue: Marked=0, 0:27:00.87, 0:27:03.41, Default, {\c&H20A5DA&}BlackUFA{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H20A5DA&}BlackUFA{\c&HFFFFFF&}: спряч его обратно
-Dialogue: Marked=0, 0:27:02.49, 0:27:05.12, Default, {\c&HFFFFFF&}taha_frag13{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}taha_frag13{\c&HFFFFFF&}: как понять примьера?
-Dialogue: Marked=0, 0:27:13.74, 0:27:17.33, Default, {\c&HE22B8A&}nyuttka{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HE22B8A&}nyuttka{\c&HFFFFFF&}: @BlackUFA будешь на стримах облазить и почёсываться?
-Dialogue: Marked=0, 0:27:13.96, 0:27:17.07, Default, {\c&H32CD99&}STALLFISH{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H32CD99&}STALLFISH{\c&HFFFFFF&}: CDprojekt start uploading что-то там
-Dialogue: Marked=0, 0:27:16.74, 0:27:20.90, Default, {\c&HFF0000&}DiGrays{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFF0000&}DiGrays{\c&HFFFFFF&}: @BlackUFA Когда пляжный кооп с Джеком? А ночные серии будут? KappaPride
-Dialogue: Marked=0, 0:27:20.80, 0:27:24.75, Default, {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}: Я скучаю по стремлеру, чад! Давайте запустим меньше чем 3 в чат?
-Dialogue: Marked=0, 0:27:21.51, 0:27:24.74, Default, {\c&H32CD9A&}Romulos1{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H32CD9A&}Romulos1{\c&HFFFFFF&}: странные субтитры, не понять кто говорит
-Dialogue: Marked=0, 0:27:22.77, 0:27:25.16, Default, {\c&H20A5DA&}BlackUFA{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H20A5DA&}BlackUFA{\c&HFFFFFF&}: blackufaDumb
-Dialogue: Marked=0, 0:27:27.53, 0:27:30.82, Default, {\c&H2222B2&}bzzzzzzzzzzzzzzzzzzz{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H2222B2&}bzzzzzzzzzzzzzzzzzzz{\c&HFFFFFF&}: Эх, стрим по металу гиру (Крит в сердечко)
-Dialogue: Marked=0, 0:27:27.61, 0:27:30.12, Default, {\c&HFFFFFF&}fenixarmory{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}fenixarmory{\c&HFFFFFF&}: teatheKhajiit x⁣6
-Dialogue: Marked=0, 0:27:29.36, 0:27:31.75, Default, {\c&HE22B8A&}Rumaruka{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HE22B8A&}Rumaruka{\c&HFFFFFF&}: пфф член LUL
-Dialogue: Marked=0, 0:27:32.18, 0:27:35.35, Default, {\c&HFFFFFF&}gibljak{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}gibljak{\c&HFFFFFF&}: А там в пустой квартире рука движется.
-Dialogue: Marked=0, 0:27:47.47, 0:27:50.94, Default, {\c&HB469FF&}mrSupermanOV{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HB469FF&}mrSupermanOV{\c&HFFFFFF&}: Чатик, там CP Red что то анонсит на своем канале
-Dialogue: Marked=0, 0:27:47.49, 0:27:50.24, Default, {\c&H578B2E&}Spitsnaz_Soldier{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H578B2E&}Spitsnaz_Soldier{\c&HFFFFFF&}: Член охохоххо KappaPride
-Dialogue: Marked=0, 0:27:48.75, 0:27:52.19, Default, {\c&HFFFFFF&}Asfinks{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}Asfinks{\c&HFFFFFF&}: Песики? Песики? Чат ты любишь песиков? FrankerZ
-Dialogue: Marked=0, 0:27:55.86, 0:27:58.34, Default, {\c&HFFFFFF&}SgtSolution{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}SgtSolution{\c&HFFFFFF&}: геймплей скоро?
-Dialogue: Marked=0, 0:27:58.68, 0:28:01.10, Default, {\c&HE22B8A&}nyuttka{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HE22B8A&}nyuttka{\c&HFFFFFF&}: Рука стримит?
-Dialogue: Marked=0, 0:28:03.17, 0:28:06.19, Default, {\c&HFFFFFF&}fenixarmory{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}fenixarmory{\c&HFFFFFF&}: Чат, знакомся - TEA teatheKhajiit
-Dialogue: Marked=0, 0:28:03.57, 0:28:06.77, Default, {\c&H32CD99&}STALLFISH{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H32CD99&}STALLFISH{\c&HFFFFFF&}: @gibljak это рука там стримы запускает)
-Dialogue: Marked=0, 0:28:04.43, 0:28:06.70, Default, {\c&HB469FF&}IlyaQ{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HB469FF&}IlyaQ{\c&HFFFFFF&}: cmonBruh
-Dialogue: Marked=0, 0:28:04.77, 0:28:07.16, Default, {\c&HE22B8A&}Rumaruka{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HE22B8A&}Rumaruka{\c&HFFFFFF&}: @Asfinks нит
-Dialogue: Marked=0, 0:28:07.44, 0:28:09.89, Default, {\c&HFFFFFF&}sort_geraina{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}sort_geraina{\c&HFFFFFF&}: о джек и аптип
-Dialogue: Marked=0, 0:28:09.99, 0:28:13.25, Default, {\c&HFFFFFF&}L41n_s4kura{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}L41n_s4kura{\c&HFFFFFF&}: @BlackUFA Артур ждем стри по Shenmue 1& 2
-Dialogue: Marked=0, 0:28:15.61, 0:28:18.78, Default, {\c&HE22B8A&}UmiToko{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HE22B8A&}UmiToko{\c&HFFFFFF&}: @sgtsolution, геймплей в мгс - это миф
-Dialogue: Marked=0, 0:28:17.03, 0:28:20.65, Default, {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}: Наш сервер в Discord - https://discord.gg/fsofbsadw ●
-Dialogue: Marked=0, 0:28:39.35, 0:28:41.74, Default, {\c&HFFFFFF&}Ngc224rain{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}Ngc224rain{\c&HFFFFFF&}: @gibljak lul
-Dialogue: Marked=0, 0:28:46.04, 0:28:49.57, Default, {\c&HFFFFFF&}gibljak{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}gibljak{\c&HFFFFFF&}: @stallfish Да вебку надо было оставить включенной.
-Dialogue: Marked=0, 0:28:49.30, 0:28:51.96, Default, {\c&HFF901E&}Quiet_Saturn{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFF901E&}Quiet_Saturn{\c&HFFFFFF&}: @umitoko галлюцинация
-Dialogue: Marked=0, 0:28:49.74, 0:28:53.69, Default, {\c&H32CD99&}STALLFISH{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H32CD99&}STALLFISH{\c&HFFFFFF&}: @BlackUFA Артур, признавайся ты там ща с Джеком обжимаешься? А ?
-Dialogue: Marked=0, 0:28:53.40, 0:28:57.26, Default, {\c&HE22B8A&}fivepointsgang{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HE22B8A&}fivepointsgang{\c&HFFFFFF&}: @SgtSolution это же японская игра, сначала 20 часов туториала
-Dialogue: Marked=0, 0:29:03.49, 0:29:06.72, Default, {\c&HFFFFFF&}It_Boshy_Time{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}It_Boshy_Time{\c&HFFFFFF&}: Карьерный солдат из диванной дивизии LUL
-Dialogue: Marked=0, 0:29:09.88, 0:29:13.56, Default, {\c&H0000FF&}runx{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H0000FF&}runx{\c&HFFFFFF&}: чет тут диалоги как metla gear survive столько же много
-Dialogue: Marked=0, 0:29:15.83, 0:29:18.25, Default, {\c&HFFFFFF&}fenixarmory{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}fenixarmory{\c&HFFFFFF&}: teatheKhajiit
-Dialogue: Marked=0, 0:29:17.09, 0:29:22.09, Default, {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}: ● Мой твиттер - https://twitter.com/Sempai_Black ● Группа в вк - https://vk.com/b_silver ● Я в вк - https://vk.com/blacksilverufa ● Канал - https://www.youtube.com/user/BlackSilverUfa ● Донат - http://www.donationalerts.ru/r/blackufa_twitch ● Дополнительные смайлы в приложении BetterTTV - https://nightdev.com/betterttv/
-Dialogue: Marked=0, 0:29:23.02, 0:29:26.31, Default, {\c&HB469FF&}eromanga_chan{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HB469FF&}eromanga_chan{\c&HFFFFFF&}: @Asfinks люблю всё что имеет милую мордаху
-Dialogue: Marked=0, 0:29:26.36, 0:29:30.91, Default, {\c&H32CD99&}STALLFISH{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H32CD99&}STALLFISH{\c&HFFFFFF&}: @gibljak ну нафиг я бы свихнулся на ночных стримах...всяких там полтергейстов видеть
-Dialogue: Marked=0, 0:29:36.28, 0:29:39.69, Default, {\c&HFF901E&}Volzhsky_ratnik{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFF901E&}Volzhsky_ratnik{\c&HFFFFFF&}: Это ж офигеешь на стримах мгсы чату переводить
-Dialogue: Marked=0, 0:29:38.63, 0:29:41.56, Default, {\c&H578B2E&}Spitsnaz_Soldier{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H578B2E&}Spitsnaz_Soldier{\c&HFFFFFF&}: Как там Даня, в марио рубится?
-Dialogue: Marked=0, 0:29:56.97, 0:29:59.15, Default, {\c&H20A5DA&}BlackUFA{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H20A5DA&}BlackUFA{\c&HFFFFFF&}: !time
-Dialogue: Marked=0, 0:29:57.19, 0:30:00.72, Default, {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}: Передаем в СВЧ-диапазоне уже 30 minutes 39 seconds
-Dialogue: Marked=0, 0:30:00.73, 0:30:04.35, Default, {\c&HE22B8A&}Rumaruka{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HE22B8A&}Rumaruka{\c&HFFFFFF&}: @BlackUFA а спуди будет только на стриме или ютубчик?
-Dialogue: Marked=0, 0:30:02.74, 0:30:07.74, Default, {\c&HB469FF&}IlyaQ{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HB469FF&}IlyaQ{\c&HFFFFFF&}: помню, как решил заценить демку якудзы, так там кат сцен минут на 50 а я всего лишь хотел геймплей заценить
-Dialogue: Marked=0, 0:30:05.19, 0:30:09.47, Default, {\c&HFFFFFF&}gibljak{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}gibljak{\c&HFFFFFF&}: @stallfish Я после одного стрима увидел свою собачку сразу в двух комнатах.
-Dialogue: Marked=0, 0:30:07.97, 0:30:11.53, Default, {\c&HFFFFFF&}Asfinks{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}Asfinks{\c&HFFFFFF&}: @BlackUFA когда он пьян он с Джеки-ТЯН! blackufaLuL
-Dialogue: Marked=0, 0:30:17.67, 0:30:20.51, Default, {\c&HFFFFFF&}fenixarmory{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}fenixarmory{\c&HFFFFFF&}: teatheKhajiit teatheKhajiit
-Dialogue: Marked=0, 0:30:40.89, 0:30:43.64, Default, {\c&HFF901E&}Volzhsky_ratnik{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFF901E&}Volzhsky_ratnik{\c&HFFFFFF&}: @ilyaq зато какой опениг
-Dialogue: Marked=0, 0:30:44.54, 0:30:48.43, Default, {\c&HFF0000&}DiGrays{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFF0000&}DiGrays{\c&HFFFFFF&}: Когда Артур в чем-то признаётся, а не просто ругается cmonBruh
-Dialogue: Marked=0, 0:30:49.38, 0:30:52.73, Default, {\c&HE22B8A&}UmiToko{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HE22B8A&}UmiToko{\c&HFFFFFF&}: 30 минут прошло и геймплей только начался хд
-Dialogue: Marked=0, 0:31:11.98, 0:31:14.82, Default, {\c&HFF901E&}Quiet_Saturn{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFF901E&}Quiet_Saturn{\c&HFFFFFF&}: ух кодзима, чо напридумывал
-Dialogue: Marked=0, 0:31:14.75, 0:31:17.86, Default, {\c&HFFFFFF&}rost3434{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}rost3434{\c&HFFFFFF&}: Реды киберпанк щас начнут показывать
-Dialogue: Marked=0, 0:31:18.58, 0:31:23.19, Default, {\c&H0000FF&}Zigzagger{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H0000FF&}Zigzagger{\c&HFFFFFF&}: там на стриме CDPR, по киберпанку что перестал код идти и началась какая то загрузка !
-Dialogue: Marked=0, 0:31:31.81, 0:31:36.81, Default, {\c&HE22B8A&}topoly2{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HE22B8A&}topoly2{\c&HFFFFFF&}: Ребята, хелпаните плиз BlessRNG Помню у Блэка был типо архив с прохождением Darkwood. Если можете, киньте ссылку. Всем добра <3
-Dialogue: Marked=0, 0:31:36.71, 0:31:39.13, Default, {\c&HFFFFFF&}wise_bumblebee{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}wise_bumblebee{\c&HFFFFFF&}: Здравствуйте)
-Dialogue: Marked=0, 0:31:48.58, 0:31:53.22, Default, {\c&HFFFFFF&}gibljak{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}gibljak{\c&HFFFFFF&}: @digrays Истина настолько ужастна... На самом деле он любит Дашу, а Джека френдзонит :(
-Dialogue: Marked=0, 0:31:53.57, 0:31:56.89, Default, {\c&H32CD99&}STALLFISH{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H32CD99&}STALLFISH{\c&HFFFFFF&}: @Zigzagger угу...скажи когда движуха пойдет
-Dialogue: Marked=0, 0:31:55.24, 0:31:57.39, Default, {\c&H0000FF&}runx{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H0000FF&}runx{\c&HFFFFFF&}: ахах
-Dialogue: Marked=0, 0:32:14.00, 0:32:16.42, Default, {\c&HB469FF&}Desperados555{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HB469FF&}Desperados555{\c&HFFFFFF&}: Кодзима Гений
-Dialogue: Marked=0, 0:32:18.86, 0:32:23.86, Default, {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}: Подписки теперь можно дарить сразу нескольким людям! Сделай мир светлей, сделай нонсабов счастливее, а Блэка - популярнее. Ну типа камон.
-Dialogue: Marked=0, 0:32:21.69, 0:32:24.53, Default, {\c&H7FFF00&}shaved_spartan{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H7FFF00&}shaved_spartan{\c&HFFFFFF&}: @Zigzagger да, я тоже слежу
-Dialogue: Marked=0, 0:32:21.85, 0:32:24.69, Default, {\c&H0000FF&}Zigzagger{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H0000FF&}Zigzagger{\c&HFFFFFF&}: @STALLFISH уже 96 процентов
-Dialogue: Marked=0, 0:32:23.54, 0:32:25.78, Default, {\c&HB469FF&}mrSupermanOV{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HB469FF&}mrSupermanOV{\c&HFFFFFF&}: Уже 99%
-Dialogue: Marked=0, 0:32:41.73, 0:32:45.62, Default, {\c&HFF0000&}DiGrays{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFF0000&}DiGrays{\c&HFFFFFF&}: @gibljak и только потому, что у Даши всё лучше настроено Kappa
-Dialogue: Marked=0, 0:32:47.96, 0:32:50.95, Default, {\c&HE22B8A&}fivepointsgang{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HE22B8A&}fivepointsgang{\c&HFFFFFF&}: найтбот бесстыже байтит cmonBruh
-Dialogue: Marked=0, 0:32:49.13, 0:32:53.74, Default, {\c&H32CD99&}STALLFISH{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H32CD99&}STALLFISH{\c&HFFFFFF&}: @gibljak не...на самом деле он с Джеки спит, а Даша для вида...якобы нормальная семья)
-Dialogue: Marked=0, 0:32:52.02, 0:32:55.55, Default, {\c&HFF901E&}Volzhsky_ratnik{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFF901E&}Volzhsky_ratnik{\c&HFFFFFF&}: @topoly2 он же вроде на утром канале на ютубе есть
-Dialogue: Marked=0, 0:32:53.13, 0:32:55.70, Default, {\c&HE22B8A&}fivepointsgang{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HE22B8A&}fivepointsgang{\c&HFFFFFF&}: предлагаю забанить
-Dialogue: Marked=0, 0:33:12.57, 0:33:14.69, Default, {\c&HFFFFFF&}Asfinks{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}Asfinks{\c&HFFFFFF&}: +1!
-Dialogue: Marked=0, 0:33:15.07, 0:33:18.96, Default, {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}: The alias you set this command to be of, !sub, does not exist.
-Dialogue: Marked=0, 0:33:15.45, 0:33:18.35, Default, {\c&HFF901E&}Quiet_Saturn{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFF901E&}Quiet_Saturn{\c&HFFFFFF&}: @fivepointsgang мысли читаешь
-Dialogue: Marked=0, 0:33:18.29, 0:33:21.97, Default, {\c&HA09E5F&}Sekay_Mor{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HA09E5F&}Sekay_Mor{\c&HFFFFFF&}: прекрасно, зашла на стрим а снейк уже ест змей, отлично
-Dialogue: Marked=0, 0:33:26.77, 0:33:30.03, Default, {\c&HA09E5F&}Sekay_Mor{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HA09E5F&}Sekay_Mor{\c&HFFFFFF&}: теперь надо дожить до перепрохождения LUL
-Dialogue: Marked=0, 0:33:36.09, 0:33:39.23, Default, {\c&HFFFFFF&}gibljak{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}gibljak{\c&HFFFFFF&}: @digrays Там ещё и совместимость выше
-Dialogue: Marked=0, 0:33:38.69, 0:33:41.53, Default, {\c&H7FFF00&}TIMOFEIR{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H7FFF00&}TIMOFEIR{\c&HFFFFFF&}: Кодзмма ГЕНИЙ! А бот ступид
-Dialogue: Marked=0, 0:33:59.83, 0:34:03.30, Default, {\c&H32CD99&}STALLFISH{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H32CD99&}STALLFISH{\c&HFFFFFF&}: хех в какой еще игре можно притвориться мертвым)
-Dialogue: Marked=0, 0:34:01.75, 0:34:04.65, Default, {\c&HFFFFFF&}gibljak{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}gibljak{\c&HFFFFFF&}: @stallfish Понять простить...
-Dialogue: Marked=0, 0:34:19.55, 0:34:22.87, Default, {\c&HB469FF&}IlyaQ{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HB469FF&}IlyaQ{\c&HFFFFFF&}: после ста процентов пойдет клип рика эймтли
-Dialogue: Marked=0, 0:34:25.20, 0:34:28.67, Default, {\c&H20A5DA&}bobka{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H20A5DA&}bobka{\c&HFFFFFF&}: Ох, металгир в трансляции it can't be! gachiGASM
-Dialogue: Marked=0, 0:34:51.73, 0:34:54.54, Default, {\c&HFFFFFF&}VladimirSergeevich{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}VladimirSergeevich{\c&HFFFFFF&}: старый микро... ностальгия
-Dialogue: Marked=0, 0:34:59.11, 0:35:04.11, Default, {\c&H32CD99&}STALLFISH{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H32CD99&}STALLFISH{\c&HFFFFFF&}: Помню как я у друга брал консоль что бы поиграть в эту часть. Чуть не поругались, я никак не хотел её возвращать)
-Dialogue: Marked=0, 0:35:01.37, 0:35:04.33, Default, {\c&HFFFFFF&}gibljak{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}gibljak{\c&HFFFFFF&}: Понял!! Комаров нет. Нет канон!
-Dialogue: Marked=0, 0:35:03.85, 0:35:06.24, Default, {\c&H578B2E&}Spitsnaz_Soldier{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H578B2E&}Spitsnaz_Soldier{\c&HFFFFFF&}: Кагэбэ SMOrc
-Dialogue: Marked=0, 0:35:05.44, 0:35:09.66, Default, {\c&HE22B8A&}UmiToko{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HE22B8A&}UmiToko{\c&HFFFFFF&}: @stallfish, что это. В какой игре можно испортить игру просто закрыв игру
-Dialogue: Marked=0, 0:35:15.20, 0:35:17.89, Default, {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}: Эх, чад, рекламу бы...
-Dialogue: Marked=0, 0:35:29.42, 0:35:32.14, Default, {\c&H0000FF&}runx{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H0000FF&}runx{\c&HFFFFFF&}: @VladimirSergeevich ага
-Dialogue: Marked=0, 0:35:31.23, 0:35:33.89, Default, {\c&H2222B2&}k_r_a_t_o_s{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H2222B2&}k_r_a_t_o_s{\c&HFFFFFF&}: боже сколько болтовни
-Dialogue: Marked=0, 0:35:31.90, 0:35:34.26, Default, {\c&HFFFFFF&}VladimirSergeevich{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}VladimirSergeevich{\c&HFFFFFF&}: две рекламы
-Dialogue: Marked=0, 0:36:21.43, 0:36:24.87, Default, {\c&H32CD99&}STALLFISH{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H32CD99&}STALLFISH{\c&HFFFFFF&}: @k_r_a_t_o_s хы...Кратос не любит болтать да?))
-Dialogue: Marked=0, 0:36:33.80, 0:36:38.80, Default, {\c&HFF0000&}DiGrays{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFF0000&}DiGrays{\c&HFFFFFF&}: Щас смотрю и вспоминаю стрим от стопгейма, про то что ДС-это новый метал гир и чёт даже забавно воспринимать игру в таком ключе
-Dialogue: Marked=0, 0:36:41.40, 0:36:43.97, Default, {\c&HFF901E&}Volzhsky_ratnik{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFF901E&}Volzhsky_ratnik{\c&HFFFFFF&}: @k_r_a_t_o_s SMOrc
-Dialogue: Marked=0, 0:36:42.26, 0:36:45.19, Default, {\c&HB469FF&}sisilium{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HB469FF&}sisilium{\c&HFFFFFF&}: а шо здесь так пусто? cmonBruh
-Dialogue: Marked=0, 0:36:45.54, 0:36:48.71, Default, {\c&HFFFFFF&}gibljak{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}gibljak{\c&HFFFFFF&}: Бомжи сливаются с природой идеально...
-Dialogue: Marked=0, 0:37:08.34, 0:37:11.78, Default, {\c&H2222B2&}k_r_a_t_o_s{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H2222B2&}k_r_a_t_o_s{\c&HFFFFFF&}: @STALLFISH ближе к телу как говорится hellyJake
-Dialogue: Marked=0, 0:37:11.38, 0:37:13.65, Default, {\c&H0000FF&}Dudelka_Krasnaya{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H0000FF&}Dudelka_Krasnaya{\c&HFFFFFF&}: !members
-Dialogue: Marked=0, 0:37:13.60, 0:37:15.75, Default, {\c&H0000FF&}Dudelka_Krasnaya{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H0000FF&}Dudelka_Krasnaya{\c&HFFFFFF&}: ela2
-Dialogue: Marked=0, 0:37:13.74, 0:37:17.84, Default, {\c&H20A5DA&}xmitternachtx{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H20A5DA&}xmitternachtx{\c&HFFFFFF&}: @sisilium советовать не получится ничего, запись же, вот и молчат :DD
-Dialogue: Marked=0, 0:37:17.18, 0:37:20.80, Default, {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}: Наш сервер в Discord - https://discord.gg/fsofbsadw ●
-Dialogue: Marked=0, 0:37:32.84, 0:37:37.60, Default, {\c&H32CD9A&}DudelkaBot{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H32CD9A&}DudelkaBot{\c&HFFFFFF&}: @dudelka_krasnaya Сейчас в чате 533 фолловеров, 9 сабов, 5 лучших модеров и не только Kappa
-Dialogue: Marked=0, 0:37:37.46, 0:37:40.75, Default, {\c&H0000FF&}Dudelka_Krasnaya{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H0000FF&}Dudelka_Krasnaya{\c&HFFFFFF&}: @DudelkaBot Проснулся лять, встал ! elaREE
-Dialogue: Marked=0, 0:37:47.80, 0:37:50.22, Default, {\c&H32CD99&}STALLFISH{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H32CD99&}STALLFISH{\c&HFFFFFF&}: большой сок))
-Dialogue: Marked=0, 0:37:48.27, 0:37:52.01, Default, {\c&HFFFFFF&}gibljak{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}gibljak{\c&HFFFFFF&}: Дай ему жевачку! (Давайте советовать так как будто стрим)
-Dialogue: Marked=0, 0:37:48.91, 0:37:52.59, Default, {\c&HA09E5F&}Sekay_Mor{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HA09E5F&}Sekay_Mor{\c&HFFFFFF&}: я думаю сейчас блэк бы вырезал вообще всех на карте LUL
-Dialogue: Marked=0, 0:37:54.81, 0:37:57.02, Default, {\c&H0000FF&}Dudelka_Krasnaya{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H0000FF&}Dudelka_Krasnaya{\c&HFFFFFF&}: !sleep
-Dialogue: Marked=0, 0:38:00.17, 0:38:04.06, Default, {\c&H32CD9A&}DudelkaBot{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H32CD9A&}DudelkaBot{\c&HFFFFFF&}: Ну я не хочу спаааааать, еще 5 минуточек...Zzz ResidentSleeper
-Dialogue: Marked=0, 0:38:00.49, 0:38:02.94, Default, {\c&H0000FF&}Dudelka_Krasnaya{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H0000FF&}Dudelka_Krasnaya{\c&HFFFFFF&}: Лег, мать твою
-Dialogue: Marked=0, 0:38:05.81, 0:38:08.05, Default, {\c&H0000FF&}Dudelka_Krasnaya{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H0000FF&}Dudelka_Krasnaya{\c&HFFFFFF&}: !wakeup
-Dialogue: Marked=0, 0:38:06.19, 0:38:11.19, Default, {\c&H32CD9A&}DudelkaBot{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H32CD9A&}DudelkaBot{\c&HFFFFFF&}: Мммммм...ну еще 5 минуточек...*трясет* ну ладно, ладно, встаю я...Уже поспать не дают... ResidentSleeper
-Dialogue: Marked=0, 0:38:07.28, 0:38:09.67, Default, {\c&H008000&}Besovski__{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H008000&}Besovski__{\c&HFFFFFF&}: большой? LUL
-Dialogue: Marked=0, 0:38:12.37, 0:38:14.79, Default, {\c&H0000FF&}Dudelka_Krasnaya{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H0000FF&}Dudelka_Krasnaya{\c&HFFFFFF&}: Подъем elaREE
-Dialogue: Marked=0, 0:38:13.43, 0:38:16.03, Default, {\c&HB469FF&}IlyaQ{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HB469FF&}IlyaQ{\c&HFFFFFF&}: не туда идешь артур
-Dialogue: Marked=0, 0:38:14.51, 0:38:19.51, Default, {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}: Чад! Вступай в ряды гордых сабов! Что ты получишь за это? Мою персональную благодарностьв прямом эфире, значок Ктулхи рядом с ником, прорву крутейших смайлов и гордое звание саба.
-Dialogue: Marked=0, 0:38:17.32, 0:38:21.21, Default, {\c&HB469FF&}sisilium{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HB469FF&}sisilium{\c&HFFFFFF&}: @xmitternachtx чат не чат когда не советует, даже в записи LUL
-Dialogue: Marked=0, 0:38:24.43, 0:38:27.69, Default, {\c&HE22B8A&}fivepointsgang{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HE22B8A&}fivepointsgang{\c&HFFFFFF&}: так то 377 зрителей, дуделка CoolStoryBob
-Dialogue: Marked=0, 0:38:25.67, 0:38:28.66, Default, {\c&H0000FF&}Dudelka_Krasnaya{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H0000FF&}Dudelka_Krasnaya{\c&HFFFFFF&}: @DudelkaBot Я тебя выпилю солдат
-Dialogue: Marked=0, 0:38:27.54, 0:38:29.90, Default, {\c&HE22B8A&}fivepointsgang{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HE22B8A&}fivepointsgang{\c&HFFFFFF&}: ох и боооод
-Dialogue: Marked=0, 0:38:36.32, 0:38:39.49, Default, {\c&H0000FF&}Dudelka_Krasnaya{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H0000FF&}Dudelka_Krasnaya{\c&HFFFFFF&}: @DudelkaBot 2 года в не очереди elaREE
-Dialogue: Marked=0, 0:38:38.83, 0:38:42.48, Default, {\c&HFFFFFF&}gibljak{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}gibljak{\c&HFFFFFF&}: @dudelkabot У нас в детсаду таких половником добивали.
-Dialogue: Marked=0, 0:39:00.53, 0:39:03.58, Default, {\c&H0000FF&}Dudelka_Krasnaya{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H0000FF&}Dudelka_Krasnaya{\c&HFFFFFF&}: @fivepointsgang он кантужен, забей
-Dialogue: Marked=0, 0:39:12.09, 0:39:16.25, Default, {\c&H32CD99&}STALLFISH{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H32CD99&}STALLFISH{\c&HFFFFFF&}: на стриме CDprojekt загрузка застряла на 99% и висит...ну как всегда ))
-Dialogue: Marked=0, 0:39:14.51, 0:39:16.69, Default, {\c&HE22B8A&}fivepointsgang{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HE22B8A&}fivepointsgang{\c&HFFFFFF&}: !кусь
-Dialogue: Marked=0, 0:39:14.73, 0:39:18.11, Default, {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}: Я бы покусался, но скучаю по СВЧ-стримлеру :(
-Dialogue: Marked=0, 0:39:16.58, 0:39:19.30, Default, {\c&HFF901E&}zemphakto{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFF901E&}zemphakto{\c&HFFFFFF&}: можно ему рацию разбить
-Dialogue: Marked=0, 0:39:22.99, 0:39:25.20, Default, {\c&H7FFF00&}TIMOFEIR{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H7FFF00&}TIMOFEIR{\c&HFFFFFF&}: !sleep
-Dialogue: Marked=0, 0:39:25.36, 0:39:27.81, Default, {\c&HE22B8A&}fivepointsgang{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HE22B8A&}fivepointsgang{\c&HFFFFFF&}: э, ну где кусь
-Dialogue: Marked=0, 0:39:30.73, 0:39:33.36, Default, {\c&HE22B8A&}fivepointsgang{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HE22B8A&}fivepointsgang{\c&HFFFFFF&}: хочу кусь BibleThump
-Dialogue: Marked=0, 0:39:39.62, 0:39:41.80, Default, {\c&HFF901E&}Volzhsky_ratnik{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFF901E&}Volzhsky_ratnik{\c&HFFFFFF&}: !Кусь
-Dialogue: Marked=0, 0:39:41.62, 0:39:43.80, Default, {\c&H20A5DA&}xmitternachtx{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H20A5DA&}xmitternachtx{\c&HFFFFFF&}: !кусь
-Dialogue: Marked=0, 0:39:44.44, 0:39:47.28, Default, {\c&HE22B8A&}glaswen{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HE22B8A&}glaswen{\c&HFFFFFF&}: в смысле завершать DansGame
-Dialogue: Marked=0, 0:39:47.35, 0:39:49.53, Default, {\c&HFFFFFF&}Asfinks{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}Asfinks{\c&HFFFFFF&}: !кусь
-Dialogue: Marked=0, 0:39:51.71, 0:39:55.27, Default, {\c&HFF0000&}DiGrays{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFF0000&}DiGrays{\c&HFFFFFF&}: @STALLFISH Ведьмак на выходе так же работал OneHand
-Dialogue: Marked=0, 0:39:54.87, 0:39:57.23, Default, {\c&H7FFF00&}TIMOFEIR{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H7FFF00&}TIMOFEIR{\c&HFFFFFF&}: !хотимкусь!
-Dialogue: Marked=0, 0:39:59.99, 0:40:02.14, Default, {\c&H7FFF00&}TIMOFEIR{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H7FFF00&}TIMOFEIR{\c&HFFFFFF&}: !фыр
-Dialogue: Marked=0, 0:40:00.20, 0:40:03.97, Default, {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}: Фыркать, пока мой любимый стримлер нежится на море? Щас!!!
-Dialogue: Marked=0, 0:40:01.25, 0:40:03.79, Default, {\c&HB469FF&}sisilium{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HB469FF&}sisilium{\c&HFFFFFF&}: кусь не будет LUL
-Dialogue: Marked=0, 0:40:01.53, 0:40:04.40, Default, {\c&H2222B2&}k_r_a_t_o_s{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H2222B2&}k_r_a_t_o_s{\c&HFFFFFF&}: это какого года прохождение?
-Dialogue: Marked=0, 0:40:05.48, 0:40:09.28, Default, {\c&HE22B8A&}fivepointsgang{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HE22B8A&}fivepointsgang{\c&HFFFFFF&}: ох, я только сейчас понял, это же запись видео, а не стрима
-Dialogue: Marked=0, 0:40:12.64, 0:40:15.72, Default, {\c&HE22B8A&}fivepointsgang{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HE22B8A&}fivepointsgang{\c&HFFFFFF&}: блин, какой Артур другой раньше был
-Dialogue: Marked=0, 0:40:13.63, 0:40:15.81, Default, {\c&H0000FF&}KHAJIIT_HE_BOP{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H0000FF&}KHAJIIT_HE_BOP{\c&HFFFFFF&}: !кусь
-Dialogue: Marked=0, 0:40:15.58, 0:40:17.88, Default, {\c&HE22B8A&}fivepointsgang{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HE22B8A&}fivepointsgang{\c&HFFFFFF&}: ностальжи
-Dialogue: Marked=0, 0:40:19.63, 0:40:22.23, Default, {\c&HE22B8A&}fivepointsgang{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HE22B8A&}fivepointsgang{\c&HFFFFFF&}: старорежимный Артур
-Dialogue: Marked=0, 0:40:20.52, 0:40:23.33, Default, {\c&HFFFFFF&}Dekfel{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}Dekfel{\c&HFFFFFF&}: там это, кмберпанк стримят
-Dialogue: Marked=0, 0:40:21.09, 0:40:24.11, Default, {\c&HFFFFFF&}gibljak{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}gibljak{\c&HFFFFFF&}: Запускаем перевернутые попы <3 x⁣3
-Dialogue: Marked=0, 0:40:31.90, 0:40:34.92, Default, {\c&HFFFFFF&}Asfinks{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}Asfinks{\c&HFFFFFF&}: @fivepointsgang blackufaCoolStory
-Dialogue: Marked=0, 0:40:36.18, 0:40:38.36, Default, {\c&HE22B8A&}fivepointsgang{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HE22B8A&}fivepointsgang{\c&HFFFFFF&}: <3 x⁣4
-Dialogue: Marked=0, 0:40:42.00, 0:40:45.77, Default, {\c&H20A5DA&}xmitternachtx{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H20A5DA&}xmitternachtx{\c&HFFFFFF&}: Эхх... Артурка был молодым горячим, не то что сейчас Kappa
-Dialogue: Marked=0, 0:40:44.42, 0:40:47.02, Default, {\c&H32CD99&}STALLFISH{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H32CD99&}STALLFISH{\c&HFFFFFF&}: Пишите секреты чат)
-Dialogue: Marked=0, 0:40:44.90, 0:40:47.65, Default, {\c&HFFFFFF&}vady617{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}vady617{\c&HFFFFFF&}: Киберпанк лучше постримь
-Dialogue: Marked=0, 0:40:53.72, 0:40:56.65, Default, {\c&HB469FF&}sisilium{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HB469FF&}sisilium{\c&HFFFFFF&}: пишем комментарии CoolStoryBob
-Dialogue: Marked=0, 0:40:58.48, 0:41:00.66, Default, {\c&H0000FF&}runx{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H0000FF&}runx{\c&HFFFFFF&}: <3 x⁣3
-Dialogue: Marked=0, 0:41:09.20, 0:41:12.04, Default, {\c&HA09E5F&}Sekay_Mor{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HA09E5F&}Sekay_Mor{\c&HFFFFFF&}: ну чад, секреты надо да LUL
-Dialogue: Marked=0, 0:41:12.20, 0:41:15.64, Default, {\c&HE22B8A&}UmiToko{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HE22B8A&}UmiToko{\c&HFFFFFF&}: @vady617, стримить 99% уже минут 15 очень круто
-Dialogue: Marked=0, 0:41:16.14, 0:41:18.62, Default, {\c&HFFFFFF&}11legion{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}11legion{\c&HFFFFFF&}: это же запись ?
-Dialogue: Marked=0, 0:41:16.50, 0:41:19.43, Default, {\c&H7FFF00&}TIMOFEIR{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H7FFF00&}TIMOFEIR{\c&HFFFFFF&}: раньшы стримы были лучшы SMOrc
-Dialogue: Marked=0, 0:41:28.50, 0:41:31.25, Default, {\c&HFF901E&}SlavMayer{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFF901E&}SlavMayer{\c&HFFFFFF&}: Squid2 Squid2 KomodoHype
-Dialogue: Marked=0, 0:41:38.52, 0:41:41.18, Default, {\c&H008000&}Besovski__{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H008000&}Besovski__{\c&HFFFFFF&}: и трава зеленее SMOrc
-Dialogue: Marked=0, 0:41:41.32, 0:41:43.77, Default, {\c&H32CD99&}STALLFISH{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H32CD99&}STALLFISH{\c&HFFFFFF&}: угу это запись
-Dialogue: Marked=0, 0:41:43.22, 0:41:47.80, Default, {\c&H20A5DA&}BlackUFA{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H20A5DA&}BlackUFA{\c&HFFFFFF&}: да заканчивай уже, блин, там ща Киберпанк будут показывать через 6 минут blackufaRage
-Dialogue: Marked=0, 0:41:44.70, 0:41:47.51, Default, {\c&HA09E5F&}Sekay_Mor{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HA09E5F&}Sekay_Mor{\c&HFFFFFF&}: это не стрим а видос SMOrc
-Dialogue: Marked=0, 0:41:45.00, 0:41:49.73, Default, {\c&HFF901E&}zemphakto{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFF901E&}zemphakto{\c&HFFFFFF&}: в тюрьме если сохраниться и перезагрузить игру через некоторое время снейку присниться сон
-Dialogue: Marked=0, 0:41:57.67, 0:42:00.60, Default, {\c&HFF901E&}SlavMayer{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFF901E&}SlavMayer{\c&HFFFFFF&}: Раньше стримов то и не было...
-Dialogue: Marked=0, 0:42:01.13, 0:42:04.00, Default, {\c&H7FFF00&}shaved_spartan{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H7FFF00&}shaved_spartan{\c&HFFFFFF&}: Ну, там вот пропустил сикрит
-Dialogue: Marked=0, 0:42:03.12, 0:42:05.96, Default, {\c&H20A5DA&}xmitternachtx{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H20A5DA&}xmitternachtx{\c&HFFFFFF&}: @BlackUFA внезапный врыв :D
-Dialogue: Marked=0, 0:42:09.11, 0:42:12.13, Default, {\c&HB469FF&}sisilium{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HB469FF&}sisilium{\c&HFFFFFF&}: Артур уже не тот что раньше SMOrc
-Dialogue: Marked=0, 0:42:14.63, 0:42:17.29, Default, {\c&HE22B8A&}UmiToko{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HE22B8A&}UmiToko{\c&HFFFFFF&}: И Артур молодее SMOrc
-Dialogue: Marked=0, 0:42:24.75, 0:42:27.44, Default, {\c&H32CD99&}STALLFISH{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H32CD99&}STALLFISH{\c&HFFFFFF&}: ща тютелька в тютельку
-Dialogue: Marked=0, 0:42:39.27, 0:42:43.13, Default, {\c&H7FFF00&}TIMOFEIR{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H7FFF00&}TIMOFEIR{\c&HFFFFFF&}: @blackufa а бот теперь пофыркать может? BibleThump BibleThump
-Dialogue: Marked=0, 0:42:44.28, 0:42:47.03, Default, {\c&HFF901E&}SlavMayer{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFF901E&}SlavMayer{\c&HFFFFFF&}: Микрофон был лучше SMOrc
-Dialogue: Marked=0, 0:42:46.26, 0:42:48.68, Default, {\c&H008000&}Besovski__{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H008000&}Besovski__{\c&HFFFFFF&}: И Тося добрее
-Dialogue: Marked=0, 0:42:47.61, 0:42:51.59, Default, {\c&HA09E5F&}Sekay_Mor{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HA09E5F&}Sekay_Mor{\c&HFFFFFF&}: @BlackUFA кому нужен этот киберпанк, у нас тут метал гир же SMOrc
-Dialogue: Marked=0, 0:42:49.58, 0:42:51.73, Default, {\c&H7FFF00&}TIMOFEIR{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H7FFF00&}TIMOFEIR{\c&HFFFFFF&}: !фыр
-Dialogue: Marked=0, 0:42:49.75, 0:42:53.52, Default, {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}: Фыркать, пока мой любимый стримлер нежится на море? Щас!!!
-Dialogue: Marked=0, 0:42:58.50, 0:43:01.28, Default, {\c&HB469FF&}sisilium{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HB469FF&}sisilium{\c&HFFFFFF&}: пол часа в кустах уже LUL
-Dialogue: Marked=0, 0:42:59.68, 0:43:03.24, Default, {\c&HFFFFFF&}gibljak{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}gibljak{\c&HFFFFFF&}: И Артур такой молодой и юный Солид Снейк впереди...
-Dialogue: Marked=0, 0:43:20.12, 0:43:23.11, Default, {\c&H20A5DA&}xmitternachtx{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H20A5DA&}xmitternachtx{\c&HFFFFFF&}: @BlackUFA бот не делает кусь Т_Т
-Dialogue: Marked=0, 0:43:36.10, 0:43:39.00, Default, {\c&H20A5DA&}BlackUFA{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H20A5DA&}BlackUFA{\c&HFFFFFF&}: так, чо там кому не нравится?
-Dialogue: Marked=0, 0:43:36.28, 0:43:38.40, Default, {\c&HB469FF&}eromanga_chan{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HB469FF&}eromanga_chan{\c&HFFFFFF&}: Опа
-Dialogue: Marked=0, 0:43:37.11, 0:43:39.20, Default, {\c&H32CD99&}STALLFISH{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H32CD99&}STALLFISH{\c&HFFFFFF&}: во
-Dialogue: Marked=0, 0:43:38.93, 0:43:41.29, Default, {\c&HFF901E&}SlavMayer{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFF901E&}SlavMayer{\c&HFFFFFF&}: 4Head пчёлы
-Dialogue: Marked=0, 0:43:39.24, 0:43:42.62, Default, {\c&H0000FF&}損して得取る{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H0000FF&}損して得取る{\c&HFFFFFF&}: скоро будет оцелот-яйцеглот blackufaCoolStory
-Dialogue: Marked=0, 0:43:42.25, 0:43:44.82, Default, {\c&H32CD99&}STALLFISH{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H32CD99&}STALLFISH{\c&HFFFFFF&}: заканчивает кажись
-Dialogue: Marked=0, 0:43:42.49, 0:43:44.76, Default, {\c&H88FF00&}Dariya_Willis{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H88FF00&}Dariya_Willis{\c&HFFFFFF&}: Jebaited
-Dialogue: Marked=0, 0:43:43.45, 0:43:46.05, Default, {\c&HB469FF&}eromanga_chan{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HB469FF&}eromanga_chan{\c&HFFFFFF&}: Ну шо народ погнали
-Dialogue: Marked=0, 0:43:44.28, 0:43:46.52, Default, {\c&H20A5DA&}BlackUFA{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H20A5DA&}BlackUFA{\c&HFFFFFF&}: ага ага
-Dialogue: Marked=0, 0:43:46.54, 0:43:49.02, Default, {\c&HFF901E&}SlavMayer{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFF901E&}SlavMayer{\c&HFFFFFF&}: Конец серии LUL
-Dialogue: Marked=0, 0:43:46.66, 0:43:49.68, Default, {\c&HA09E5F&}bogratova{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HA09E5F&}bogratova{\c&HFFFFFF&}: кто будет стримить киберпук 4221?
-Dialogue: Marked=0, 0:43:52.23, 0:43:54.56, Default, {\c&HA09E5F&}Sekay_Mor{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HA09E5F&}Sekay_Mor{\c&HFFFFFF&}: BibleThump
-Dialogue: Marked=0, 0:43:55.97, 0:43:58.72, Default, {\c&HE22B8A&}fivepointsgang{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HE22B8A&}fivepointsgang{\c&HFFFFFF&}: но что-то же стало Kappa
-Dialogue: Marked=0, 0:43:59.96, 0:44:02.26, Default, {\c&HFF901E&}SlavMayer{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFF901E&}SlavMayer{\c&HFFFFFF&}: пока-пока
-Dialogue: Marked=0, 0:44:06.81, 0:44:09.50, Default, {\c&H008000&}Besovski__{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H008000&}Besovski__{\c&HFFFFFF&}: тоталитаризьмь WutFace
-Dialogue: Marked=0, 0:44:08.57, 0:44:11.53, Default, {\c&H0000FF&}runx{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H0000FF&}runx{\c&HFFFFFF&}: @Dariya_Willis @BlackUFA wlgWow
-Dialogue: Marked=0, 0:44:08.65, 0:44:11.43, Default, {\c&HFFFFFF&}Asfinks{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}Asfinks{\c&HFFFFFF&}: @Dariya_Willis blackufaHi
-Dialogue: Marked=0, 0:44:08.83, 0:44:11.10, Default, {\c&H7FFF00&}shaved_spartan{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H7FFF00&}shaved_spartan{\c&HFFFFFF&}: А, арты?
-Dialogue: Marked=0, 0:44:09.14, 0:44:12.01, Default, {\c&HB469FF&}sisilium{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HB469FF&}sisilium{\c&HFFFFFF&}: а когда следующая серия? LUL
-Dialogue: Marked=0, 0:44:10.08, 0:44:12.89, Default, {\c&HE22B8A&}glaswen{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HE22B8A&}glaswen{\c&HFFFFFF&}: ну эйй, слишком мало было(
-Dialogue: Marked=0, 0:44:11.45, 0:44:14.47, Default, {\c&HFFFFFF&}It_Boshy_Time{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}It_Boshy_Time{\c&HFFFFFF&}: @BlackUFA Мне всё нравилось 4Head
-Dialogue: Marked=0, 0:44:14.05, 0:44:17.55, Default, {\c&HB469FF&}Desperados555{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HB469FF&}Desperados555{\c&HFFFFFF&}: А не изза копирайтов ли эти записи запретили? LUL
-Dialogue: Marked=0, 0:44:15.24, 0:44:17.93, Default, {\c&HFF901E&}SlavMayer{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFF901E&}SlavMayer{\c&HFFFFFF&}: 4-ая часть! Ты обещал!
-Dialogue: Marked=0, 0:44:17.12, 0:44:19.90, Default, {\c&HB469FF&}mrSupermanOV{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HB469FF&}mrSupermanOV{\c&HFFFFFF&}: Пока пока пока BibleThump
-Dialogue: Marked=0, 0:44:18.38, 0:44:20.86, Default, {\c&HE22C8A&}Lacator{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HE22C8A&}Lacator{\c&HFFFFFF&}: Го следующую хД
-Dialogue: Marked=0, 0:44:21.53, 0:44:24.94, Default, {\c&HE22B8A&}UmiToko{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HE22B8A&}UmiToko{\c&HFFFFFF&}: мы пройдем мгс4, ага FeelsRainMan FeelsRainMan
-Dialogue: Marked=0, 0:44:24.58, 0:44:27.24, Default, {\c&H32CD99&}STALLFISH{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H32CD99&}STALLFISH{\c&HFFFFFF&}: хех уютная концовочка
-Dialogue: Marked=0, 0:44:30.38, 0:44:33.13, Default, {\c&HFFFFFF&}Uncle_Ken{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}Uncle_Ken{\c&HFFFFFF&}: Эээээээ я только подошёл
-Dialogue: Marked=0, 0:44:34.07, 0:44:36.31, Default, {\c&HFFFFFF&}Uncle_Ken{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}Uncle_Ken{\c&HFFFFFF&}: Кудаааа
-Dialogue: Marked=0, 0:44:37.84, 0:44:40.47, Default, {\c&HE22B8A&}fivepointsgang{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HE22B8A&}fivepointsgang{\c&HFFFFFF&}: пока x⁣3 FeelsRainMan
-Dialogue: Marked=0, 0:44:38.16, 0:44:40.67, Default, {\c&HFFFFFF&}Uncle_Ken{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}Uncle_Ken{\c&HFFFFFF&}: Я только подошёл
-Dialogue: Marked=0, 0:44:40.21, 0:44:42.78, Default, {\c&H20A5DA&}BlackUFA{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H20A5DA&}BlackUFA{\c&HFFFFFF&}: очень неспешно LUL
-Dialogue: Marked=0, 0:44:40.51, 0:44:42.78, Default, {\c&HFFFFFF&}Uncle_Ken{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}Uncle_Ken{\c&HFFFFFF&}: Неееееее
-Dialogue: Marked=0, 0:44:42.19, 0:44:44.34, Default, {\c&HFFFFFF&}Uncle_Ken{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}Uncle_Ken{\c&HFFFFFF&}: Алее
-Dialogue: Marked=0, 0:44:44.24, 0:44:47.08, Default, {\c&HE22B8A&}glaswen{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HE22B8A&}glaswen{\c&HFFFFFF&}: пока, воображаемый стримлер
-Dialogue: Marked=0, 0:44:44.30, 0:44:46.90, Default, {\c&HB469FF&}eromanga_chan{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HB469FF&}eromanga_chan{\c&HFFFFFF&}: Куда пальцы ставить
-Dialogue: Marked=0, 0:44:46.26, 0:44:49.52, Default, {\c&HA09E5F&}Sekay_Mor{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HA09E5F&}Sekay_Mor{\c&HFFFFFF&}: надо следующую серию после киберпанка LUL
-Dialogue: Marked=0, 0:44:48.40, 0:44:51.42, Default, {\c&H0000FF&}損して得取る{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H0000FF&}損して得取る{\c&HFFFFFF&}: @BlackUFA blackufaHi привет батат
-Dialogue: Marked=0, 0:44:55.50, 0:44:58.19, Default, {\c&HFFFFFF&}phant0m56{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}phant0m56{\c&HFFFFFF&}: это че запись с ютуба?
-Dialogue: Marked=0, 0:44:55.51, 0:44:58.38, Default, {\c&H20A5DA&}BlackUFA{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H20A5DA&}BlackUFA{\c&HFFFFFF&}: продолжение после киберпанка
-Dialogue: Marked=0, 0:44:56.39, 0:44:59.68, Default, {\c&HB469FF&}IlyaQ{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HB469FF&}IlyaQ{\c&HFFFFFF&}: а где видео "что в моей сумочке" @blackufa
-Dialogue: Marked=0, 0:45:00.88, 0:45:03.78, Default, {\c&H0000FF&}runx{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H0000FF&}runx{\c&HFFFFFF&}: как палец верх ставить? Kappa
-Dialogue: Marked=0, 0:45:01.73, 0:45:03.94, Default, {\c&HFFFFFF&}xStake13x{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}xStake13x{\c&HFFFFFF&}: и все?
-Dialogue: Marked=0, 0:45:01.96, 0:45:04.14, Default, {\c&HFF901E&}SlavMayer{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFF901E&}SlavMayer{\c&HFFFFFF&}: все?!
-Dialogue: Marked=0, 0:45:02.38, 0:45:04.50, Default, {\c&HE22B8A&}smerchOo{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HE22B8A&}smerchOo{\c&HFFFFFF&}: шо?
-Dialogue: Marked=0, 0:45:08.76, 0:45:11.96, Default, {\c&H0000FF&}olz_in{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H0000FF&}olz_in{\c&HFFFFFF&}: Э-э-э-эй, что за дела?( Только подошел(
-Dialogue: Marked=0, 0:45:09.43, 0:45:11.76, Default, {\c&HFFFFFF&}Asfinks{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}Asfinks{\c&HFFFFFF&}: Oh! NOOOO!
-Dialogue: Marked=0, 0:45:11.45, 0:45:13.63, Default, {\c&H0000FF&}RingedSoul{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H0000FF&}RingedSoul{\c&HFFFFFF&}: Ох но
-Dialogue: Marked=0, 0:45:14.90, 0:45:17.41, Default, {\c&HFFFFFF&}Mozzarell{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}Mozzarell{\c&HFFFFFF&}: Я батат ты батат
-Dialogue: Marked=0, 0:45:15.47, 0:45:18.28, Default, {\c&HE22B8A&}UmiToko{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HE22B8A&}UmiToko{\c&HFFFFFF&}: @blackufa, правда, правда?
-Dialogue: Marked=0, 0:45:16.24, 0:45:19.11, Default, {\c&HA09E5F&}Sekay_Mor{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HA09E5F&}Sekay_Mor{\c&HFFFFFF&}: еееее продолжение будет, топ
-Dialogue: Marked=0, 0:45:16.56, 0:45:18.92, Default, {\c&HB469FF&}mrSupermanOV{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HB469FF&}mrSupermanOV{\c&HFFFFFF&}: @blackufa 😘
-Dialogue: Marked=0, 0:45:16.71, 0:45:19.10, Default, {\c&HFFFFFF&}Uncle_Ken{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}Uncle_Ken{\c&HFFFFFF&}: Не знаю я бы
-Dialogue: Marked=0, 0:45:20.06, 0:45:22.30, Default, {\c&HFFFFFF&}Uncle_Ken{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}Uncle_Ken{\c&HFFFFFF&}: Нееееее
-Dialogue: Marked=0, 0:45:21.84, 0:45:24.26, Default, {\c&HFFFFFF&}min_net_{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}min_net_{\c&HFFFFFF&}: а что дальше?
-Dialogue: Marked=0, 0:45:22.09, 0:45:24.93, Default, {\c&HE22B8A&}fivepointsgang{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HE22B8A&}fivepointsgang{\c&HFFFFFF&}: @BlackUFA но там 99 WutFace
-Dialogue: Marked=0, 0:45:23.48, 0:45:26.65, Default, {\c&H32CD99&}STALLFISH{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H32CD99&}STALLFISH{\c&HFFFFFF&}: Тааак дядя Артур..ну че там...погнали?
-Dialogue: Marked=0, 0:45:24.62, 0:45:27.37, Default, {\c&HFFFFFF&}Dekfel{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}Dekfel{\c&HFFFFFF&}: СД Ппроджект троллят нас
-Dialogue: Marked=0, 0:45:25.50, 0:45:27.74, Default, {\c&HFFFFFF&}Uncle_Ken{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}Uncle_Ken{\c&HFFFFFF&}: Вернись
-Dialogue: Marked=0, 0:45:27.37, 0:45:29.64, Default, {\c&H88FF00&}Dariya_Willis{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H88FF00&}Dariya_Willis{\c&HFFFFFF&}: РЕЕЕЕЕЙД
-Dialogue: Marked=0, 0:45:30.35, 0:45:32.68, Default, {\c&HB469FF&}mrSupermanOV{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HB469FF&}mrSupermanOV{\c&HFFFFFF&}: Я@ты@я@ты@
-Dialogue: Marked=0, 0:45:32.68, 0:45:34.89, Default, {\c&HFFFFFF&}gibljak{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HFFFFFF&}gibljak{\c&HFFFFFF&}: PunOko
-Dialogue: Marked=0, 0:45:33.14, 0:45:35.50, Default, {\c&H7FFF00&}Jean_gein{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&H7FFF00&}Jean_gein{\c&HFFFFFF&}: И ВСЕ????77
-Dialogue: Marked=0, 0:45:33.16, 0:45:35.61, Default, {\c&HB469FF&}sisilium{\c&HFFFFFF&}, 0000, 0000, 0000, , {\c&HB469FF&}sisilium{\c&HFFFFFF&}: флэшбэки снова
+Format: Start, End, Style, Text
+Dialogue: 0:00:30.49, 0:00:32.74, Default, {\c&H0000FF&}dmngch{\c&HFFFFFF&}: blackufaChamp x⁣4
+Dialogue: 0:00:38.90, 0:00:41.21, Default, {\c&H20A5DA&}BlackUFA{\c&HFFFFFF&}: ну совсем раритет LUL
+Dialogue: 0:01:04.58, 0:01:07.34, Default, {\c&HFF901E&}Quiet_Saturn{\c&HFFFFFF&}: ааааа, как же хочется полное прохождение \NBibleThump
+Dialogue: 0:01:13.98, 0:01:16.05, Default, {\c&HFFFFFF&}parz1fal{\c&HFFFFFF&}: воооо
+Dialogue: 0:01:16.86, 0:01:19.35, Default, {\c&H0000FF&}dmngch{\c&HFFFFFF&}: @BlackUFA Та само то blackufaOhNo
+Dialogue: 0:01:37.87, 0:01:39.99, Default, {\c&H20A5DA&}terrasavr{\c&HFFFFFF&}: PogChamp
+Dialogue: 0:01:46.87, 0:01:49.05, Default, {\c&HFFFFFF&}batasuy777{\c&HFFFFFF&}: bigBossSalut
+Dialogue: 0:02:12.52, 0:02:14.58, Default, {\c&HFFFFFF&}Asfinks{\c&HFFFFFF&}: ооо!
+Dialogue: 0:02:13.54, 0:02:15.72, Default, {\c&HFFFFFF&}WiseDolphin321{\c&HFFFFFF&}: bigBossSalut
+Dialogue: 0:02:18.24, 0:02:22.29, Default, {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}: Подписки теперь можно дарить сразу нескольким \Nлюдям! Сделай мир светлей, сделай нонсабов счастливее, а \NБлэка - популярнее. Ну типа камон.
+Dialogue: 0:02:22.41, 0:02:24.60, Default, {\c&HFFFFFF&}Asfinks{\c&HFFFFFF&}: добрый вечер!
+Dialogue: 0:02:24.04, 0:02:26.23, Default, {\c&HFFFFFF&}KarosKonfrid{\c&HFFFFFF&}: Дратути, шоль
+Dialogue: 0:02:27.40, 0:02:29.65, Default, {\c&H32CD99&}STALLFISH{\c&HFFFFFF&}: о сижу один тут))
+Dialogue: 0:02:29.56, 0:02:33.52, Default, {\c&H20A5DA&}BlackUFA{\c&HFFFFFF&}: У меня две серии - сейчас одна, в 20:00 по МСК \Nбудет хост кое-чего от обожаемых всеми польских друзей, а \Nпотом вторая blackufaOhYes
+Dialogue: 0:02:30.83, 0:02:32.98, Default, {\c&HFFFFFF&}Asfinks{\c&HFFFFFF&}: blackufaHi
+Dialogue: 0:02:37.21, 0:02:39.85, Default, {\c&H32CD99&}STALLFISH{\c&HFFFFFF&}: Смотрю резко стольник пожаловал...всем хай)
+Dialogue: 0:02:39.40, 0:02:41.70, Default, {\c&HB469FF&}IlyaQ{\c&HFFFFFF&}: чад, доброго здравия
+Dialogue: 0:02:54.64, 0:02:56.79, Default, {\c&H066099&}DarKShaM{\c&HFFFFFF&}: Змейка? =)
+Dialogue: 0:02:58.30, 0:03:00.55, Default, {\c&HA09E5F&}darkcoredigital{\c&HFFFFFF&}: Привет! Как дела?
+Dialogue: 0:03:11.52, 0:03:13.68, Default, {\c&H0000FF&}runx{\c&HFFFFFF&}: привет всем
+Dialogue: 0:03:15.53, 0:03:18.46, Default, {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}: The alias you set this command to be of, !sub, \Ndoes not exist.
+Dialogue: 0:03:33.72, 0:03:36.20, Default, {\c&H0000FF&}lork28{\c&HFFFFFF&}: Вечер добрый blackufaHi lirikHEY
+Dialogue: 0:03:36.48, 0:03:38.90, Default, {\c&HFFFFFF&}Asfinks{\c&HFFFFFF&}: дела норм! blackufaCoolStory
+Dialogue: 0:03:40.71, 0:03:43.31, Default, {\c&HB469FF&}eromanga_chan{\c&HFFFFFF&}: В 20:00 геймплей Cyberpunk 2077 конфёрмд
+Dialogue: 0:03:41.57, 0:03:43.93, Default, {\c&HFF901E&}Quiet_Saturn{\c&HFFFFFF&}: кодзима гений, уже видно
+Dialogue: 0:03:43.64, 0:03:46.16, Default, {\c&HFFFFFF&}Soviet_microb{\c&HFFFFFF&}: фига чо аптипека в загашнике держит
+Dialogue: 0:03:46.16, 0:03:49.07, Default, {\c&HB469FF&}IlyaQ{\c&HFFFFFF&}: @blackufa Стримлер заранее знал о всей этой суматохе \Nс кодом?
+Dialogue: 0:03:50.01, 0:03:52.32, Default, {\c&HA09E5F&}Severnaya_Utka{\c&HFFFFFF&}: blackufaHi blackufaHi
+Dialogue: 0:03:52.15, 0:03:54.60, Default, {\c&H20A5DA&}BlackUFA{\c&HFFFFFF&}: лучшая игра от Юбисофт всетаки
+Dialogue: 0:04:01.80, 0:04:04.17, Default, {\c&H32CD99&}STALLFISH{\c&HFFFFFF&}: @eromanga_chan та ладна))
+Dialogue: 0:04:13.53, 0:04:15.69, Default, {\c&HFFFFFF&}Asfinks{\c&HFFFFFF&}: АРТУУУР!!!!
+Dialogue: 0:04:14.72, 0:04:19.40, Default, {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}: Чад! Вступай в ряды гордых сабов! Что ты получишь \Nза это? Мою персональную благодарностьв прямом эфире, значок \NКтулхи рядом с ником, прорву крутейших смайлов и гордое \Nзвание саба.
+Dialogue: 0:04:14.80, 0:04:16.99, Default, {\c&HA09E5F&}Severnaya_Utka{\c&HFFFFFF&}: @BlackUFA LUL
+Dialogue: 0:04:19.29, 0:04:21.33, Default, {\c&HFFFFFF&}Asfinks{\c&HFFFFFF&}: ЕЕЕ
+Dialogue: 0:04:20.12, 0:04:22.46, Default, {\c&HB469FF&}eromanga_chan{\c&HFFFFFF&}: @STALLFISH та атвичаю))
+Dialogue: 0:04:21.63, 0:04:24.08, Default, {\c&HFFFFFF&}Soviet_microb{\c&HFFFFFF&}: да юбики молодцы были когда то
+Dialogue: 0:04:26.96, 0:04:29.09, Default, {\c&HFFFFFF&}Asfinks{\c&HFFFFFF&}: Хозяин!!!
+Dialogue: 0:04:28.30, 0:04:30.37, Default, {\c&HFF901E&}Quiet_Saturn{\c&HFFFFFF&}: !кусь
+Dialogue: 0:04:28.53, 0:04:31.20, Default, {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}: Я бы покусался, но скучаю по СВЧ-стримлеру :(
+Dialogue: 0:04:32.03, 0:04:34.10, Default, {\c&HFFFFFF&}kacmanavt{\c&HFFFFFF&}: !кусь
+Dialogue: 0:04:34.33, 0:04:36.57, Default, {\c&HFFFFFF&}WiseDolphin321{\c&HFFFFFF&}: ин Юбисофт ви...
+Dialogue: 0:04:46.45, 0:04:48.79, Default, {\c&HFF0000&}Dimhuk{\c&HFFFFFF&}: Эта музыка blackufaOhNo
+Dialogue: 0:04:52.86, 0:04:55.41, Default, {\c&H20A5DA&}terrasavr{\c&HFFFFFF&}: @BlackUFA дак этож беседка вроде, не?
+Dialogue: 0:04:57.35, 0:04:59.90, Default, {\c&HFF901E&}SlavMayer{\c&HFFFFFF&}: Только недавно пересматривал Kreygasm
+Dialogue: 0:05:10.72, 0:05:12.85, Default, {\c&HE22B8A&}UmiToko{\c&HFFFFFF&}: МГС 3!!!!
+Dialogue: 0:05:24.46, 0:05:26.52, Default, {\c&H7FFF00&}Gibonich{\c&HFFFFFF&}: !фыр
+Dialogue: 0:05:24.70, 0:05:27.57, Default, {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}: Фыркать, пока мой любимый стримлер нежится на \Nморе? Щас!!!
+Dialogue: 0:05:40.10, 0:05:42.17, Default, {\c&HE22B8A&}UmiToko{\c&HFFFFFF&}: !вжух
+Dialogue: 0:05:40.35, 0:05:43.02, Default, {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}: Не буду вжухаться, пока стримлер не вернется!
+Dialogue: 0:05:41.04, 0:05:43.16, Default, {\c&HFF901E&}almasmukh{\c&HFFFFFF&}: Kreygasm
+Dialogue: 0:05:41.64, 0:05:44.00, Default, {\c&HFF901E&}Quiet_Saturn{\c&HFFFFFF&}: ээээх, наномашины, сынки
+Dialogue: 0:05:50.37, 0:05:52.73, Default, {\c&H20A5DA&}BlackUFA{\c&HFFFFFF&}: Shagohod!!! blackufaOhNo
+Dialogue: 0:05:54.05, 0:05:56.68, Default, {\c&HFF901E&}SlavMayer{\c&HFFFFFF&}: А Артур же не проходил 4-ый МГС на запись?
+Dialogue: 0:06:08.78, 0:06:11.03, Default, {\c&HB469FF&}IlyaQ{\c&HFFFFFF&}: йор мемес едн хир
+Dialogue: 0:06:09.30, 0:06:11.37, Default, {\c&H0045FF&}tallismanfsh{\c&HFFFFFF&}: !кусь
+Dialogue: 0:06:09.49, 0:06:12.16, Default, {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}: Я бы покусался, но скучаю по СВЧ-стримлеру :(
+Dialogue: 0:06:10.65, 0:06:12.99, Default, {\c&HFF901E&}dvalitra{\c&HFFFFFF&}: artgam2AGHeavyHorns x⁣3
+Dialogue: 0:06:14.07, 0:06:16.14, Default, {\c&HFFFFFF&}Qvvear{\c&HFFFFFF&}: гений
+Dialogue: 0:06:17.77, 0:06:20.10, Default, {\c&HFF901E&}Quiet_Saturn{\c&HFFFFFF&}: кодзима?! ит кент би!!
+Dialogue: 0:06:51.60, 0:06:53.99, Default, {\c&HFFFFFF&}Asfinks{\c&HFFFFFF&}: Годзима Гений! blackufaEgo
+Dialogue: 0:07:18.06, 0:07:21.02, Default, {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}: Я скучаю по стремлеру, чад! Давайте запустим \Nменьше чем 3 в чат?
+Dialogue: 0:07:27.10, 0:07:29.37, Default, {\c&H0045FF&}Torranor{\c&HFFFFFF&}: чтоооооооооооооооо
+Dialogue: 0:07:29.60, 0:07:31.63, Default, {\c&H20A5DA&}BlackUFA{\c&HFFFFFF&}: <3
+Dialogue: 0:07:32.84, 0:07:35.15, Default, {\c&HFF901E&}almasmukh{\c&HFFFFFF&}: Соколов - гений Keepo
+Dialogue: 0:07:38.94, 0:07:40.97, Default, {\c&H0045FF&}Hambler55{\c&HFFFFFF&}: <3
+Dialogue: 0:07:40.16, 0:07:42.31, Default, {\c&HFFFFFF&}min_net_{\c&HFFFFFF&}: дратуй чад
+Dialogue: 0:07:40.33, 0:07:42.42, Default, {\c&HFF901E&}Quiet_Saturn{\c&HFFFFFF&}: <3 x⁣3
+Dialogue: 0:07:45.00, 0:07:47.07, Default, {\c&H0000FF&}runx{\c&HFFFFFF&}: <3 <3
+Dialogue: 0:07:45.26, 0:07:47.32, Default, {\c&HFFFFFF&}Qvvear{\c&HFFFFFF&}: ниет
+Dialogue: 0:07:47.05, 0:07:49.08, Default, {\c&HB469FF&}IlyaQ{\c&HFFFFFF&}: <3
+Dialogue: 0:07:50.86, 0:07:53.04, Default, {\c&HFF901E&}SlavMayer{\c&HFFFFFF&}: меньше чем 3
+Dialogue: 0:07:52.05, 0:07:54.15, Default, {\c&H0000FF&}lork28{\c&HFFFFFF&}: veldLUV
+Dialogue: 0:07:52.57, 0:07:54.60, Default, {\c&HFFFFFF&}Asfinks{\c&HFFFFFF&}: <3
+Dialogue: 0:07:52.96, 0:07:55.05, Default, {\c&HFFFFFF&}min_net_{\c&HFFFFFF&}: <3 x⁣4
+Dialogue: 0:07:53.83, 0:07:55.86, Default, {\c&H0000FF&}KaDRiel_13{\c&HFFFFFF&}: <3
+Dialogue: 0:07:54.00, 0:07:56.54, Default, {\c&HE22B8A&}UmiToko{\c&HFFFFFF&}: @blackufa, спасибо большое за мгс 3!
+Dialogue: 0:07:57.03, 0:07:59.43, Default, {\c&HFF901E&}almasmukh{\c&HFFFFFF&}: @BlackUFA Как отдыхается?))
+Dialogue: 0:08:02.54, 0:08:04.57, Default, {\c&HB469FF&}Jack_Reno{\c&HFFFFFF&}: Ай
+Dialogue: 0:08:03.48, 0:08:05.67, Default, {\c&HFF901E&}almasmukh{\c&HFFFFFF&}: <3 evosayLove
+Dialogue: 0:08:07.50, 0:08:09.87, Default, {\c&H20A5DA&}BlackUFA{\c&HFFFFFF&}: побазарь тут blackufaRage
+Dialogue: 0:08:15.23, 0:08:18.02, Default, {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}: Наш сервер в Discord - \Nhttps://discord.gg/fsofbsadw ●
+Dialogue: 0:08:21.09, 0:08:23.54, Default, {\c&HB469FF&}Jack_Reno{\c&HFFFFFF&}: Понял, больше не буду. WutFace
+Dialogue: 0:08:34.64, 0:08:36.80, Default, {\c&HA09E5F&}Severnaya_Utka{\c&HFFFFFF&}: bleedPurple
+Dialogue: 0:08:37.00, 0:08:39.61, Default, {\c&HB469FF&}Jack_Reno{\c&HFFFFFF&}: Артур - лучший стример во всей Вселенной!
+Dialogue: 0:08:37.19, 0:08:39.67, Default, {\c&HFF901E&}Quiet_Saturn{\c&HFFFFFF&}: @blackufa выздоравливаешь? SMOrc
+Dialogue: 0:08:45.78, 0:08:48.02, Default, {\c&H20A5DA&}BlackUFA{\c&HFFFFFF&}: @Jack_Reno lickL
+Dialogue: 0:09:15.44, 0:09:17.68, Default, {\c&HE22B8A&}UmiToko{\c&HFFFFFF&}: @blackufa, lickL
+Dialogue: 0:09:20.70, 0:09:23.31, Default, {\c&HFFFFFF&}Qvvear{\c&HFFFFFF&}: стримлер и говорит и в чат пишет PogChamp
+Dialogue: 0:09:25.02, 0:09:27.60, Default, {\c&H32CD99&}STALLFISH{\c&HFFFFFF&}: @BlackUFA ты с Дошей? Привет ей от нас)
+Dialogue: 0:09:30.97, 0:09:33.76, Default, {\c&HB469FF&}Jack_Reno{\c&HFFFFFF&}: М-м-м, семпай потрогал меня своим язычком... \NTehePelo
+Dialogue: 0:09:31.18, 0:09:33.34, Default, {\c&H20A5DA&}BlackUFA{\c&HFFFFFF&}: lickR lickL
+Dialogue: 0:09:31.95, 0:09:34.14, Default, {\c&HE22B8A&}woland_evil{\c&HFFFFFF&}: Привет , Чат!
+Dialogue: 0:09:45.18, 0:09:47.61, Default, {\c&HE22B8A&}woland_evil{\c&HFFFFFF&}: сидим и скучаем по стримлеру?
+Dialogue: 0:09:55.33, 0:09:58.47, Default, {\c&H0045FF&}Torranor{\c&HFFFFFF&}: но ведь оно же не завершено, я ведь прав ? там \Nвсего 3 серии было так ведь ?
+Dialogue: 0:09:58.23, 0:10:00.59, Default, {\c&H20A5DA&}BlackUFA{\c&HFFFFFF&}: чат lickR lickL стримлер
+Dialogue: 0:10:00.32, 0:10:03.17, Default, {\c&HFF901E&}SlavMayer{\c&HFFFFFF&}: @BlackUFA когда-нибудь стоит ждать прохождение \N4-ого мгс?
+Dialogue: 0:10:03.48, 0:10:06.23, Default, {\c&H7FFF00&}LevRight{\c&HFFFFFF&}: почему уведомления премьер не приходят NotLikeThis
+Dialogue: 0:10:04.64, 0:10:06.67, Default, {\c&H008000&}andrey31458{\c&HFFFFFF&}: да
+Dialogue: 0:10:05.84, 0:10:08.11, Default, {\c&HFF0000&}Dimhuk{\c&HFFFFFF&}: blackufaPuke lickL
+Dialogue: 0:10:06.17, 0:10:08.51, Default, {\c&HFFFFFF&}xStake13x{\c&HFFFFFF&}: а когда этот стрим был?
+Dialogue: 0:10:08.77, 0:10:11.14, Default, {\c&HFFFFFF&}zavodgames{\c&HFFFFFF&}: привет артур привет чатик
+Dialogue: 0:10:11.35, 0:10:13.60, Default, {\c&HB469FF&}Jack_Reno{\c&HFFFFFF&}: lickR @Chad lickL
+Dialogue: 0:10:14.25, 0:10:16.83, Default, {\c&HB469FF&}IlyaQ{\c&HFFFFFF&}: @woland_evil Привет, да нет, не скучаем
+Dialogue: 0:10:14.69, 0:10:16.76, Default, {\c&HFFFFFF&}min_net_{\c&HFFFFFF&}: lickR
+Dialogue: 0:10:19.92, 0:10:22.29, Default, {\c&HFF901E&}almasmukh{\c&HFFFFFF&}: Solviet Shagohot PogChamp
+Dialogue: 0:10:27.01, 0:10:29.47, Default, {\c&HE22B8A&}UmiToko{\c&HFFFFFF&}: @xstake13x, его никогда не было
+Dialogue: 0:10:27.70, 0:10:30.16, Default, {\c&HE22B8A&}woland_evil{\c&HFFFFFF&}: Гайз,это же запись FailFish x⁣3
+Dialogue: 0:10:36.36, 0:10:39.26, Default, {\c&HFFFFFF&}razienn21{\c&HFFFFFF&}: @BlackUFA может стоит перепройти одну из частей \NMGS PogChamp
+Dialogue: 0:10:40.30, 0:10:42.40, Default, {\c&HE22B8A&}UmiToko{\c&HFFFFFF&}: BLELELE
+Dialogue: 0:10:41.13, 0:10:43.43, Default, {\c&H0000FF&}runx{\c&HFFFFFF&}: lickR стримлер lickL
+Dialogue: 0:10:44.48, 0:10:46.84, Default, {\c&HB469FF&}Jack_Reno{\c&HFFFFFF&}: @woland_evil в смы-ысле?
+Dialogue: 0:10:50.35, 0:10:52.86, Default, {\c&HFFFFFF&}Qvvear{\c&HFFFFFF&}: @woland_evil че умный самый? SMOrc
+Dialogue: 0:10:52.07, 0:10:54.65, Default, {\c&HFF901E&}almasmukh{\c&HFFFFFF&}: @woland_evil Держи в курсе CoolStoryBob
+Dialogue: 0:10:57.73, 0:11:00.00, Default, {\c&H7FFF00&}mesmallman{\c&HFFFFFF&}: а это что? прямое?
+Dialogue: 0:10:58.65, 0:11:01.65, Default, {\c&H0000FF&}Demonic_smile{\c&HFFFFFF&}: Не нравится мне этот метал гир wlgFace всем \Nпривет, фанаты не бейте
+Dialogue: 0:11:08.07, 0:11:10.40, Default, {\c&HB469FF&}IlyaQ{\c&HFFFFFF&}: @woland_evil бан SMOrc
+Dialogue: 0:11:13.06, 0:11:16.29, Default, {\c&HE22B8A&}woland_evil{\c&HFFFFFF&}: Ну, тут далеко не все врубаются, что запись, \Nтак шо не надо тут на меня KappaPride
+Dialogue: 0:11:13.95, 0:11:16.28, Default, {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}: Эх, чад, рекламу бы...
+Dialogue: 0:11:15.04, 0:11:17.64, Default, {\c&H32CD99&}STALLFISH{\c&HFFFFFF&}: @woland_evil мы как бы в курсе вообще-то
+Dialogue: 0:11:19.75, 0:11:22.30, Default, {\c&HFF901E&}almasmukh{\c&HFFFFFF&}: @Demonic_smile SMOrc smileborodHammer
+Dialogue: 0:11:27.73, 0:11:30.49, Default, {\c&HE22B8A&}UmiToko{\c&HFFFFFF&}: @demonic_smile, а мне нравится именно из-за Оцелота
+Dialogue: 0:11:32.85, 0:11:36.09, Default, {\c&HB469FF&}Jack_Reno{\c&HFFFFFF&}: @Demonic_smile ну, он похож больше на Бондиану, \Nнежели на "классический" метал гир.
+Dialogue: 0:11:34.68, 0:11:36.78, Default, {\c&H20A5DA&}BlackUFA{\c&HFFFFFF&}: чат .i.
+Dialogue: 0:11:43.55, 0:11:45.68, Default, {\c&HFFFFFF&}Qvvear{\c&HFFFFFF&}: сам такой
+Dialogue: 0:11:45.50, 0:11:48.49, Default, {\c&HE22B8A&}your_pirojok{\c&HFFFFFF&}: Здрасти чад, Добра и позитива! evosayLove \NhehCat hehKus hehL Keepo
+Dialogue: 0:11:49.09, 0:11:51.42, Default, {\c&H0044FF&}Mr_Ramych{\c&HFFFFFF&}: @blackufa eligorkoEvil
+Dialogue: 0:11:52.67, 0:11:54.89, Default, {\c&HB469FF&}Jack_Reno{\c&HFFFFFF&}: @BlackUFA lickL
+Dialogue: 0:11:53.91, 0:11:56.13, Default, {\c&HFFFFFF&}h1dewhat{\c&HFFFFFF&}: @BlackUFA SMOrc
+Dialogue: 0:11:55.09, 0:11:58.12, Default, {\c&HFFFFFF&}Asfinks{\c&HFFFFFF&}: Скучаем? не. не слышал. Вот он тут. Сидит, молчит. \Nчатик тролит SMOrc
+Dialogue: 0:11:56.08, 0:11:58.38, Default, {\c&HB469FF&}IlyaQ{\c&HFFFFFF&}: @blackufa KappaPride
+Dialogue: 0:11:59.74, 0:12:02.05, Default, {\c&H32CD99&}STALLFISH{\c&HFFFFFF&}: @BlackUFA сам такой))
+Dialogue: 0:12:01.27, 0:12:03.60, Default, {\c&H0000FF&}Demonic_smile{\c&HFFFFFF&}: @blackufa сам ты пипка
+Dialogue: 0:12:05.35, 0:12:07.65, Default, {\c&H7FFF00&}mesmallman{\c&HFFFFFF&}: @blackufa как отдых?
+Dialogue: 0:12:06.24, 0:12:08.51, Default, {\c&HE22B8A&}your_pirojok{\c&HFFFFFF&}: @blackufa hehF x⁣3
+Dialogue: 0:12:09.04, 0:12:12.49, Default, {\c&HFFFFFF&}razienn21{\c&HFFFFFF&}: @Demonic_smile тоже не понимал серию потом после \Nтого как взял плойку у друга и как то занесло :P
+Dialogue: 0:12:11.86, 0:12:13.93, Default, {\c&H20A5DA&}BlackUFA{\c&HFFFFFF&}: хмммм
+Dialogue: 0:12:14.97, 0:12:17.12, Default, {\c&H20A5DA&}BlackUFA{\c&HFFFFFF&}: а что если
+Dialogue: 0:12:15.27, 0:12:17.69, Default, {\c&H008000&}vsplivshiypes{\c&HFFFFFF&}: @BlackUFA You're pretty good
+Dialogue: 0:12:20.82, 0:12:23.19, Default, {\c&HA09E5F&}Severnaya_Utka{\c&HFFFFFF&}: @BlackUFA blackufaShocked
+Dialogue: 0:12:21.68, 0:12:23.99, Default, {\c&HE22B8A&}UmiToko{\c&HFFFFFF&}: стример чат не читает
+Dialogue: 0:12:27.02, 0:12:29.15, Default, {\c&H20A5DA&}BlackUFA{\c&HFFFFFF&}: lickR .i.
+Dialogue: 0:12:31.72, 0:12:33.94, Default, {\c&HB469FF&}Jack_Reno{\c&HFFFFFF&}: Не надо сабмода
+Dialogue: 0:12:32.59, 0:12:34.63, Default, {\c&H20A5DA&}BlackUFA{\c&HFFFFFF&}: LUL
+Dialogue: 0:12:40.16, 0:12:42.58, Default, {\c&HE22B8A&}your_pirojok{\c&HFFFFFF&}: @blackufa hehSh x⁣3 hehF x⁣3
+Dialogue: 0:12:41.13, 0:12:43.38, Default, {\c&HFFFFFF&}min_net_{\c&HFFFFFF&}: lickR RareW lickL
+Dialogue: 0:12:41.70, 0:12:43.88, Default, {\c&HFFFFFF&}sort_geraina{\c&HFFFFFF&}: чооооооооооо
+Dialogue: 0:12:43.17, 0:12:45.93, Default, {\c&HA09E5F&}cheburator0606{\c&HFFFFFF&}: @blackufa о Артур, удачного отдыха, скучно \Nбез нас?
+Dialogue: 0:12:46.06, 0:12:48.46, Default, {\c&HFF901E&}almasmukh{\c&HFFFFFF&}: @BlackUFA evosayStupido LUL
+Dialogue: 0:12:46.26, 0:12:48.42, Default, {\c&HFF901E&}Quiet_Saturn{\c&HFFFFFF&}: воу воу LUL
+Dialogue: 0:12:46.79, 0:12:49.03, Default, {\c&HFFFFFF&}sort_geraina{\c&HFFFFFF&}: не вы это видели
+Dialogue: 0:12:47.62, 0:12:49.84, Default, {\c&HFFFFFF&}Asfinks{\c&HFFFFFF&}: что если? lickR
+Dialogue: 0:12:48.38, 0:12:50.51, Default, {\c&HFF901E&}MeX4NiK_{\c&HFFFFFF&}: gachiBASS
+Dialogue: 0:12:48.46, 0:12:50.67, Default, {\c&HFFFFFF&}Qvvear{\c&HFFFFFF&}: Артур, ты пьян
+Dialogue: 0:12:50.52, 0:12:52.73, Default, {\c&HFFFFFF&}sort_geraina{\c&HFFFFFF&}: это не увжение
+Dialogue: 0:12:50.85, 0:12:52.92, Default, {\c&HFFFFFF&}WiseDolphin321{\c&HFFFFFF&}: lickL
+Dialogue: 0:12:53.45, 0:12:55.52, Default, {\c&HFFFFFF&}sort_geraina{\c&HFFFFFF&}: к нам
+Dialogue: 0:12:55.49, 0:12:57.89, Default, {\c&H0000FF&}runx{\c&HFFFFFF&}: стример не чсв читает Kappa
+Dialogue: 0:12:56.37, 0:12:59.03, Default, {\c&HFFFFFF&}razienn21{\c&HFFFFFF&}: @BlackUFA Блэк ты красивый пиписьки не кидай
+Dialogue: 0:12:57.12, 0:12:59.24, Default, {\c&HFFFFFF&}sort_geraina{\c&HFFFFFF&}: нонсабом
+Dialogue: 0:12:58.71, 0:13:01.17, Default, {\c&HB469FF&}Jack_Reno{\c&HFFFFFF&}: М-м-м... Морковка Ноктиса lickL
+Dialogue: 0:13:00.70, 0:13:02.76, Default, {\c&HFFFFFF&}sort_geraina{\c&HFFFFFF&}: БУНД
+Dialogue: 0:13:02.63, 0:13:04.99, Default, {\c&H0000FF&}Demonic_smile{\c&HFFFFFF&}: wlgFace Артур 50 годиков
+Dialogue: 0:13:04.64, 0:13:07.15, Default, {\c&H7FFF00&}mesmallman{\c&HFFFFFF&}: там скоро геймплей cyberpunk будет
+Dialogue: 0:13:05.26, 0:13:08.40, Default, {\c&H578B2E&}Spitsnaz_Soldier{\c&HFFFFFF&}: Только зашел, а тут первое же сообщение от \NАртура вотэтовот яяяяяяясно Kappa
+Dialogue: 0:13:07.92, 0:13:10.92, Default, {\c&H0000FF&}AlexDee2013{\c&HFFFFFF&}: только сегодня начал пересматривать мгс, вот и \NАртур подрубил Kappa
+Dialogue: 0:13:14.45, 0:13:16.87, Default, {\c&H0000FF&}VLADTURING{\c&HFFFFFF&}: @BlackUFA привет skoomaRk800
+Dialogue: 0:13:14.53, 0:13:16.60, Default, {\c&HFFFFFF&}Asfinks{\c&HFFFFFF&}: lickL
+Dialogue: 0:13:16.04, 0:13:18.67, Default, {\c&H7FFF00&}LevRight{\c&HFFFFFF&}: биг босс еще так молод и наивен BibleThump
+Dialogue: 0:13:27.16, 0:13:30.06, Default, {\c&H32CD99&}STALLFISH{\c&HFFFFFF&}: @cheburator0606 я думаю мы его уже задрали, вот и \Nотдыхает))
+Dialogue: 0:13:33.63, 0:13:35.96, Default, {\c&HFF0000&}Dimka90{\c&HFFFFFF&}: Привет чат. blackufaHi
+Dialogue: 0:13:36.47, 0:13:39.68, Default, {\c&H0045FF&}Torranor{\c&HFFFFFF&}: Эта боль ведь до прохождения MGS3 еще очень долго \Nесли верить конами с ремасеторм
+Dialogue: 0:13:42.79, 0:13:45.34, Default, {\c&HE22B8A&}UmiToko{\c&HFFFFFF&}: я так жду мгс4 от Артура FeelsRainMan
+Dialogue: 0:13:45.02, 0:13:47.29, Default, {\c&HFF0000&}Dimhuk{\c&HFFFFFF&}: blackufaPuke lickL
+Dialogue: 0:13:48.94, 0:13:51.24, Default, {\c&HFFFFFF&}Asfinks{\c&HFFFFFF&}: СУНЕЙК! blackufaRage
+Dialogue: 0:14:01.78, 0:14:05.02, Default, {\c&HE22B8A&}serhigobi{\c&HFFFFFF&}: Ничоси Артур нормально разговаривает так вот он \Nкакой был до чата PogChamp PogChamp
+Dialogue: 0:14:15.72, 0:14:18.12, Default, {\c&HFF901E&}Quiet_Saturn{\c&HFFFFFF&}: болтливый биг босс Kreygasm
+Dialogue: 0:14:24.93, 0:14:27.62, Default, {\c&H0000FF&}runx{\c&HFFFFFF&}: а полное прохождение мгс 3 сколько серий? две?
+Dialogue: 0:14:28.85, 0:14:31.37, Default, {\c&H0045FF&}Torranor{\c&HFFFFFF&}: @UmiToko как я тебя понимаю PepeWhy
+Dialogue: 0:14:34.95, 0:14:37.71, Default, {\c&HFFFFFF&}razienn21{\c&HFFFFFF&}: там какая то трансляция Cyberpunk 2077 от \NCDprojekt
+Dialogue: 0:14:54.12, 0:14:56.37, Default, {\c&HFFFFFF&}fenixarmory{\c&HFFFFFF&}: teatheKhajiit x⁣6
+Dialogue: 0:14:58.76, 0:15:01.70, Default, {\c&HE22B8A&}UmiToko{\c&HFFFFFF&}: @razienn21, ага нобор когда какого-то ничоси вот \Nэто трансляция
+Dialogue: 0:14:59.32, 0:15:01.51, Default, {\c&HA09E5F&}Severnaya_Utka{\c&HFFFFFF&}: Крууутоой о.о
+Dialogue: 0:15:04.46, 0:15:06.95, Default, {\c&HB469FF&}eromanga_chan{\c&HFFFFFF&}: @razienn21 геймплей будет в 20:00
+Dialogue: 0:15:06.99, 0:15:09.12, Default, {\c&HFFFFFF&}Based_Magapede{\c&HFFFFFF&}: Ckya blat
+Dialogue: 0:15:10.51, 0:15:12.87, Default, {\c&H7FFF00&}mesmallman{\c&HFFFFFF&}: @torranor геймплей будет
+Dialogue: 0:15:12.33, 0:15:14.78, Default, {\c&HFFFFFF&}Based_Magapede{\c&HFFFFFF&}: thats the extent of my russian
+Dialogue: 0:15:20.36, 0:15:23.00, Default, {\c&HFFFFFF&}razienn21{\c&HFFFFFF&}: Тося еще такая молодая и наивная BibleThump
+Dialogue: 0:15:22.62, 0:15:24.99, Default, {\c&HFF901E&}Quiet_Saturn{\c&HFFFFFF&}: Тоось, ну Тооось, ну уйди
+Dialogue: 0:15:32.58, 0:15:36.65, Default, {\c&HB469FF&}Jack_Reno{\c&HFFFFFF&}: Кстати, Чад. Расскажите, кто в этом году уезжает \Nучиться? CoolStoryBob Я, вот, сам 31 августа прощаюсь с \NАртурой. Буду скучать. BibleThump
+Dialogue: 0:15:34.99, 0:15:37.14, Default, {\c&H0000FF&}MrRavingRabbit{\c&HFFFFFF&}: хейтер -_-
+Dialogue: 0:15:35.21, 0:15:37.49, Default, {\c&H20A5DA&}BlackUFA{\c&HFFFFFF&}: @Based_Magapede wow
+Dialogue: 0:15:46.31, 0:15:48.65, Default, {\c&HFFFFFF&}Asfinks{\c&HFFFFFF&}: СУНЕЙК!!!! blackufaRage
+Dialogue: 0:15:46.51, 0:15:49.33, Default, {\c&HFF901E&}hawbiguse{\c&HFFFFFF&}: в конце окажется что снейк клон оригинального биг \Nбосса
+Dialogue: 0:15:51.87, 0:15:54.48, Default, {\c&HB469FF&}eromanga_chan{\c&HFFFFFF&}: @Based_Magapede and you misspelled it lol
+Dialogue: 0:15:51.92, 0:15:54.64, Default, {\c&HFFFFFF&}razienn21{\c&HFFFFFF&}: @eromanga_chan знаешь почему все пишут !join LuL
+Dialogue: 0:15:53.73, 0:15:56.58, Default, {\c&HFFFFFF&}sort_geraina{\c&HFFFFFF&}: вы все слышали надо войну против артура сам \Nаоьуо сказал*
+Dialogue: 0:15:55.07, 0:15:57.26, Default, {\c&HFFFFFF&}h1dewhat{\c&HFFFFFF&}: ты копируешь?
+Dialogue: 0:15:56.07, 0:15:58.50, Default, {\c&H0045FF&}Torranor{\c&HFFFFFF&}: @mesmallman эм гейплей чего ?
+Dialogue: 0:15:58.48, 0:16:00.82, Default, {\c&HFFFFFF&}fenixarmory{\c&HFFFFFF&}: @blackufa teatheKhajiit
+Dialogue: 0:15:59.94, 0:16:02.39, Default, {\c&H7FFF00&}mesmallman{\c&HFFFFFF&}: @jack_reno я закончит, работаю
+Dialogue: 0:16:10.95, 0:16:13.83, Default, {\c&HE22B8A&}UmiToko{\c&HFFFFFF&}: @jack_reno, уезжаю и возвращаюсь каждый день домой \Nк Артуру
+Dialogue: 0:16:11.82, 0:16:14.10, Default, {\c&H7FFF00&}mesmallman{\c&HFFFFFF&}: @torranor cyberpunk
+Dialogue: 0:16:14.09, 0:16:16.67, Default, {\c&HB469FF&}Jack_Reno{\c&HFFFFFF&}: @hawbiguse you picked wrong game, fool!
+Dialogue: 0:16:25.95, 0:16:28.19, Default, {\c&H7FFF00&}LevRight{\c&HFFFFFF&}: снейк KomodoHype
+Dialogue: 0:16:35.95, 0:16:38.20, Default, {\c&H0000FF&}QuiteRaven{\c&HFFFFFF&}: Голый снейк АЗАЗА
+Dialogue: 0:16:39.35, 0:16:41.56, Default, {\c&H0045FF&}Torranor{\c&HFFFFFF&}: @mesmallman kk
+Dialogue: 0:16:45.18, 0:16:48.78, Default, {\c&HFFFFFF&}Based_Magapede{\c&HFFFFFF&}: Its not my fault. THe only russian people i \Nknow are meddling in muh elections, so they dont speak \Nrussian.
+Dialogue: 0:16:48.12, 0:16:50.51, Default, {\c&H0000FF&}MrRavingRabbit{\c&HFFFFFF&}: снейк? снейк? СНЕЕЕЕЕЕЕЕЙК
+Dialogue: 0:16:49.25, 0:16:51.85, Default, {\c&HFF901E&}hawbiguse{\c&HFFFFFF&}: @Jack_Reno ах да это будет после 4 части
+Dialogue: 0:16:50.55, 0:16:52.68, Default, {\c&H0044FF&}Mr_Ramych{\c&HFFFFFF&}: Стелс LUL
+Dialogue: 0:16:52.28, 0:16:54.92, Default, {\c&HB469FF&}Jack_Reno{\c&HFFFFFF&}: Интересно "Major Tom" - это отсылка к Боуи?
+Dialogue: 0:16:53.64, 0:16:56.84, Default, {\c&HFFFFFF&}arthurezessg{\c&HFFFFFF&}: Ох уж этот молоденький,сладкий, тоненький \Nголосок Артура, о да Семпай, продолжай
+Dialogue: 0:16:54.91, 0:16:57.31, Default, {\c&H0000FF&}deemasus{\c&HFFFFFF&}: ground control to major tom
+Dialogue: 0:16:55.48, 0:16:57.75, Default, {\c&HFFFFFF&}fenixarmory{\c&HFFFFFF&}: teatheKhajiit Snek
+Dialogue: 0:17:10.49, 0:17:12.88, Default, {\c&HFF901E&}Volzhsky_ratnik{\c&HFFFFFF&}: Чат напомни когда это было
+Dialogue: 0:17:12.52, 0:17:14.85, Default, {\c&H0000FF&}MrRavingRabbit{\c&HFFFFFF&}: @Based_Magapede ask em
+Dialogue: 0:17:13.17, 0:17:15.23, Default, {\c&HE22B8A&}Jusepist{\c&HFFFFFF&}: Snek
+Dialogue: 0:17:25.50, 0:17:27.87, Default, {\c&HFF901E&}hawbiguse{\c&HFFFFFF&}: не майор том а майор зиро
+Dialogue: 0:17:26.87, 0:17:30.92, Default, {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}: Подписки теперь можно дарить сразу нескольким \Nлюдям! Сделай мир светлей, сделай нонсабов счастливее, а \NБлэка - популярнее. Ну типа камон.
+Dialogue: 0:17:31.71, 0:17:34.01, Default, {\c&HFFFFFF&}Asfinks{\c&HFFFFFF&}: СТЭЙК!!!! KomodoHype
+Dialogue: 0:17:45.24, 0:17:47.73, Default, {\c&HE22B8A&}UmiToko{\c&HFFFFFF&}: @volzhsky_ratnik, 2013-2015 вроде
+Dialogue: 0:17:49.45, 0:17:51.52, Default, {\c&HFFFFFF&}Asfinks{\c&HFFFFFF&}: !кусь
+Dialogue: 0:17:49.71, 0:17:52.38, Default, {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}: Я бы покусался, но скучаю по СВЧ-стримлеру :(
+Dialogue: 0:18:05.03, 0:18:07.10, Default, {\c&HB469FF&}mrSupermanOV{\c&HFFFFFF&}: !time
+Dialogue: 0:18:05.32, 0:18:08.07, Default, {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}: Передаем в СВЧ-диапазоне уже 18 minutes 47 seconds
+Dialogue: 0:18:05.77, 0:18:08.17, Default, {\c&HE22B8A&}Jusepist{\c&HFFFFFF&}: Ground control to major Tom
+Dialogue: 0:18:05.96, 0:18:09.01, Default, {\c&H20A5DA&}BlackUFA{\c&HFFFFFF&}: как этот стримлер был хорош! Жаль, что с годами \Nиспортился blackufaCry
+Dialogue: 0:18:21.52, 0:18:24.45, Default, {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}: The alias you set this command to be of, !sub, \Ndoes not exist.
+Dialogue: 0:18:23.76, 0:18:26.57, Default, {\c&H0000FF&}Demonic_smile{\c&HFFFFFF&}: Кстати, кто в курсе, что за стрим устроили сд \Nпрожект?
+Dialogue: 0:18:27.68, 0:18:32.26, Default, {\c&HB469FF&}Jack_Reno{\c&HFFFFFF&}: Ладно, пойду я досматривать первую часть \Nпрохождения и начну вторую, чтобы было к чему возвращаться. \NБуду скучать, Чад. BibleThump Артур, я цалую тобе в пупочку. \NBibleThump
+Dialogue: 0:18:47.92, 0:18:50.73, Default, {\c&HB469FF&}eromanga_chan{\c&HFFFFFF&}: @razienn21 не знаю, но на всякий тоже написал \NcmonBruh
+Dialogue: 0:18:47.97, 0:18:50.96, Default, {\c&HB469FF&}mrSupermanOV{\c&HFFFFFF&}: @blackufa Стримлер как вино, хорошеет со \Nвременем. Как омское вино
+Dialogue: 0:18:50.64, 0:18:52.91, Default, {\c&H578B2E&}Spitsnaz_Soldier{\c&HFFFFFF&}: Согласен - бан LUL
+Dialogue: 0:18:52.24, 0:18:55.09, Default, {\c&HFFFFFF&}Asfinks{\c&HFFFFFF&}: Да, тогда и стример был хорош и водка вкусная \NblackufaLuL
+Dialogue: 0:18:54.13, 0:18:56.46, Default, {\c&H2222B2&}The__REVerend__{\c&HFFFFFF&}: Пепе..... FeelsRainMan
+Dialogue: 0:19:03.40, 0:19:05.91, Default, {\c&HFFFFFF&}fenixarmory{\c&HFFFFFF&}: @blackufa ТАК давай вернёммего!!!!
+Dialogue: 0:19:03.80, 0:19:05.98, Default, {\c&H20A5DA&}BlackUFA{\c&HFFFFFF&}: всем бан LUL
+Dialogue: 0:19:13.24, 0:19:15.63, Default, {\c&HB469FF&}Jack_Reno{\c&HFFFFFF&}: @Asfinks и доллар по 35...
+Dialogue: 0:19:14.57, 0:19:17.03, Default, {\c&H32CD99&}STALLFISH{\c&HFFFFFF&}: @BlackUFA че обиделся? шютк же)
+Dialogue: 0:19:18.30, 0:19:21.09, Default, {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}: Наш сервер в Discord - \Nhttps://discord.gg/fsofbsadw ●
+Dialogue: 0:19:20.25, 0:19:22.52, Default, {\c&HFF0000&}Dimhuk{\c&HFFFFFF&}: blackufaPuke lickL
+Dialogue: 0:19:20.52, 0:19:22.97, Default, {\c&HE22B8A&}serhigobi{\c&HFFFFFF&}: Артурка с годами только крепче
+Dialogue: 0:19:21.19, 0:19:23.35, Default, {\c&H0000FF&}Solarisbellator{\c&HFFFFFF&}: Всем привет
+Dialogue: 0:19:27.36, 0:19:29.51, Default, {\c&HE22B8A&}topoly2{\c&HFFFFFF&}: привет Бэк
+Dialogue: 0:19:30.52, 0:19:33.88, Default, {\c&HE22B8A&}glaswen{\c&HFFFFFF&}: стример настолько чсв стал, что смотрит трансляции \Nзаписи своих старых прохождений Kappa <3
+Dialogue: 0:19:34.91, 0:19:37.09, Default, {\c&H20A5DA&}BlackUFA{\c&HFFFFFF&}: привет фронт
+Dialogue: 0:19:35.04, 0:19:37.14, Default, {\c&HE22B8A&}topoly2{\c&HFFFFFF&}: шо это?
+Dialogue: 0:19:48.20, 0:19:51.28, Default, {\c&HB469FF&}IlyaQ{\c&HFFFFFF&}: @demonic_smile стрим написания кода для батл рояля во \Nвселенной ведьмака
+Dialogue: 0:19:48.35, 0:19:50.92, Default, {\c&HFF901E&}Quiet_Saturn{\c&HFFFFFF&}: а можно ли забанить сразу весь чад? хм
+Dialogue: 0:19:50.78, 0:19:53.48, Default, {\c&HE22B8A&}fivepointsgang{\c&HFFFFFF&}: а чего он стримит, он же в отпуске \NCoolStoryBob
+Dialogue: 0:19:52.63, 0:19:55.17, Default, {\c&HFF901E&}Volzhsky_ratnik{\c&HFFFFFF&}: @blackufa хорошего "остатка" отдыха)
+Dialogue: 0:20:01.87, 0:20:04.24, Default, {\c&H2222B2&}The__REVerend__{\c&HFFFFFF&}: "Стееееелс! Начало" Kappa
+Dialogue: 0:20:03.06, 0:20:05.79, Default, {\c&HFFFFFF&}gibljak{\c&HFFFFFF&}: А жевачку и плейбой для подкупа местных ему дали?
+Dialogue: 0:20:03.15, 0:20:07.29, Default, {\c&HB469FF&}Jack_Reno{\c&HFFFFFF&}: Вообще, мужчины с годами только хорошеют. Они - \Nкак хорошее вино. Особенно, Артур. Когда Артуру станет 100 я \Nего откупорю и тогда... KappaPride
+Dialogue: 0:20:08.80, 0:20:11.01, Default, {\c&HA09E5F&}sad_daniel{\c&HFFFFFF&}: Артур ! BegWan
+Dialogue: 0:20:12.85, 0:20:15.43, Default, {\c&HFFFFFF&}SloT124{\c&HFFFFFF&}: Артурка, а когда непосредственно поток?
+Dialogue: 0:20:19.82, 0:20:22.13, Default, {\c&H0000FF&}Demonic_smile{\c&HFFFFFF&}: @ilyaq забавная шутка
+Dialogue: 0:20:19.95, 0:20:22.13, Default, {\c&H20A5DA&}BlackUFA{\c&HFFFFFF&}: когда приеду
+Dialogue: 0:20:27.16, 0:20:29.68, Default, {\c&HE22B8A&}topoly2{\c&HFFFFFF&}: это типо гайд по прохождению? Kappa
+Dialogue: 0:20:41.54, 0:20:44.42, Default, {\c&HE22B8A&}serhigobi{\c&HFFFFFF&}: @blackufa в отпуске плохо? Зачем к нам смердам \Nзашёл? Kappa
+Dialogue: 0:20:48.88, 0:20:51.73, Default, {\c&H32CD99&}STALLFISH{\c&HFFFFFF&}: @BlackUFA Артур, а ты до какого числа примерно в \Nотъезде?
+Dialogue: 0:20:52.59, 0:20:55.25, Default, {\c&HB469FF&}eromanga_chan{\c&HFFFFFF&}: @Jack_Reno что ты ему откупоришь? KappaPride
+Dialogue: 0:20:58.23, 0:21:01.41, Default, {\c&HFF901E&}Volzhsky_ratnik{\c&HFFFFFF&}: Помню в игре можно секретную волную \N"собрать" и так играла великолепная песенка
+Dialogue: 0:21:01.32, 0:21:03.65, Default, {\c&HFF901E&}Quiet_Saturn{\c&HFFFFFF&}: и очень короткое Kappa
+Dialogue: 0:21:04.95, 0:21:07.01, Default, {\c&HA09E5F&}sad_daniel{\c&HFFFFFF&}: до 3
+Dialogue: 0:21:07.25, 0:21:09.61, Default, {\c&HFFFFFF&}grognack_1st{\c&HFFFFFF&}: @STALLFISH до 3 сентября
+Dialogue: 0:21:07.35, 0:21:10.14, Default, {\c&H0000FF&}0Samuro0{\c&HFFFFFF&}: @BlackUFA спасибо за метал гииир) Приятно \Nотдохнуть )
+Dialogue: 0:21:09.12, 0:21:11.60, Default, {\c&H20A5DA&}ViProtoTypee{\c&HFFFFFF&}: Я думал это прямой эфир FailFish
+Dialogue: 0:21:09.55, 0:21:12.21, Default, {\c&HFFFFFF&}sort_geraina{\c&HFFFFFF&}: почему другой стримлер пришел на стрим этого
+Dialogue: 0:21:11.00, 0:21:13.21, Default, {\c&H0000FF&}Demonic_smile{\c&HFFFFFF&}: Игра с Ps one?
+Dialogue: 0:21:12.15, 0:21:14.87, Default, {\c&HFFFFFF&}SloT124{\c&HFFFFFF&}: я видимо упустил это новость, по уши в работе :(
+Dialogue: 0:21:15.10, 0:21:17.29, Default, {\c&HA09E5F&}sad_daniel{\c&HFFFFFF&}: до 3 сентября
+Dialogue: 0:21:16.92, 0:21:19.82, Default, {\c&HFF0000&}DiGrays{\c&HFFFFFF&}: Я даже помню это видео, там кажется дальше 3 серии \Nне зашло(
+Dialogue: 0:21:17.53, 0:21:22.21, Default, {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}: Чад! Вступай в ряды гордых сабов! Что ты получишь \Nза это? Мою персональную благодарностьв прямом эфире, значок \NКтулхи рядом с ником, прорву крутейших смайлов и гордое \Nзвание саба.
+Dialogue: 0:21:20.68, 0:21:23.70, Default, {\c&HFFFFFF&}Asfinks{\c&HFFFFFF&}: Стример должен быть как вино. blackufaCoolStory Чат \Nпредложи почему.
+Dialogue: 0:21:23.76, 0:21:25.86, Default, {\c&H32CD99&}STALLFISH{\c&HFFFFFF&}: Ясн спс
+Dialogue: 0:21:25.83, 0:21:29.00, Default, {\c&HB469FF&}Jack_Reno{\c&HFFFFFF&}: @eromanga_chan а тебе это совсем необязательно \Nзнать, судя по нику. KappaPride
+Dialogue: 0:21:32.02, 0:21:35.41, Default, {\c&HFFFFFF&}gibljak{\c&HFFFFFF&}: @blackufa Я обычно избегаю звонков с работы в \Nотпуске. Видимо действительно любишь свое дело.
+Dialogue: 0:21:32.53, 0:21:36.37, Default, {\c&HE22B8A&}fivepointsgang{\c&HFFFFFF&}: @SloT124 Артур говорил что-то про 4 сентября \Nесли я ничего не путаю + может пара дней на прийти в себя, \Nот стримера зависит
+Dialogue: 0:21:41.70, 0:21:44.36, Default, {\c&HB469FF&}Jack_Reno{\c&HFFFFFF&}: @eromanga_chan это сугубо мужская церемония.
+Dialogue: 0:21:46.00, 0:21:48.40, Default, {\c&HFFFFFF&}Boltlivi{\c&HFFFFFF&}: @blackufa Хорошо отдохнуть!
+Dialogue: 0:21:52.38, 0:21:54.63, Default, {\c&HFFFFFF&}SloT124{\c&HFFFFFF&}: Спасибо за инфу:)
+Dialogue: 0:22:03.66, 0:22:05.79, Default, {\c&H20A5DA&}BlackUFA{\c&HFFFFFF&}: lickR чат
+Dialogue: 0:22:05.46, 0:22:08.18, Default, {\c&HFFFFFF&}grognack_1st{\c&HFFFFFF&}: @BlackUFA эот типо трансляция записи \Nтрансляции?
+Dialogue: 0:22:16.58, 0:22:19.30, Default, {\c&HE22B8A&}fivepointsgang{\c&HFFFFFF&}: @SloT124 это в группе должно быть точно \Nнаписано
+Dialogue: 0:22:17.79, 0:22:20.03, Default, {\c&H578B2E&}Spitsnaz_Soldier{\c&HFFFFFF&}: Больше, чем 4221
+Dialogue: 0:22:20.63, 0:22:22.79, Default, {\c&HE22B8A&}fivepointsgang{\c&HFFFFFF&}: BLELELE x⁣3
+Dialogue: 0:22:26.51, 0:22:28.88, Default, {\c&HFF901E&}Volzhsky_ratnik{\c&HFFFFFF&}: Ох какой же мгс 3 хороший
+Dialogue: 0:22:34.40, 0:22:38.23, Default, {\c&HB469FF&}Jack_Reno{\c&HFFFFFF&}: @Asfinks я уже писал выше. Потому что, когда ему \Nстукнет под сто - его нужно будет откупорить и \Nнаслаждаться... KappaPride
+Dialogue: 0:22:35.86, 0:22:37.93, Default, {\c&H20A5DA&}Rex__Erection{\c&HFFFFFF&}: !time
+Dialogue: 0:22:36.26, 0:22:39.01, Default, {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}: Передаем в СВЧ-диапазоне уже 23 minutes 18 seconds
+Dialogue: 0:22:39.51, 0:22:42.09, Default, {\c&HE22B8A&}nyuttka{\c&HFFFFFF&}: @BlackUFA с отдыхом вас! меньше чем три
+Dialogue: 0:22:39.67, 0:22:42.48, Default, {\c&HB469FF&}IlyaQ{\c&HFFFFFF&}: стример как вино…хм. от него по утру тож голова \Nболит?
+Dialogue: 0:22:51.51, 0:22:54.96, Default, {\c&HFFFFFF&}L41n_s4kura{\c&HFFFFFF&}: Артурка с приездом тебя, все жду от тебя \Nпрохождения Shenmue 1& 2 сам уже играю. Будешь стримить?
+Dialogue: 0:22:56.97, 0:22:59.18, Default, {\c&H0000FF&}QuiteRaven{\c&HFFFFFF&}: Фокс дай Kappa
+Dialogue: 0:23:12.55, 0:23:14.58, Default, {\c&HA09E5F&}sad_daniel{\c&HFFFFFF&}: <3
+Dialogue: 0:23:16.33, 0:23:18.66, Default, {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}: Эх, чад, рекламу бы...
+Dialogue: 0:23:20.91, 0:23:24.29, Default, {\c&H32CD99&}STALLFISH{\c&HFFFFFF&}: У меня МГС3 почему-то всегда ассоциировался с SC \NChaos Theory...что-то неуловимо схожее есть
+Dialogue: 0:23:29.32, 0:23:31.74, Default, {\c&H20A5DA&}BlackUFA{\c&HFFFFFF&}: я еще не приехал blackufaWut
+Dialogue: 0:23:31.02, 0:23:33.84, Default, {\c&HFFFFFF&}SalamiInTheSky{\c&HFFFFFF&}: @blackufa как много серий было записано по \N3-му mgs’у?)
+Dialogue: 0:23:35.78, 0:23:38.14, Default, {\c&H20A5DA&}Rex__Erection{\c&HFFFFFF&}: добрый вечерочек пупсики
+Dialogue: 0:23:36.48, 0:23:40.19, Default, {\c&HB469FF&}eromanga_chan{\c&HFFFFFF&}: @Jack_Reno лул, а за моим ником скрывается \Nбородатый мужик, так что можешь поведать про церемонию, на \Nушко ArgieB8
+Dialogue: 0:23:54.33, 0:23:56.61, Default, {\c&H32CD99&}STALLFISH{\c&HFFFFFF&}: @BlackUFA А сейчас?
+Dialogue: 0:24:04.20, 0:24:06.35, Default, {\c&H20A5DA&}BlackUFA{\c&HFFFFFF&}: а щас тоже
+Dialogue: 0:24:04.22, 0:24:06.80, Default, {\c&HB469FF&}Jack_Reno{\c&HFFFFFF&}: @eromanga_chan и всё же я тебе не верю.
+Dialogue: 0:24:09.38, 0:24:11.66, Default, {\c&HFFFFFF&}sort_geraina{\c&HFFFFFF&}: он пьяный пишет гам
+Dialogue: 0:24:10.83, 0:24:13.58, Default, {\c&HE22B8A&}fivepointsgang{\c&HFFFFFF&}: @BlackUFA но стрим же идет, чат не обманешь \NOpieOP
+Dialogue: 0:24:13.88, 0:24:15.95, Default, {\c&H20A5DA&}BlackUFA{\c&HFFFFFF&}: и щас
+Dialogue: 0:24:14.01, 0:24:16.41, Default, {\c&HFFFFFF&}Asfinks{\c&HFFFFFF&}: @eromanga_chan blackufaPalm
+Dialogue: 0:24:16.51, 0:24:19.20, Default, {\c&HFF0000&}DiGrays{\c&HFFFFFF&}: @BlackUFA Паука стримить бушь или на ютабчике?
+Dialogue: 0:24:23.51, 0:24:25.76, Default, {\c&HFFFFFF&}sort_geraina{\c&HFFFFFF&}: опять выпил масло
+Dialogue: 0:24:29.79, 0:24:31.97, Default, {\c&H32CD99&}STALLFISH{\c&HFFFFFF&}: @BlackUFA :(
+Dialogue: 0:24:32.27, 0:24:34.57, Default, {\c&HE22B8A&}UmiToko{\c&HFFFFFF&}: @blackufa, и сейчас?
+Dialogue: 0:24:39.41, 0:24:42.40, Default, {\c&HE22B8A&}nyuttka{\c&HFFFFFF&}: @BlackUFA поцелуй там от ЧАДа морьеце, ну или \Nпасынки в него Kappa
+Dialogue: 0:24:41.56, 0:24:44.32, Default, {\c&HFFFFFF&}gibljak{\c&HFFFFFF&}: До чего техника дошла. Артура и там и тут передают.
+Dialogue: 0:24:47.80, 0:24:50.34, Default, {\c&HB469FF&}eromanga_chan{\c&HFFFFFF&}: @Jack_Reno блэт, над переименоваться
+Dialogue: 0:24:53.03, 0:24:55.30, Default, {\c&HFFFFFF&}andreynedavniy1999{\c&HFFFFFF&}: Ооо, семпай Артур.
+Dialogue: 0:24:54.41, 0:24:56.60, Default, {\c&H20A5DA&}BlackUFA{\c&HFFFFFF&}: и сейчас тоже
+Dialogue: 0:25:04.11, 0:25:07.01, Default, {\c&HB469FF&}Jack_Reno{\c&HFFFFFF&}: @BlackUFA в смы-ысле? Разве это не твой клон \Nсейчас стримит?
+Dialogue: 0:25:04.63, 0:25:07.66, Default, {\c&HE22B8A&}fivepointsgang{\c&HFFFFFF&}: Артур соскучился по чату, посидел 5 минут и \Nпонял, что не скучает LUL
+Dialogue: 0:25:19.07, 0:25:21.61, Default, {\c&H32CD99&}STALLFISH{\c&HFFFFFF&}: @BlackUFA Ну ты приехал уже нет? -))
+Dialogue: 0:25:20.70, 0:25:22.97, Default, {\c&H0000FF&}deemasus{\c&HFFFFFF&}: Кошка нажала Kappa
+Dialogue: 0:25:21.80, 0:25:24.52, Default, {\c&HFFFFFF&}sort_geraina{\c&HFFFFFF&}: слава богу что он не видит мои сообщения \Nучитесь
+Dialogue: 0:25:27.19, 0:25:29.29, Default, {\c&HA09E5F&}sad_daniel{\c&HFFFFFF&}: MingLee
+Dialogue: 0:25:28.04, 0:25:30.65, Default, {\c&HFF0000&}DiGrays{\c&HFFFFFF&}: Кошка у него нажала, но мы то знаем Kappa
+Dialogue: 0:25:30.08, 0:25:32.42, Default, {\c&H32CD99&}STALLFISH{\c&HFFFFFF&}: @BlackUFA че так долго?
+Dialogue: 0:25:34.88, 0:25:36.98, Default, {\c&HFF0000&}Dimhuk{\c&HFFFFFF&}: Сас LUL
+Dialogue: 0:25:38.56, 0:25:40.80, Default, {\c&HB469FF&}IlyaQ{\c&HFFFFFF&}: долга едеш SMOrc
+Dialogue: 0:25:39.44, 0:25:41.90, Default, {\c&H20A5DA&}BlackUFA{\c&HFFFFFF&}: да. это тося пробежала по клаве
+Dialogue: 0:25:53.79, 0:25:55.83, Default, {\c&HFF0000&}Dimhuk{\c&HFFFFFF&}: Да?
+Dialogue: 0:25:56.03, 0:25:58.22, Default, {\c&HFFFFFF&}slimchanskiy12345{\c&HFFFFFF&}: Че происходит
+Dialogue: 0:26:03.59, 0:26:05.90, Default, {\c&HE22B8A&}nyuttka{\c&HFFFFFF&}: ТОСЯ стримит DansGame
+Dialogue: 0:26:03.71, 0:26:05.89, Default, {\c&HFF0000&}Dimhuk{\c&HFFFFFF&}: blackufaDumb
+Dialogue: 0:26:04.38, 0:26:06.89, Default, {\c&HE22B8A&}Rumaruka{\c&HFFFFFF&}: @BlackUFA как отдыхается? ninjaPon
+Dialogue: 0:26:06.53, 0:26:08.60, Default, {\c&H0000FF&}QuiteRaven{\c&HFFFFFF&}: Джеки
+Dialogue: 0:26:06.67, 0:26:08.91, Default, {\c&HFFFFFF&}andreynedavniy1999{\c&HFFFFFF&}: Так Тося у мамы.
+Dialogue: 0:26:15.31, 0:26:18.03, Default, {\c&HFF0000&}DiGrays{\c&HFFFFFF&}: Щас бы на клаве в МГС 3 в 2ккакойтотам играть...
+Dialogue: 0:26:19.78, 0:26:22.63, Default, {\c&HE22B8A&}UmiToko{\c&HFFFFFF&}: там на стриме у сд проджект чо то началось, держу в \Nкурсе
+Dialogue: 0:26:20.17, 0:26:22.63, Default, {\c&HFFFFFF&}gibljak{\c&HFFFFFF&}: Тося стримит, а кто модерирует?
+Dialogue: 0:26:21.44, 0:26:23.57, Default, {\c&H20A5DA&}BlackUFA{\c&HFFFFFF&}: ох и чаад
+Dialogue: 0:26:26.61, 0:26:29.51, Default, {\c&HB469FF&}Jack_Reno{\c&HFFFFFF&}: лан, ребят, развлекайтесь. Я потом на ютабе \Nпосмотрю. KonCha
+Dialogue: 0:26:30.95, 0:26:33.20, Default, {\c&H20A5DA&}BlackUFA{\c&HFFFFFF&}: а модерирует эван
+Dialogue: 0:26:33.78, 0:26:36.11, Default, {\c&HE22B8A&}nyuttka{\c&HFFFFFF&}: @BlackUFA а ты сгорел?
+Dialogue: 0:26:35.50, 0:26:37.62, Default, {\c&HFFFFFF&}andreynedavniy1999{\c&HFFFFFF&}: Гыыыыыг.
+Dialogue: 0:26:38.21, 0:26:40.52, Default, {\c&HFFFFFF&}razienn21{\c&HFFFFFF&}: Чадо нужно уничтожить
+Dialogue: 0:26:46.21, 0:26:48.87, Default, {\c&HFFFFFF&}fenixarmory{\c&HFFFFFF&}: @blackufa смотри кого я привёл teatheKhajiit
+Dialogue: 0:26:50.84, 0:26:53.45, Default, {\c&HFF0000&}Dimhuk{\c&HFFFFFF&}: 3 часть была без перевода?Чет я забыл уже
+Dialogue: 0:27:00.87, 0:27:03.12, Default, {\c&H20A5DA&}BlackUFA{\c&HFFFFFF&}: спряч его обратно
+Dialogue: 0:27:02.49, 0:27:04.79, Default, {\c&HFFFFFF&}taha_frag13{\c&HFFFFFF&}: как понять примьера?
+Dialogue: 0:27:13.74, 0:27:16.52, Default, {\c&HE22B8A&}nyuttka{\c&HFFFFFF&}: @BlackUFA будешь на стримах облазить и \Nпочёсываться?
+Dialogue: 0:27:13.96, 0:27:16.50, Default, {\c&H32CD99&}STALLFISH{\c&HFFFFFF&}: CDprojekt start uploading что-то там
+Dialogue: 0:27:16.74, 0:27:19.80, Default, {\c&HFF0000&}DiGrays{\c&HFFFFFF&}: @BlackUFA Когда пляжный кооп с Джеком? А ночные \Nсерии будут? KappaPride
+Dialogue: 0:27:20.80, 0:27:23.76, Default, {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}: Я скучаю по стремлеру, чад! Давайте запустим \Nменьше чем 3 в чат?
+Dialogue: 0:27:21.51, 0:27:24.11, Default, {\c&H32CD9A&}Romulos1{\c&HFFFFFF&}: странные субтитры, не понять кто говорит
+Dialogue: 0:27:22.77, 0:27:24.95, Default, {\c&H20A5DA&}BlackUFA{\c&HFFFFFF&}: blackufaDumb
+Dialogue: 0:27:27.53, 0:27:30.16, Default, {\c&H2222B2&}bzzzzzzzzzzzzzzzzzzz{\c&HFFFFFF&}: Эх, стрим по металу гиру (Крит в \Nсердечко)
+Dialogue: 0:27:27.61, 0:27:29.86, Default, {\c&HFFFFFF&}fenixarmory{\c&HFFFFFF&}: teatheKhajiit x⁣6
+Dialogue: 0:27:29.36, 0:27:31.54, Default, {\c&HE22B8A&}Rumaruka{\c&HFFFFFF&}: пфф член LUL
+Dialogue: 0:27:32.18, 0:27:34.75, Default, {\c&HFFFFFF&}gibljak{\c&HFFFFFF&}: А там в пустой квартире рука движется.
+Dialogue: 0:27:47.47, 0:27:50.19, Default, {\c&HB469FF&}mrSupermanOV{\c&HFFFFFF&}: Чатик, там CP Red что то анонсит на своем \Nканале
+Dialogue: 0:27:47.49, 0:27:49.85, Default, {\c&H578B2E&}Spitsnaz_Soldier{\c&HFFFFFF&}: Член охохоххо KappaPride
+Dialogue: 0:27:48.75, 0:27:51.45, Default, {\c&HFFFFFF&}Asfinks{\c&HFFFFFF&}: Песики? Песики? Чат ты любишь песиков? FrankerZ
+Dialogue: 0:27:55.86, 0:27:58.08, Default, {\c&HFFFFFF&}SgtSolution{\c&HFFFFFF&}: геймплей скоро?
+Dialogue: 0:27:58.68, 0:28:00.87, Default, {\c&HE22B8A&}nyuttka{\c&HFFFFFF&}: Рука стримит?
+Dialogue: 0:28:03.17, 0:28:05.66, Default, {\c&HFFFFFF&}fenixarmory{\c&HFFFFFF&}: Чат, знакомся - TEA teatheKhajiit
+Dialogue: 0:28:03.57, 0:28:06.15, Default, {\c&H32CD99&}STALLFISH{\c&HFFFFFF&}: @gibljak это рука там стримы запускает)
+Dialogue: 0:28:04.43, 0:28:06.55, Default, {\c&HB469FF&}IlyaQ{\c&HFFFFFF&}: cmonBruh
+Dialogue: 0:28:04.77, 0:28:06.95, Default, {\c&HE22B8A&}Rumaruka{\c&HFFFFFF&}: @Asfinks нит
+Dialogue: 0:28:07.44, 0:28:09.65, Default, {\c&HFFFFFF&}sort_geraina{\c&HFFFFFF&}: о джек и аптип
+Dialogue: 0:28:09.99, 0:28:12.60, Default, {\c&HFFFFFF&}L41n_s4kura{\c&HFFFFFF&}: @BlackUFA Артур ждем стри по Shenmue 1& 2
+Dialogue: 0:28:15.61, 0:28:18.18, Default, {\c&HE22B8A&}UmiToko{\c&HFFFFFF&}: @sgtsolution, геймплей в мгс - это миф
+Dialogue: 0:28:17.03, 0:28:19.82, Default, {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}: Наш сервер в Discord - \Nhttps://discord.gg/fsofbsadw ●
+Dialogue: 0:28:39.35, 0:28:41.53, Default, {\c&HFFFFFF&}Ngc224rain{\c&HFFFFFF&}: @gibljak lul
+Dialogue: 0:28:46.04, 0:28:48.79, Default, {\c&HFFFFFF&}gibljak{\c&HFFFFFF&}: @stallfish Да вебку надо было оставить включенной.
+Dialogue: 0:28:49.30, 0:28:51.61, Default, {\c&HFF901E&}Quiet_Saturn{\c&HFFFFFF&}: @umitoko галлюцинация
+Dialogue: 0:28:49.74, 0:28:52.70, Default, {\c&H32CD99&}STALLFISH{\c&HFFFFFF&}: @BlackUFA Артур, признавайся ты там ща с Джеком \Nобжимаешься? А ?
+Dialogue: 0:28:53.40, 0:28:56.31, Default, {\c&HE22B8A&}fivepointsgang{\c&HFFFFFF&}: @SgtSolution это же японская игра, сначала \N20 часов туториала
+Dialogue: 0:29:03.49, 0:29:06.09, Default, {\c&HFFFFFF&}It_Boshy_Time{\c&HFFFFFF&}: Карьерный солдат из диванной дивизии LUL
+Dialogue: 0:29:09.88, 0:29:12.70, Default, {\c&H0000FF&}runx{\c&HFFFFFF&}: чет тут диалоги как metla gear survive столько же \Nмного
+Dialogue: 0:29:15.83, 0:29:18.02, Default, {\c&HFFFFFF&}fenixarmory{\c&HFFFFFF&}: teatheKhajiit
+Dialogue: 0:29:17.09, 0:29:22.09, Default, {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}: ● Мой твиттер - https://twitter.com/Sempai_Black ● \NГруппа в вк - https://vk.com/b_silver ● Я в вк - \Nhttps://vk.com/blacksilverufa ● Канал - \Nhttps://www.youtube.com/user/BlackSilverUfa ● Донат - \Nhttp://www.donationalerts.ru/r/blackufa_twitch ● \NДополнительные смайлы в приложении BetterTTV - \Nhttps://nightdev.com/betterttv/
+Dialogue: 0:29:23.02, 0:29:25.65, Default, {\c&HB469FF&}eromanga_chan{\c&HFFFFFF&}: @Asfinks люблю всё что имеет милую мордаху
+Dialogue: 0:29:26.36, 0:29:29.62, Default, {\c&H32CD99&}STALLFISH{\c&HFFFFFF&}: @gibljak ну нафиг я бы свихнулся на ночных \Nстримах...всяких там полтергейстов видеть
+Dialogue: 0:29:36.28, 0:29:38.97, Default, {\c&HFF901E&}Volzhsky_ratnik{\c&HFFFFFF&}: Это ж офигеешь на стримах мгсы чату \Nпереводить
+Dialogue: 0:29:38.63, 0:29:41.08, Default, {\c&H578B2E&}Spitsnaz_Soldier{\c&HFFFFFF&}: Как там Даня, в марио рубится?
+Dialogue: 0:29:56.97, 0:29:59.04, Default, {\c&H20A5DA&}BlackUFA{\c&HFFFFFF&}: !time
+Dialogue: 0:29:57.19, 0:29:59.94, Default, {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}: Передаем в СВЧ-диапазоне уже 30 minutes 39 seconds
+Dialogue: 0:30:00.73, 0:30:03.52, Default, {\c&HE22B8A&}Rumaruka{\c&HFFFFFF&}: @BlackUFA а спуди будет только на стриме или \Nютубчик?
+Dialogue: 0:30:02.74, 0:30:06.34, Default, {\c&HB469FF&}IlyaQ{\c&HFFFFFF&}: помню, как решил заценить демку якудзы, так там кат \Nсцен минут на 50 а я всего лишь хотел геймплей заценить
+Dialogue: 0:30:05.19, 0:30:08.31, Default, {\c&HFFFFFF&}gibljak{\c&HFFFFFF&}: @stallfish Я после одного стрима увидел свою \Nсобачку сразу в двух комнатах.
+Dialogue: 0:30:07.97, 0:30:10.73, Default, {\c&HFFFFFF&}Asfinks{\c&HFFFFFF&}: @BlackUFA когда он пьян он с Джеки-ТЯН! blackufaLuL
+Dialogue: 0:30:17.67, 0:30:20.07, Default, {\c&HFFFFFF&}fenixarmory{\c&HFFFFFF&}: teatheKhajiit teatheKhajiit
+Dialogue: 0:30:40.89, 0:30:43.25, Default, {\c&HFF901E&}Volzhsky_ratnik{\c&HFFFFFF&}: @ilyaq зато какой опениг
+Dialogue: 0:30:44.54, 0:30:47.47, Default, {\c&HFF0000&}DiGrays{\c&HFFFFFF&}: Когда Артур в чем-то признаётся, а не просто \Nругается cmonBruh
+Dialogue: 0:30:49.38, 0:30:52.04, Default, {\c&HE22B8A&}UmiToko{\c&HFFFFFF&}: 30 минут прошло и геймплей только начался хд
+Dialogue: 0:31:11.98, 0:31:14.38, Default, {\c&HFF901E&}Quiet_Saturn{\c&HFFFFFF&}: ух кодзима, чо напридумывал
+Dialogue: 0:31:14.75, 0:31:17.29, Default, {\c&HFFFFFF&}rost3434{\c&HFFFFFF&}: Реды киберпанк щас начнут показывать
+Dialogue: 0:31:18.58, 0:31:21.87, Default, {\c&H0000FF&}Zigzagger{\c&HFFFFFF&}: там на стриме CDPR, по киберпанку что перестал \Nкод идти и началась какая то загрузка !
+Dialogue: 0:31:31.81, 0:31:35.71, Default, {\c&HE22B8A&}topoly2{\c&HFFFFFF&}: Ребята, хелпаните плиз BlessRNG Помню у Блэка был \Nтипо архив с прохождением Darkwood. Если можете, киньте \Nссылку. Всем добра <3
+Dialogue: 0:31:36.71, 0:31:38.90, Default, {\c&HFFFFFF&}wise_bumblebee{\c&HFFFFFF&}: Здравствуйте)
+Dialogue: 0:31:48.58, 0:31:51.88, Default, {\c&HFFFFFF&}gibljak{\c&HFFFFFF&}: @digrays Истина настолько ужастна... На самом деле \Nон любит Дашу, а Джека френдзонит :(
+Dialogue: 0:31:53.57, 0:31:56.21, Default, {\c&H32CD99&}STALLFISH{\c&HFFFFFF&}: @Zigzagger угу...скажи когда движуха пойдет
+Dialogue: 0:31:55.24, 0:31:57.30, Default, {\c&H0000FF&}runx{\c&HFFFFFF&}: ахах
+Dialogue: 0:32:14.00, 0:32:16.19, Default, {\c&HB469FF&}Desperados555{\c&HFFFFFF&}: Кодзима Гений
+Dialogue: 0:32:18.86, 0:32:22.91, Default, {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}: Подписки теперь можно дарить сразу нескольким \Nлюдям! Сделай мир светлей, сделай нонсабов счастливее, а \NБлэка - популярнее. Ну типа камон.
+Dialogue: 0:32:21.69, 0:32:24.09, Default, {\c&H7FFF00&}shaved_spartan{\c&HFFFFFF&}: @Zigzagger да, я тоже слежу
+Dialogue: 0:32:21.85, 0:32:24.25, Default, {\c&H0000FF&}Zigzagger{\c&HFFFFFF&}: @STALLFISH уже 96 процентов
+Dialogue: 0:32:23.54, 0:32:25.64, Default, {\c&HB469FF&}mrSupermanOV{\c&HFFFFFF&}: Уже 99%
+Dialogue: 0:32:41.73, 0:32:44.66, Default, {\c&HFF0000&}DiGrays{\c&HFFFFFF&}: @gibljak и только потому, что у Даши всё лучше \Nнастроено Kappa
+Dialogue: 0:32:47.96, 0:32:50.44, Default, {\c&HE22B8A&}fivepointsgang{\c&HFFFFFF&}: найтбот бесстыже байтит cmonBruh
+Dialogue: 0:32:49.13, 0:32:52.42, Default, {\c&H32CD99&}STALLFISH{\c&HFFFFFF&}: @gibljak не...на самом деле он с Джеки спит, а \NДаша для вида...якобы нормальная семья)
+Dialogue: 0:32:52.02, 0:32:54.77, Default, {\c&HFF901E&}Volzhsky_ratnik{\c&HFFFFFF&}: @topoly2 он же вроде на утром канале на \Nютубе есть
+Dialogue: 0:32:53.13, 0:32:55.40, Default, {\c&HE22B8A&}fivepointsgang{\c&HFFFFFF&}: предлагаю забанить
+Dialogue: 0:33:12.57, 0:33:14.61, Default, {\c&HFFFFFF&}Asfinks{\c&HFFFFFF&}: +1!
+Dialogue: 0:33:15.07, 0:33:18.00, Default, {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}: The alias you set this command to be of, !sub, \Ndoes not exist.
+Dialogue: 0:33:15.45, 0:33:17.88, Default, {\c&HFF901E&}Quiet_Saturn{\c&HFFFFFF&}: @fivepointsgang мысли читаешь
+Dialogue: 0:33:18.29, 0:33:21.11, Default, {\c&HA09E5F&}Sekay_Mor{\c&HFFFFFF&}: прекрасно, зашла на стрим а снейк уже ест змей, \Nотлично
+Dialogue: 0:33:26.77, 0:33:29.38, Default, {\c&HA09E5F&}Sekay_Mor{\c&HFFFFFF&}: теперь надо дожить до перепрохождения LUL
+Dialogue: 0:33:36.09, 0:33:38.64, Default, {\c&HFFFFFF&}gibljak{\c&HFFFFFF&}: @digrays Там ещё и совместимость выше
+Dialogue: 0:33:38.69, 0:33:41.09, Default, {\c&H7FFF00&}TIMOFEIR{\c&HFFFFFF&}: Кодзмма ГЕНИЙ! А бот ступид
+Dialogue: 0:33:59.83, 0:34:02.55, Default, {\c&H32CD99&}STALLFISH{\c&HFFFFFF&}: хех в какой еще игре можно притвориться мертвым)
+Dialogue: 0:34:01.75, 0:34:04.18, Default, {\c&HFFFFFF&}gibljak{\c&HFFFFFF&}: @stallfish Понять простить...
+Dialogue: 0:34:19.55, 0:34:22.19, Default, {\c&HB469FF&}IlyaQ{\c&HFFFFFF&}: после ста процентов пойдет клип рика эймтли
+Dialogue: 0:34:25.20, 0:34:27.92, Default, {\c&H20A5DA&}bobka{\c&HFFFFFF&}: Ох, металгир в трансляции it can't be! gachiGASM
+Dialogue: 0:34:51.73, 0:34:54.12, Default, {\c&HFFFFFF&}VladimirSergeevich{\c&HFFFFFF&}: старый микро... ностальгия
+Dialogue: 0:34:59.11, 0:35:02.80, Default, {\c&H32CD99&}STALLFISH{\c&HFFFFFF&}: Помню как я у друга брал консоль что бы поиграть \Nв эту часть. Чуть не поругались, я никак не хотел её \Nвозвращать)
+Dialogue: 0:35:01.37, 0:35:03.83, Default, {\c&HFFFFFF&}gibljak{\c&HFFFFFF&}: Понял!! Комаров нет. Нет канон!
+Dialogue: 0:35:03.85, 0:35:06.03, Default, {\c&H578B2E&}Spitsnaz_Soldier{\c&HFFFFFF&}: Кагэбэ SMOrc
+Dialogue: 0:35:05.44, 0:35:08.53, Default, {\c&HE22B8A&}UmiToko{\c&HFFFFFF&}: @stallfish, что это. В какой игре можно испортить \Nигру просто закрыв игру
+Dialogue: 0:35:15.20, 0:35:17.53, Default, {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}: Эх, чад, рекламу бы...
+Dialogue: 0:35:29.42, 0:35:31.76, Default, {\c&H0000FF&}runx{\c&HFFFFFF&}: @VladimirSergeevich ага
+Dialogue: 0:35:31.23, 0:35:33.54, Default, {\c&H2222B2&}k_r_a_t_o_s{\c&HFFFFFF&}: боже сколько болтовни
+Dialogue: 0:35:31.90, 0:35:34.06, Default, {\c&HFFFFFF&}VladimirSergeevich{\c&HFFFFFF&}: две рекламы
+Dialogue: 0:36:21.43, 0:36:24.13, Default, {\c&H32CD99&}STALLFISH{\c&HFFFFFF&}: @k_r_a_t_o_s хы...Кратос не любит болтать да?))
+Dialogue: 0:36:33.80, 0:36:37.70, Default, {\c&HFF0000&}DiGrays{\c&HFFFFFF&}: Щас смотрю и вспоминаю стрим от стопгейма, про то \Nчто ДС-это новый метал гир и чёт даже забавно воспринимать \Nигру в таком ключе
+Dialogue: 0:36:41.40, 0:36:43.67, Default, {\c&HFF901E&}Volzhsky_ratnik{\c&HFFFFFF&}: @k_r_a_t_o_s SMOrc
+Dialogue: 0:36:42.26, 0:36:44.71, Default, {\c&HB469FF&}sisilium{\c&HFFFFFF&}: а шо здесь так пусто? cmonBruh
+Dialogue: 0:36:45.54, 0:36:48.11, Default, {\c&HFFFFFF&}gibljak{\c&HFFFFFF&}: Бомжи сливаются с природой идеально...
+Dialogue: 0:37:08.34, 0:37:11.04, Default, {\c&H2222B2&}k_r_a_t_o_s{\c&HFFFFFF&}: @STALLFISH ближе к телу как говорится hellyJake
+Dialogue: 0:37:11.38, 0:37:13.50, Default, {\c&H0000FF&}Dudelka_Krasnaya{\c&HFFFFFF&}: !members
+Dialogue: 0:37:13.60, 0:37:15.66, Default, {\c&H0000FF&}Dudelka_Krasnaya{\c&HFFFFFF&}: ela2
+Dialogue: 0:37:13.74, 0:37:16.77, Default, {\c&H20A5DA&}xmitternachtx{\c&HFFFFFF&}: @sisilium советовать не получится ничего, \Nзапись же, вот и молчат :DD
+Dialogue: 0:37:17.18, 0:37:19.97, Default, {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}: Наш сервер в Discord - \Nhttps://discord.gg/fsofbsadw ●
+Dialogue: 0:37:32.84, 0:37:36.20, Default, {\c&H32CD9A&}DudelkaBot{\c&HFFFFFF&}: @dudelka_krasnaya Сейчас в чате 533 фолловеров, \N9 сабов, 5 лучших модеров и не только Kappa
+Dialogue: 0:37:37.46, 0:37:40.09, Default, {\c&H0000FF&}Dudelka_Krasnaya{\c&HFFFFFF&}: @DudelkaBot Проснулся лять, встал ! elaREE
+Dialogue: 0:37:47.80, 0:37:49.99, Default, {\c&H32CD99&}STALLFISH{\c&HFFFFFF&}: большой сок))
+Dialogue: 0:37:48.27, 0:37:51.12, Default, {\c&HFFFFFF&}gibljak{\c&HFFFFFF&}: Дай ему жевачку! (Давайте советовать так как будто \Nстрим)
+Dialogue: 0:37:48.91, 0:37:51.73, Default, {\c&HA09E5F&}Sekay_Mor{\c&HFFFFFF&}: я думаю сейчас блэк бы вырезал вообще всех на \Nкарте LUL
+Dialogue: 0:37:54.81, 0:37:56.90, Default, {\c&H0000FF&}Dudelka_Krasnaya{\c&HFFFFFF&}: !sleep
+Dialogue: 0:38:00.17, 0:38:03.10, Default, {\c&H32CD9A&}DudelkaBot{\c&HFFFFFF&}: Ну я не хочу спаааааать, еще 5 минуточек...Zzz \NResidentSleeper
+Dialogue: 0:38:00.49, 0:38:02.70, Default, {\c&H0000FF&}Dudelka_Krasnaya{\c&HFFFFFF&}: Лег, мать твою
+Dialogue: 0:38:05.81, 0:38:07.91, Default, {\c&H0000FF&}Dudelka_Krasnaya{\c&HFFFFFF&}: !wakeup
+Dialogue: 0:38:06.19, 0:38:09.75, Default, {\c&H32CD9A&}DudelkaBot{\c&HFFFFFF&}: Мммммм...ну еще 5 минуточек...*трясет* ну ладно, \Nладно, встаю я...Уже поспать не дают... ResidentSleeper
+Dialogue: 0:38:07.28, 0:38:09.46, Default, {\c&H008000&}Besovski__{\c&HFFFFFF&}: большой? LUL
+Dialogue: 0:38:12.37, 0:38:14.56, Default, {\c&H0000FF&}Dudelka_Krasnaya{\c&HFFFFFF&}: Подъем elaREE
+Dialogue: 0:38:13.43, 0:38:15.71, Default, {\c&HB469FF&}IlyaQ{\c&HFFFFFF&}: не туда идешь артур
+Dialogue: 0:38:14.51, 0:38:19.19, Default, {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}: Чад! Вступай в ряды гордых сабов! Что ты получишь \Nза это? Мою персональную благодарностьв прямом эфире, значок \NКтулхи рядом с ником, прорву крутейших смайлов и гордое \Nзвание саба.
+Dialogue: 0:38:17.32, 0:38:20.25, Default, {\c&HB469FF&}sisilium{\c&HFFFFFF&}: @xmitternachtx чат не чат когда не советует, даже \Nв записи LUL
+Dialogue: 0:38:24.43, 0:38:27.04, Default, {\c&HE22B8A&}fivepointsgang{\c&HFFFFFF&}: так то 377 зрителей, дуделка CoolStoryBob
+Dialogue: 0:38:25.67, 0:38:28.15, Default, {\c&H0000FF&}Dudelka_Krasnaya{\c&HFFFFFF&}: @DudelkaBot Я тебя выпилю солдат
+Dialogue: 0:38:27.54, 0:38:29.70, Default, {\c&HE22B8A&}fivepointsgang{\c&HFFFFFF&}: ох и боооод
+Dialogue: 0:38:36.32, 0:38:38.89, Default, {\c&H0000FF&}Dudelka_Krasnaya{\c&HFFFFFF&}: @DudelkaBot 2 года в не очереди elaREE
+Dialogue: 0:38:38.83, 0:38:41.64, Default, {\c&HFFFFFF&}gibljak{\c&HFFFFFF&}: @dudelkabot У нас в детсаду таких половником \Nдобивали.
+Dialogue: 0:39:00.53, 0:39:03.04, Default, {\c&H0000FF&}Dudelka_Krasnaya{\c&HFFFFFF&}: @fivepointsgang он кантужен, забей
+Dialogue: 0:39:12.09, 0:39:15.15, Default, {\c&H32CD99&}STALLFISH{\c&HFFFFFF&}: на стриме CDprojekt загрузка застряла на 99% и \Nвисит...ну как всегда ))
+Dialogue: 0:39:14.51, 0:39:16.58, Default, {\c&HE22B8A&}fivepointsgang{\c&HFFFFFF&}: !кусь
+Dialogue: 0:39:14.73, 0:39:17.40, Default, {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}: Я бы покусался, но скучаю по СВЧ-стримлеру :(
+Dialogue: 0:39:16.58, 0:39:18.92, Default, {\c&HFF901E&}zemphakto{\c&HFFFFFF&}: можно ему рацию разбить
+Dialogue: 0:39:22.99, 0:39:25.08, Default, {\c&H7FFF00&}TIMOFEIR{\c&HFFFFFF&}: !sleep
+Dialogue: 0:39:25.36, 0:39:27.57, Default, {\c&HE22B8A&}fivepointsgang{\c&HFFFFFF&}: э, ну где кусь
+Dialogue: 0:39:30.73, 0:39:33.03, Default, {\c&HE22B8A&}fivepointsgang{\c&HFFFFFF&}: хочу кусь BibleThump
+Dialogue: 0:39:39.62, 0:39:41.69, Default, {\c&HFF901E&}Volzhsky_ratnik{\c&HFFFFFF&}: !Кусь
+Dialogue: 0:39:41.62, 0:39:43.69, Default, {\c&H20A5DA&}xmitternachtx{\c&HFFFFFF&}: !кусь
+Dialogue: 0:39:44.44, 0:39:46.84, Default, {\c&HE22B8A&}glaswen{\c&HFFFFFF&}: в смысле завершать DansGame
+Dialogue: 0:39:47.35, 0:39:49.42, Default, {\c&HFFFFFF&}Asfinks{\c&HFFFFFF&}: !кусь
+Dialogue: 0:39:51.71, 0:39:54.47, Default, {\c&HFF0000&}DiGrays{\c&HFFFFFF&}: @STALLFISH Ведьмак на выходе так же работал OneHand
+Dialogue: 0:39:54.87, 0:39:57.03, Default, {\c&H7FFF00&}TIMOFEIR{\c&HFFFFFF&}: !хотимкусь!
+Dialogue: 0:39:59.99, 0:40:02.05, Default, {\c&H7FFF00&}TIMOFEIR{\c&HFFFFFF&}: !фыр
+Dialogue: 0:40:00.20, 0:40:03.07, Default, {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}: Фыркать, пока мой любимый стримлер нежится на \Nморе? Щас!!!
+Dialogue: 0:40:01.25, 0:40:03.50, Default, {\c&HB469FF&}sisilium{\c&HFFFFFF&}: кусь не будет LUL
+Dialogue: 0:40:01.53, 0:40:03.95, Default, {\c&H2222B2&}k_r_a_t_o_s{\c&HFFFFFF&}: это какого года прохождение?
+Dialogue: 0:40:05.48, 0:40:08.36, Default, {\c&HE22B8A&}fivepointsgang{\c&HFFFFFF&}: ох, я только сейчас понял, это же запись \Nвидео, а не стрима
+Dialogue: 0:40:12.64, 0:40:15.16, Default, {\c&HE22B8A&}fivepointsgang{\c&HFFFFFF&}: блин, какой Артур другой раньше был
+Dialogue: 0:40:13.63, 0:40:15.70, Default, {\c&H0000FF&}KHAJIIT_HE_BOP{\c&HFFFFFF&}: !кусь
+Dialogue: 0:40:15.58, 0:40:17.71, Default, {\c&HE22B8A&}fivepointsgang{\c&HFFFFFF&}: ностальжи
+Dialogue: 0:40:19.63, 0:40:21.91, Default, {\c&HE22B8A&}fivepointsgang{\c&HFFFFFF&}: старорежимный Артур
+Dialogue: 0:40:20.52, 0:40:22.91, Default, {\c&HFFFFFF&}Dekfel{\c&HFFFFFF&}: там это, кмберпанк стримят
+Dialogue: 0:40:21.09, 0:40:23.60, Default, {\c&HFFFFFF&}gibljak{\c&HFFFFFF&}: Запускаем перевернутые попы <3 x⁣3
+Dialogue: 0:40:31.90, 0:40:34.39, Default, {\c&HFFFFFF&}Asfinks{\c&HFFFFFF&}: @fivepointsgang blackufaCoolStory
+Dialogue: 0:40:36.18, 0:40:38.27, Default, {\c&HE22B8A&}fivepointsgang{\c&HFFFFFF&}: <3 x⁣4
+Dialogue: 0:40:42.00, 0:40:44.87, Default, {\c&H20A5DA&}xmitternachtx{\c&HFFFFFF&}: Эхх... Артурка был молодым горячим, не то что \Nсейчас Kappa
+Dialogue: 0:40:44.42, 0:40:46.70, Default, {\c&H32CD99&}STALLFISH{\c&HFFFFFF&}: Пишите секреты чат)
+Dialogue: 0:40:44.90, 0:40:47.26, Default, {\c&HFFFFFF&}vady617{\c&HFFFFFF&}: Киберпанк лучше постримь
+Dialogue: 0:40:53.72, 0:40:56.17, Default, {\c&HB469FF&}sisilium{\c&HFFFFFF&}: пишем комментарии CoolStoryBob
+Dialogue: 0:40:58.48, 0:41:00.57, Default, {\c&H0000FF&}runx{\c&HFFFFFF&}: <3 x⁣3
+Dialogue: 0:41:09.20, 0:41:11.60, Default, {\c&HA09E5F&}Sekay_Mor{\c&HFFFFFF&}: ну чад, секреты надо да LUL
+Dialogue: 0:41:12.20, 0:41:14.90, Default, {\c&HE22B8A&}UmiToko{\c&HFFFFFF&}: @vady617, стримить 99% уже минут 15 очень круто
+Dialogue: 0:41:16.14, 0:41:18.36, Default, {\c&HFFFFFF&}11legion{\c&HFFFFFF&}: это же запись ?
+Dialogue: 0:41:16.50, 0:41:18.95, Default, {\c&H7FFF00&}TIMOFEIR{\c&HFFFFFF&}: раньшы стримы были лучшы SMOrc
+Dialogue: 0:41:28.50, 0:41:30.86, Default, {\c&HFF901E&}SlavMayer{\c&HFFFFFF&}: Squid2 Squid2 KomodoHype
+Dialogue: 0:41:38.52, 0:41:40.83, Default, {\c&H008000&}Besovski__{\c&HFFFFFF&}: и трава зеленее SMOrc
+Dialogue: 0:41:41.32, 0:41:43.53, Default, {\c&H32CD99&}STALLFISH{\c&HFFFFFF&}: угу это запись
+Dialogue: 0:41:43.22, 0:41:46.49, Default, {\c&H20A5DA&}BlackUFA{\c&HFFFFFF&}: да заканчивай уже, блин, там ща Киберпанк будут \Nпоказывать через 6 минут blackufaRage
+Dialogue: 0:41:44.70, 0:41:47.09, Default, {\c&HA09E5F&}Sekay_Mor{\c&HFFFFFF&}: это не стрим а видос SMOrc
+Dialogue: 0:41:45.00, 0:41:48.35, Default, {\c&HFF901E&}zemphakto{\c&HFFFFFF&}: в тюрьме если сохраниться и перезагрузить игру \Nчерез некоторое время снейку присниться сон
+Dialogue: 0:41:57.67, 0:42:00.12, Default, {\c&HFF901E&}SlavMayer{\c&HFFFFFF&}: Раньше стримов то и не было...
+Dialogue: 0:42:01.13, 0:42:03.55, Default, {\c&H7FFF00&}shaved_spartan{\c&HFFFFFF&}: Ну, там вот пропустил сикрит
+Dialogue: 0:42:03.12, 0:42:05.52, Default, {\c&H20A5DA&}xmitternachtx{\c&HFFFFFF&}: @BlackUFA внезапный врыв :D
+Dialogue: 0:42:09.11, 0:42:11.60, Default, {\c&HB469FF&}sisilium{\c&HFFFFFF&}: Артур уже не тот что раньше SMOrc
+Dialogue: 0:42:14.63, 0:42:16.94, Default, {\c&HE22B8A&}UmiToko{\c&HFFFFFF&}: И Артур молодее SMOrc
+Dialogue: 0:42:24.75, 0:42:27.08, Default, {\c&H32CD99&}STALLFISH{\c&HFFFFFF&}: ща тютелька в тютельку
+Dialogue: 0:42:39.27, 0:42:42.18, Default, {\c&H7FFF00&}TIMOFEIR{\c&HFFFFFF&}: @blackufa а бот теперь пофыркать может? BibleThump \NBibleThump
+Dialogue: 0:42:44.28, 0:42:46.64, Default, {\c&HFF901E&}SlavMayer{\c&HFFFFFF&}: Микрофон был лучше SMOrc
+Dialogue: 0:42:46.26, 0:42:48.45, Default, {\c&H008000&}Besovski__{\c&HFFFFFF&}: И Тося добрее
+Dialogue: 0:42:47.61, 0:42:50.58, Default, {\c&HA09E5F&}Sekay_Mor{\c&HFFFFFF&}: @BlackUFA кому нужен этот киберпанк, у нас тут \Nметал гир же SMOrc
+Dialogue: 0:42:49.58, 0:42:51.64, Default, {\c&H7FFF00&}TIMOFEIR{\c&HFFFFFF&}: !фыр
+Dialogue: 0:42:49.75, 0:42:52.62, Default, {\c&HE17C7C&}Nightbot{\c&HFFFFFF&}: Фыркать, пока мой любимый стримлер нежится на \Nморе? Щас!!!
+Dialogue: 0:42:58.50, 0:43:00.87, Default, {\c&HB469FF&}sisilium{\c&HFFFFFF&}: пол часа в кустах уже LUL
+Dialogue: 0:42:59.68, 0:43:02.44, Default, {\c&HFFFFFF&}gibljak{\c&HFFFFFF&}: И Артур такой молодой и юный Солид Снейк впереди...
+Dialogue: 0:43:20.12, 0:43:22.60, Default, {\c&H20A5DA&}xmitternachtx{\c&HFFFFFF&}: @BlackUFA бот не делает кусь Т_Т
+Dialogue: 0:43:36.10, 0:43:38.53, Default, {\c&H20A5DA&}BlackUFA{\c&HFFFFFF&}: так, чо там кому не нравится?
+Dialogue: 0:43:36.28, 0:43:38.32, Default, {\c&HB469FF&}eromanga_chan{\c&HFFFFFF&}: Опа
+Dialogue: 0:43:37.11, 0:43:39.14, Default, {\c&H32CD99&}STALLFISH{\c&HFFFFFF&}: во
+Dialogue: 0:43:38.93, 0:43:41.09, Default, {\c&HFF901E&}SlavMayer{\c&HFFFFFF&}: 4Head пчёлы
+Dialogue: 0:43:39.24, 0:43:41.91, Default, {\c&H0000FF&}損して得取る{\c&HFFFFFF&}: скоро будет оцелот-яйцеглот blackufaCoolStory
+Dialogue: 0:43:42.25, 0:43:44.52, Default, {\c&H32CD99&}STALLFISH{\c&HFFFFFF&}: заканчивает кажись
+Dialogue: 0:43:42.49, 0:43:44.61, Default, {\c&H88FF00&}Dariya_Willis{\c&HFFFFFF&}: Jebaited
+Dialogue: 0:43:43.45, 0:43:45.73, Default, {\c&HB469FF&}eromanga_chan{\c&HFFFFFF&}: Ну шо народ погнали
+Dialogue: 0:43:44.28, 0:43:46.38, Default, {\c&H20A5DA&}BlackUFA{\c&HFFFFFF&}: ага ага
+Dialogue: 0:43:46.54, 0:43:48.76, Default, {\c&HFF901E&}SlavMayer{\c&HFFFFFF&}: Конец серии LUL
+Dialogue: 0:43:46.66, 0:43:49.15, Default, {\c&HA09E5F&}bogratova{\c&HFFFFFF&}: кто будет стримить киберпук 4221?
+Dialogue: 0:43:52.23, 0:43:54.38, Default, {\c&HA09E5F&}Sekay_Mor{\c&HFFFFFF&}: BibleThump
+Dialogue: 0:43:55.97, 0:43:58.33, Default, {\c&HE22B8A&}fivepointsgang{\c&HFFFFFF&}: но что-то же стало Kappa
+Dialogue: 0:43:59.96, 0:44:02.09, Default, {\c&HFF901E&}SlavMayer{\c&HFFFFFF&}: пока-пока
+Dialogue: 0:44:06.81, 0:44:09.14, Default, {\c&H008000&}Besovski__{\c&HFFFFFF&}: тоталитаризьмь WutFace
+Dialogue: 0:44:08.57, 0:44:11.03, Default, {\c&H0000FF&}runx{\c&HFFFFFF&}: @Dariya_Willis @BlackUFA wlgWow
+Dialogue: 0:44:08.65, 0:44:11.02, Default, {\c&HFFFFFF&}Asfinks{\c&HFFFFFF&}: @Dariya_Willis blackufaHi
+Dialogue: 0:44:08.83, 0:44:10.95, Default, {\c&H7FFF00&}shaved_spartan{\c&HFFFFFF&}: А, арты?
+Dialogue: 0:44:09.14, 0:44:11.56, Default, {\c&HB469FF&}sisilium{\c&HFFFFFF&}: а когда следующая серия? LUL
+Dialogue: 0:44:10.08, 0:44:12.47, Default, {\c&HE22B8A&}glaswen{\c&HFFFFFF&}: ну эйй, слишком мало было(
+Dialogue: 0:44:11.45, 0:44:13.94, Default, {\c&HFFFFFF&}It_Boshy_Time{\c&HFFFFFF&}: @BlackUFA Мне всё нравилось 4Head
+Dialogue: 0:44:14.05, 0:44:16.78, Default, {\c&HB469FF&}Desperados555{\c&HFFFFFF&}: А не изза копирайтов ли эти записи запретили? \NLUL
+Dialogue: 0:44:15.24, 0:44:17.57, Default, {\c&HFF901E&}SlavMayer{\c&HFFFFFF&}: 4-ая часть! Ты обещал!
+Dialogue: 0:44:17.12, 0:44:19.49, Default, {\c&HB469FF&}mrSupermanOV{\c&HFFFFFF&}: Пока пока пока BibleThump
+Dialogue: 0:44:18.38, 0:44:20.60, Default, {\c&HE22C8A&}Lacator{\c&HFFFFFF&}: Го следующую хД
+Dialogue: 0:44:21.53, 0:44:24.22, Default, {\c&HE22B8A&}UmiToko{\c&HFFFFFF&}: мы пройдем мгс4, ага FeelsRainMan FeelsRainMan
+Dialogue: 0:44:24.58, 0:44:26.89, Default, {\c&H32CD99&}STALLFISH{\c&HFFFFFF&}: хех уютная концовочка
+Dialogue: 0:44:30.38, 0:44:32.74, Default, {\c&HFFFFFF&}Uncle_Ken{\c&HFFFFFF&}: Эээээээ я только подошёл
+Dialogue: 0:44:34.07, 0:44:36.17, Default, {\c&HFFFFFF&}Uncle_Ken{\c&HFFFFFF&}: Кудаааа
+Dialogue: 0:44:37.84, 0:44:40.15, Default, {\c&HE22B8A&}fivepointsgang{\c&HFFFFFF&}: пока x⁣3 FeelsRainMan
+Dialogue: 0:44:38.16, 0:44:40.40, Default, {\c&HFFFFFF&}Uncle_Ken{\c&HFFFFFF&}: Я только подошёл
+Dialogue: 0:44:40.21, 0:44:42.48, Default, {\c&H20A5DA&}BlackUFA{\c&HFFFFFF&}: очень неспешно LUL
+Dialogue: 0:44:40.51, 0:44:42.63, Default, {\c&HFFFFFF&}Uncle_Ken{\c&HFFFFFF&}: Неееееее
+Dialogue: 0:44:42.19, 0:44:44.25, Default, {\c&HFFFFFF&}Uncle_Ken{\c&HFFFFFF&}: Алее
+Dialogue: 0:44:44.24, 0:44:46.64, Default, {\c&HE22B8A&}glaswen{\c&HFFFFFF&}: пока, воображаемый стримлер
+Dialogue: 0:44:44.30, 0:44:46.58, Default, {\c&HB469FF&}eromanga_chan{\c&HFFFFFF&}: Куда пальцы ставить
+Dialogue: 0:44:46.26, 0:44:48.87, Default, {\c&HA09E5F&}Sekay_Mor{\c&HFFFFFF&}: надо следующую серию после киберпанка LUL
+Dialogue: 0:44:48.40, 0:44:50.89, Default, {\c&H0000FF&}損して得取る{\c&HFFFFFF&}: @BlackUFA blackufaHi привет батат
+Dialogue: 0:44:55.50, 0:44:57.83, Default, {\c&HFFFFFF&}phant0m56{\c&HFFFFFF&}: это че запись с ютуба?
+Dialogue: 0:44:55.51, 0:44:57.93, Default, {\c&H20A5DA&}BlackUFA{\c&HFFFFFF&}: продолжение после киберпанка
+Dialogue: 0:44:56.39, 0:44:59.02, Default, {\c&HB469FF&}IlyaQ{\c&HFFFFFF&}: а где видео "что в моей сумочке" @blackufa
+Dialogue: 0:45:00.88, 0:45:03.31, Default, {\c&H0000FF&}runx{\c&HFFFFFF&}: как палец верх ставить? Kappa
+Dialogue: 0:45:01.73, 0:45:03.82, Default, {\c&HFFFFFF&}xStake13x{\c&HFFFFFF&}: и все?
+Dialogue: 0:45:01.96, 0:45:04.03, Default, {\c&HFF901E&}SlavMayer{\c&HFFFFFF&}: все?!
+Dialogue: 0:45:02.38, 0:45:04.42, Default, {\c&HE22B8A&}smerchOo{\c&HFFFFFF&}: шо?
+Dialogue: 0:45:08.76, 0:45:11.34, Default, {\c&H0000FF&}olz_in{\c&HFFFFFF&}: Э-э-э-эй, что за дела?( Только подошел(
+Dialogue: 0:45:09.43, 0:45:11.58, Default, {\c&HFFFFFF&}Asfinks{\c&HFFFFFF&}: Oh! NOOOO!
+Dialogue: 0:45:11.45, 0:45:13.52, Default, {\c&H0000FF&}RingedSoul{\c&HFFFFFF&}: Ох но
+Dialogue: 0:45:14.90, 0:45:17.14, Default, {\c&HFFFFFF&}Mozzarell{\c&HFFFFFF&}: Я батат ты батат
+Dialogue: 0:45:15.47, 0:45:17.86, Default, {\c&HE22B8A&}UmiToko{\c&HFFFFFF&}: @blackufa, правда, правда?
+Dialogue: 0:45:16.24, 0:45:18.66, Default, {\c&HA09E5F&}Sekay_Mor{\c&HFFFFFF&}: еееее продолжение будет, топ
+Dialogue: 0:45:16.56, 0:45:18.72, Default, {\c&HB469FF&}mrSupermanOV{\c&HFFFFFF&}: @blackufa 😘
+Dialogue: 0:45:16.71, 0:45:18.89, Default, {\c&HFFFFFF&}Uncle_Ken{\c&HFFFFFF&}: Не знаю я бы
+Dialogue: 0:45:20.06, 0:45:22.16, Default, {\c&HFFFFFF&}Uncle_Ken{\c&HFFFFFF&}: Нееееее
+Dialogue: 0:45:21.84, 0:45:24.03, Default, {\c&HFFFFFF&}min_net_{\c&HFFFFFF&}: а что дальше?
+Dialogue: 0:45:22.09, 0:45:24.49, Default, {\c&HE22B8A&}fivepointsgang{\c&HFFFFFF&}: @BlackUFA но там 99 WutFace
+Dialogue: 0:45:23.48, 0:45:26.05, Default, {\c&H32CD99&}STALLFISH{\c&HFFFFFF&}: Тааак дядя Артур..ну че там...погнали?
+Dialogue: 0:45:24.62, 0:45:26.98, Default, {\c&HFFFFFF&}Dekfel{\c&HFFFFFF&}: СД Ппроджект троллят нас
+Dialogue: 0:45:25.50, 0:45:27.60, Default, {\c&HFFFFFF&}Uncle_Ken{\c&HFFFFFF&}: Вернись
+Dialogue: 0:45:27.37, 0:45:29.49, Default, {\c&H88FF00&}Dariya_Willis{\c&HFFFFFF&}: РЕЕЕЕЕЙД
+Dialogue: 0:45:30.35, 0:45:32.50, Default, {\c&HB469FF&}mrSupermanOV{\c&HFFFFFF&}: Я@ты@я@ты@
+Dialogue: 0:45:32.68, 0:45:34.77, Default, {\c&HFFFFFF&}gibljak{\c&HFFFFFF&}: PunOko
+Dialogue: 0:45:33.14, 0:45:35.30, Default, {\c&H7FFF00&}Jean_gein{\c&HFFFFFF&}: И ВСЕ????77
+Dialogue: 0:45:33.16, 0:45:35.37, Default, {\c&HB469FF&}sisilium{\c&HFFFFFF&}: флэшбэки снова
