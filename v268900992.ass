@@ -4010,7 +4010,7 @@ Dialogue: 1:14:13.90, 1:14:16.00, Default, {\c&HFF0000&}CringedTomato{\c&HFFFFFF
 Dialogue: 1:14:13.97, 1:14:16.07, Default, {\c&HFF901E&}TwitchDavis{\c&HFFFFFF&}: Kappa /
 Dialogue: 1:14:14.00, 1:14:16.03, Default, {\c&HFFFFFF&}mishok_pand{\c&HFFFFFF&}: o/
 Dialogue: 1:14:14.12, 1:14:16.31, Default, {\c&HFFFFFF&}LegionDominatus{\c&HFFFFFF&}: Конечно знаем
-Dialogue: 1:14:14.15, 1:14:16.18, Default, {\c&HFFFFFF&}EddyShain{\c&HFFFFFF&}: \o
+; Dialogue: 1:14:14.15, 1:14:16.18, Default, {\c&HFFFFFF&}EddyShain{\c&HFFFFFF&}: \o
 Dialogue: 1:14:14.33, 1:14:16.42, Default, {\c&HFF0000&}yurbusika{\c&HFFFFFF&}: Kappa/
 Dialogue: 1:14:14.39, 1:14:16.57, Default, {\c&H288F00&}ThisRockTv{\c&HFFFFFF&}: blackufaDumb
 Dialogue: 1:14:14.77, 1:14:16.86, Default, {\c&HFFFFFF&}Martsches{\c&HFFFFFF&}: я знаю
@@ -4446,7 +4446,7 @@ Dialogue: 1:19:11.00, 1:19:13.48, Default, {\c&H910094&}gr8rg00d{\c&HFFFFFF&}: p
 Dialogue: 1:19:11.81, 1:19:13.85, Default, {\c&H92A22A&}GoldVAR2{\c&HFFFFFF&}: #12
 Dialogue: 1:19:12.20, 1:19:14.60, Default, {\c&H7FFF00&}Aspidddd{\c&HFFFFFF&}: Второе - отравляющее оружие
 Dialogue: 1:19:14.44, 1:19:17.16, Default, {\c&HFF0000&}LLIAX77777{\c&HFFFFFF&}: @gh0st_head, хай blackufaNya artgam2AGHeavyHorns
-Dialogue: 1:19:27.31, 1:19:29.34, Default, {\c&H910094&}gr8rg00d{\c&HFFFFFF&}: \3
+; Dialogue: 1:19:27.31, 1:19:29.34, Default, {\c&H910094&}gr8rg00d{\c&HFFFFFF&}: \3
 Dialogue: 1:19:27.92, 1:19:30.38, Default, {\c&H507FFF&}XerkusDotPro{\c&HFFFFFF&}: беги чатб чат которым управляют
 Dialogue: 1:19:48.50, 1:19:51.04, Default, {\c&H7FFF00&}Aspidddd{\c&HFFFFFF&}: А время голосования нельзя поменять?
 Dialogue: 1:19:51.44, 1:19:53.51, Default, {\c&H7FFF00&}Aspidddd{\c&HFFFFFF&}: Долго
@@ -6472,7 +6472,7 @@ Dialogue: 2:02:18.88, 2:02:21.33, Default, {\c&HB469FF&}RadujniyNosok{\c&HFFFFFF
 Dialogue: 2:02:19.61, 2:02:21.91, Default, {\c&HFFFFFF&}aluster_krowly{\c&HFFFFFF&}: да у него фотка в вк
 Dialogue: 2:02:21.94, 2:02:24.19, Default, {\c&HFF0000&}LLIAX77777{\c&HFFFFFF&}: blackufaTosya x⁣3
 Dialogue: 2:02:22.13, 2:02:24.19, Default, {\c&HFFFFFF&}zalupj{\c&HFFFFFF&}: +уши
-Dialogue: 2:02:24.70, 2:02:26.98, Default, {\c&HB469FF&}aurora_from_the_fog{\c&HFFFFFF&}: \ blackufaTosya x⁣6
+; Dialogue: 2:02:24.70, 2:02:26.98, Default, {\c&HB469FF&}aurora_from_the_fog{\c&HFFFFFF&}: \ blackufaTosya x⁣6
 Dialogue: 2:02:25.20, 2:02:27.45, Default, {\c&HE22B8A&}Dante2077{\c&HFFFFFF&}: blackufaTosya x⁣7
 Dialogue: 2:02:26.10, 2:02:28.16, Default, {\c&HFFFFFF&}warrdon7{\c&HFFFFFF&}: -уши
 Dialogue: 2:02:26.98, 2:02:29.41, Default, {\c&H32CD9A&}SparrownSM{\c&HFFFFFF&}: А я как раз та самая груша :3
@@ -9233,7 +9233,7 @@ Dialogue: 2:39:43.75, 2:39:45.82, Default, {\c&H7FFF00&}ChronoCross3{\c&HFFFFFF&
 Dialogue: 2:39:44.74, 2:39:46.81, Default, {\c&HFFFFFF&}Vilches20{\c&HFFFFFF&}: Kappa
 ; Dialogue: 2:39:45.02, 2:39:47.23, Default, {\c&H0000FF&}ChappoTheLord{\c&HFFFFFF&}: !bhammer (400)
 Dialogue: 2:39:45.33, 2:39:47.48, Default, {\c&HFFFFFF&}kesyamesya{\c&HFFFFFF&}: KappaPride
-Dialogue: 2:39:45.38, 2:39:47.39, Default, {\c&HFFFFFF&}DimatrSous{\c&HFFFFFF&}: \
+; Dialogue: 2:39:45.38, 2:39:47.39, Default, {\c&HFFFFFF&}DimatrSous{\c&HFFFFFF&}: \
 Dialogue: 2:39:46.63, 2:39:48.97, Default, {\c&H008000&}zloitapok27{\c&HFFFFFF&}: blackufaNya blackufaNya
 Dialogue: 2:39:47.13, 2:39:49.34, Default, {\c&HFF901E&}AnnaDit66{\c&HFFFFFF&}: tanyagMeow x⁣5
 Dialogue: 2:39:47.55, 2:39:49.71, Default, {\c&HFFFFFF&}Colored_Eggs_Hagrid{\c&HFFFFFF&}: NotLikeThis
@@ -10327,7 +10327,7 @@ Dialogue: 2:53:13.91, 2:53:15.95, Default, {\c&H32CD9A&}Kaliv{\c&HFFFFFF&}: МЛ
 ; Dialogue: 2:53:14.30, 2:53:16.37, Default, {\c&HE22B8A&}decima_ourus{\c&HFFFFFF&}: !clon
 Dialogue: 2:53:19.22, 2:53:22.22, Default, {\c&HFFFFFF&}cheshirecatlb{\c&HFFFFFF&}: @BlackUFA_Twitch Вкачай отражение стрел. \NЛучники будут бесполезными
 Dialogue: 2:53:19.61, 2:53:21.83, Default, {\c&H020269&}Omenosa{\c&HFFFFFF&}: blackufaMLG x⁣3
-Dialogue: 2:53:23.05, 2:53:25.06, Default, {\c&H0000FF&}LisiyNos{\c&HFFFFFF&}: \
+; Dialogue: 2:53:23.05, 2:53:25.06, Default, {\c&H0000FF&}LisiyNos{\c&HFFFFFF&}: \
 Dialogue: 2:53:23.23, 2:53:25.35, Default, {\c&HFFFFFF&}kantipopr{\c&HFFFFFF&}: GayPride
 Dialogue: 2:53:26.77, 2:53:28.93, Default, {\c&H0000FF&}veteranzzz{\c&HFFFFFF&}: blackufaLuL
 Dialogue: 2:53:30.99, 2:53:33.14, Default, {\c&HE22B8A&}Smetan1y{\c&HFFFFFF&}: KappaPride
@@ -18629,7 +18629,7 @@ Dialogue: 3:16:20.66, 3:16:22.67, Default, {\c&HFF901E&}Akhor_silver{\c&HFFFFFF&
 Dialogue: 3:16:20.66, 3:16:22.67, Default, {\c&HFF0000&}Koleso4938{\c&HFFFFFF&}: 5
 Dialogue: 3:16:20.74, 3:16:22.75, Default, {\c&HFFFFFF&}copywriter_fraz_iz_chata{\c&HFFFFFF&}: 2
 Dialogue: 3:16:20.74, 3:16:22.75, Default, {\c&HFFFFFF&}CapitanGrechka{\c&HFFFFFF&}: 2
-Dialogue: 3:16:20.78, 3:16:22.81, Default, {\c&H0000FF&}Brut112{\c&HFFFFFF&}: \5
+; Dialogue: 3:16:20.78, 3:16:22.81, Default, {\c&H0000FF&}Brut112{\c&HFFFFFF&}: \5
 Dialogue: 3:16:20.78, 3:16:22.85, Default, {\c&H7FFF00&}darksidekey{\c&HFFFFFF&}: husky
 Dialogue: 3:16:20.87, 3:16:22.88, Default, {\c&H32CD9A&}Nightdevil13{\c&HFFFFFF&}: 5
 Dialogue: 3:16:20.87, 3:16:22.88, Default, {\c&HCC00B4&}DevilMen_{\c&HFFFFFF&}: 2
@@ -34973,7 +34973,7 @@ Dialogue: 4:19:27.00, 4:19:29.13, Default, {\c&HFFFFFF&}emolist{\c&HFFFFFF&}: Pe
 Dialogue: 4:19:27.99, 4:19:30.15, Default, {\c&HFFFFFF&}Duke3275{\c&HFFFFFF&}: ахахахахаха
 Dialogue: 4:19:28.28, 4:19:30.47, Default, {\c&HE22B8A&}Dar157{\c&HFFFFFF&}: PepoDance x⁣9
 Dialogue: 4:19:28.83, 4:19:30.89, Default, {\c&HFF901E&}kom6ukopm{\c&HFFFFFF&}: хлоп
-Dialogue: 4:19:28.92, 4:19:30.95, Default, {\c&H20A5DA&}imbabimanboxru{\c&HFFFFFF&}: \/
+; Dialogue: 4:19:28.92, 4:19:30.95, Default, {\c&H20A5DA&}imbabimanboxru{\c&HFFFFFF&}: \/
 Dialogue: 4:19:29.27, 4:19:31.43, Default, {\c&H0000FF&}VintarezGames{\c&HFFFFFF&}: DBstyle x⁣4
 Dialogue: 4:19:29.56, 4:19:31.69, Default, {\c&HBC1024&}xXxOlegxXx{\c&HFFFFFF&}: Clap Clap
 Dialogue: 4:19:30.21, 4:19:32.27, Default, {\c&HE22B8A&}lokofan333{\c&HFFFFFF&}: Clap
@@ -35641,7 +35641,7 @@ Dialogue: 4:29:30.19, 4:29:32.53, Default, {\c&HE22B8A&}Kraken608{\c&HFFFFFF&}: 
 Dialogue: 4:29:31.94, 4:29:34.12, Default, {\c&HFFFFFF&}n1ght58{\c&HFFFFFF&}: легко вообще
 Dialogue: 4:29:37.65, 4:29:40.07, Default, {\c&HFFFFFF&}slave_20{\c&HFFFFFF&}: Всякое KappaPride KappaPride
 Dialogue: 4:29:40.05, 4:29:42.71, Default, {\c&H0000FF&}rIscowat{\c&HFFFFFF&}: го молчаливвй стрим, с одними матами от чата
-Dialogue: 4:29:42.51, 4:29:44.52, Default, {\c&H0000FF&}veteranzzz{\c&HFFFFFF&}: \
+; Dialogue: 4:29:42.51, 4:29:44.52, Default, {\c&H0000FF&}veteranzzz{\c&HFFFFFF&}: \
 Dialogue: 4:29:43.11, 4:29:46.65, Default, {\c&H0045FF&}BlackUFA_Twitch{\c&HFFFFFF&}: Голосование по свиткам началось! Напишите в \Nчате: #1, #2 или #3, чтобы отдать голос за своего фаворита.
 Dialogue: 4:29:44.86, 4:29:47.97, Default, {\c&H0045FF&}BlackUFA_Twitch{\c&HFFFFFF&}: #1 // Кровавое подношение -> Ты теряешь 50 \N% здоровья в обмен на 2 свитка.
 Dialogue: 4:29:46.61, 4:29:49.28, Default, {\c&H0045FF&}BlackUFA_Twitch{\c&HFFFFFF&}: #2 // Нитровраги -> Умирая, враги \Nвзрываются.

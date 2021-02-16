@@ -71,7 +71,7 @@ Dialogue: 0:01:15.20, 0:01:17.29, Default, {\c&HFFFFFF&}dmd03{\c&HFFFFFF&}: до
 Dialogue: 0:01:15.35, 0:01:17.86, Default, {\c&HFFFFFF&}vonrussel{\c&HFFFFFF&}: Во что будем играть? Всем привет )
 Dialogue: 0:01:16.11, 0:01:18.35, Default, {\c&H1E69D2&}FireCatOne{\c&HFFFFFF&}: В поисках коопа?
 Dialogue: 0:01:16.83, 0:01:19.07, Default, {\c&HFFFFFF&}parenek3{\c&HFFFFFF&}: Чат, приветствую
-Dialogue: 0:01:17.30, 0:01:20.72, Default, {\c&H32CD9A&}DudelkaBot{\c&HFFFFFF&}: Сейчас в VK играет: David Garcia - Hellblade: \NSenua's Sacrifice OST - Gramr [EXTENDED] Kreygasm
+; Dialogue: 0:01:17.30, 0:01:20.72, Default, {\c&H32CD9A&}DudelkaBot{\c&HFFFFFF&}: Сейчас в VK играет: David Garcia - Hellblade: \NSenua's Sacrifice OST - Gramr [EXTENDED] Kreygasm
 Dialogue: 0:01:17.56, 0:01:19.66, Default, {\c&HFFFFFF&}NatoshaLol{\c&HFFFFFF&}: здрасте
 Dialogue: 0:01:19.21, 0:01:21.33, Default, {\c&HFF901E&}CubiumSpire{\c&HFFFFFF&}: PogChamp
 Dialogue: 0:01:21.53, 0:01:23.66, Default, {\c&HFFFFFF&}shelma121{\c&HFFFFFF&}: привееет)
@@ -152,7 +152,7 @@ Dialogue: 0:02:42.42, 0:02:44.93, Default, {\c&HFFFFFF&}annavail{\c&HFFFFFF&}: I
 Dialogue: 0:02:43.23, 0:02:45.63, Default, {\c&HFFFFFF&}makcum4833{\c&HFFFFFF&}: PokMaskedpika PokMaskedpika
 Dialogue: 0:02:45.45, 0:02:47.75, Default, {\c&HB469FF&}Amil0512{\c&HFFFFFF&}: Водяные воры будут?)
 Dialogue: 0:02:45.51, 0:02:47.90, Default, {\c&HFFFFFF&}LooNy01ru{\c&HFFFFFF&}: PowerUpL SabaPing PowerUpR
-Dialogue: 0:02:46.26, 0:02:48.35, Default, {\c&HFFFFFF&}Lpgnl{\c&HFFFFFF&}: !music
+; Dialogue: 0:02:46.26, 0:02:48.35, Default, {\c&HFFFFFF&}Lpgnl{\c&HFFFFFF&}: !music
 Dialogue: 0:02:47.09, 0:02:49.25, Default, {\c&HFFFFFF&}Jessika_Glitch{\c&HFFFFFF&}: опаздывает!
 Dialogue: 0:02:47.50, 0:02:49.99, Default, {\c&HFFFFFF&}ganibal_petrovih{\c&HFFFFFF&}: Что ребят ортопедический матрас?)
 Dialogue: 0:02:47.76, 0:02:49.95, Default, {\c&HA09E5F&}shy_fringilla{\c&HFFFFFF&}: Добрый вечер)
@@ -161,14 +161,14 @@ Dialogue: 0:02:49.17, 0:02:51.27, Default, {\c&H0045FF&}redrick_shuh{\c&HFFFFFF&
 Dialogue: 0:02:50.09, 0:02:52.24, Default, {\c&HFFFFFF&}makcum4833{\c&HFFFFFF&}: PokPikachu
 Dialogue: 0:02:50.49, 0:02:53.31, Default, {\c&HFFFFFF&}nikino716{\c&HFFFFFF&}: не сомалийский и не карибский а новый российский \Nпират!
 Dialogue: 0:02:52.36, 0:02:54.58, Default, {\c&H008000&}SBeaRM{\c&HFFFFFF&}: яйё то так рано
-Dialogue: 0:02:52.68, 0:02:56.21, Default, {\c&H32CD9A&}DudelkaBot{\c&HFFFFFF&}: @lpgnl Сейчас в VK играет: David Garcia - \NHellblade: Senua's Sacrifice OST - Gramr [EXTENDED] Kreygasm
+; Dialogue: 0:02:52.68, 0:02:56.21, Default, {\c&H32CD9A&}DudelkaBot{\c&HFFFFFF&}: @lpgnl Сейчас в VK играет: David Garcia - \NHellblade: Senua's Sacrifice OST - Gramr [EXTENDED] Kreygasm
 Dialogue: 0:02:52.86, 0:02:55.04, Default, {\c&HE22B8A&}karmic_man{\c&HFFFFFF&}: blackufaDumb
 Dialogue: 0:02:53.08, 0:02:55.59, Default, {\c&HFFCC00&}mysteryhuman{\c&HFFFFFF&}: Выпускайте стримлера! blackufaRage
 Dialogue: 0:02:54.05, 0:02:56.51, Default, {\c&HFFFFFF&}Laizerg1{\c&HFFFFFF&}: А как нзывается текущая музыка?
 Dialogue: 0:02:55.12, 0:02:57.28, Default, {\c&HFFFFFF&}vocdark{\c&HFFFFFF&}: KevinTurtle
 Dialogue: 0:02:56.34, 0:02:58.56, Default, {\c&HFFFFFF&}aaabugs{\c&HFFFFFF&}: ааааа это чего?
 Dialogue: 0:02:56.58, 0:02:58.64, Default, {\c&H008000&}SBeaRM{\c&HFFFFFF&}: *чёй
-Dialogue: 0:02:56.59, 0:02:59.38, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Наш сервер в Discord - \Nhttps://discord.gg/fsofbsadw ●
+; Dialogue: 0:02:56.59, 0:02:59.38, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Наш сервер в Discord - \Nhttps://discord.gg/fsofbsadw ●
 Dialogue: 0:02:57.24, 0:02:59.37, Default, {\c&HFFFFFF&}CCerrberus{\c&HFFFFFF&}: Нежданчик
 Dialogue: 0:02:58.52, 0:03:00.88, Default, {\c&H0045FF&}Belovedyatina{\c&HFFFFFF&}: Артур,ну я же на работе!
 Dialogue: 0:02:58.83, 0:03:00.99, Default, {\c&HFFFFFF&}sedartveidar{\c&HFFFFFF&}: Всём привет
@@ -224,14 +224,14 @@ Dialogue: 0:03:33.47, 0:03:35.59, Default, {\c&HFF0000&}TechnicsRush{\c&HFFFFFF&
 Dialogue: 0:03:37.61, 0:03:40.66, Default, {\c&HFFFFFF&}BloodRabbit162635{\c&HFFFFFF&}: @startsvyatochka22 я чет на телефоне не \Nмогу увидеть название, покажи!
 Dialogue: 0:03:40.98, 0:03:43.10, Default, {\c&HFFFFFF&}Madfox83{\c&HFFFFFF&}: cmonBruh
 Dialogue: 0:03:42.31, 0:03:44.77, Default, {\c&HFFFFFF&}ArtemVodorez{\c&HFFFFFF&}: молчаливый скример от Артура)))
-Dialogue: 0:03:42.81, 0:03:45.68, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: frostkois -> Не капси, я в танке горел, я дурак. \N[warning]
+; Dialogue: 0:03:42.81, 0:03:45.68, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: frostkois -> Не капси, я в танке горел, я дурак. \N[warning]
 Dialogue: 0:03:43.09, 0:03:45.21, Default, {\c&HFFFFFF&}MilliumMusic{\c&HFFFFFF&}: WaitWhat
 Dialogue: 0:03:44.66, 0:03:46.87, Default, {\c&HFFFFFF&}VDust32{\c&HFFFFFF&}: чатик гориииит
 Dialogue: 0:03:44.72, 0:03:47.05, Default, {\c&HFF0000&}lazyhero{\c&HFFFFFF&}: Айяй аэм чардж нау! =З
 Dialogue: 0:03:45.63, 0:03:48.03, Default, {\c&H32CD9A&}Sir_GoodBoy_the_XI{\c&HFFFFFF&}: Запускай Ктулху, культисты!
 Dialogue: 0:03:46.45, 0:03:48.66, Default, {\c&HFFFFFF&}anaxoretus_{\c&HFFFFFF&}: аааарррртуууур
 Dialogue: 0:03:46.93, 0:03:49.47, Default, {\c&HFFFFFF&}mihailovna{\c&HFFFFFF&}: так а работать кто будет теперь?!-_-
-Dialogue: 0:03:48.04, 0:03:51.24, Default, {\c&H32CD9A&}DudelkaBot{\c&HFFFFFF&}: Ого у cmdr_xsphex уже 3 сантиметров PogChamp \NСпасибо за переподписку CoolCat x⁣3
+; Dialogue: 0:03:48.04, 0:03:51.24, Default, {\c&H32CD9A&}DudelkaBot{\c&HFFFFFF&}: Ого у cmdr_xsphex уже 3 сантиметров PogChamp \NСпасибо за переподписку CoolCat x⁣3
 Dialogue: 0:03:48.25, 0:03:50.56, Default, {\c&HFFFFFF&}makcum4833{\c&HFFFFFF&}: Вырубай страшна Kappa
 Dialogue: 0:03:49.10, 0:03:52.33, Default, {\c&H507FFF&}XinnGadget{\c&HFFFFFF&}: Вначале пятничные подкасты в пятницу, потом \Nстримы среди дня. Что-то тут не так...
 Dialogue: 0:03:51.20, 0:03:53.51, Default, {\c&H7FFF00&}mykillaa{\c&HFFFFFF&}: скримлер SeriousSloth
@@ -278,11 +278,11 @@ Dialogue: 0:04:56.58, 0:04:58.73, Default, {\c&HFFFFFF&}LordCommanderNW{\c&HFFFF
 Dialogue: 0:04:57.82, 0:05:00.01, Default, {\c&H7FFF00&}masharosenkrans{\c&HFFFFFF&}: как дела чат?
 Dialogue: 0:04:59.01, 0:05:01.20, Default, {\c&HFFFFFF&}Ikar94{\c&HFFFFFF&}: Артур, выходи
 Dialogue: 0:05:00.75, 0:05:03.18, Default, {\c&HFFFFFF&}ganibal_petrovih{\c&HFFFFFF&}: Артурка мы тебя видели,выходи
-Dialogue: 0:05:05.41, 0:05:07.51, Default, {\c&HA09E5F&}Pro_godl1ke{\c&HFFFFFF&}: !uptime
+; Dialogue: 0:05:05.41, 0:05:07.51, Default, {\c&HA09E5F&}Pro_godl1ke{\c&HFFFFFF&}: !uptime
 Dialogue: 0:05:06.02, 0:05:08.63, Default, {\c&HFFFFFF&}daisy_kigurumi{\c&HFFFFFF&}: 19:30 - самое оно для стрима blackufaLike
-Dialogue: 0:05:06.05, 0:05:08.96, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Айя Ктулху, Айя Блэк! Мы в эфире уже \N5 minutes 23 seconds x⁣2
-Dialogue: 0:05:06.60, 0:05:10.82, Default, {\c&H32CD9A&}DudelkaBot{\c&HFFFFFF&}: Случайная цитата LUL - blackufa_twitch, 2017 #41 \N: 'Что меня дико радует в этой игре... Я забыл, что меня \Nдико радует в этой игре. [Pineview Drive]'
-Dialogue: 0:05:07.95, 0:05:10.98, Default, {\c&H32CD9A&}DudelkaBot{\c&HFFFFFF&}: xani__ уже 14 лет с нами PogChamp Спасибо за \Nпереподписку CoolCat x⁣3
+; Dialogue: 0:05:06.05, 0:05:08.96, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Айя Ктулху, Айя Блэк! Мы в эфире уже \N5 minutes 23 seconds x⁣2
+; Dialogue: 0:05:06.60, 0:05:10.82, Default, {\c&H32CD9A&}DudelkaBot{\c&HFFFFFF&}: Случайная цитата LUL - blackufa_twitch, 2017 #41 \N: 'Что меня дико радует в этой игре... Я забыл, что меня \Nдико радует в этой игре. [Pineview Drive]'
+; Dialogue: 0:05:07.95, 0:05:10.98, Default, {\c&H32CD9A&}DudelkaBot{\c&HFFFFFF&}: xani__ уже 14 лет с нами PogChamp Спасибо за \Nпереподписку CoolCat x⁣3
 Dialogue: 0:05:08.33, 0:05:10.39, Default, {\c&HFFFFFF&}WiseDolphin321{\c&HFFFFFF&}: алло
 Dialogue: 0:05:08.49, 0:05:11.15, Default, {\c&HE22B8A&}zaira_555{\c&HFFFFFF&}: сидишь себе на работе и тут бац, стрим Kappa
 Dialogue: 0:05:08.64, 0:05:11.33, Default, {\c&HFFFFFF&}anaxoretus_{\c&HFFFFFF&}: блек боится артурчик мы тебе нечего не зделаем
@@ -331,11 +331,11 @@ Dialogue: 0:05:32.90, 0:05:35.17, Default, {\c&HFFFFFF&}VolgarCifra{\c&HFFFFFF&}
 Dialogue: 0:05:34.16, 0:05:36.41, Default, {\c&HFF901E&}DeKoniX{\c&HFFFFFF&}: blackufaTosya x⁣6
 Dialogue: 0:05:34.85, 0:05:37.06, Default, {\c&HE22B8A&}Kraken608{\c&HFFFFFF&}: Привет Блэки))
 Dialogue: 0:05:37.90, 0:05:40.14, Default, {\c&H0000FF&}bog_dukalis{\c&HFFFFFF&}: А чего так тихо?
-Dialogue: 0:05:37.95, 0:05:41.09, Default, {\c&H32CD9A&}DudelkaBot{\c&HFFFFFF&}: Сейчас в VK играет: Неизвестен - Hellblade \NSoundtrack_ Battle March Kreygasm
+; Dialogue: 0:05:37.95, 0:05:41.09, Default, {\c&H32CD9A&}DudelkaBot{\c&HFFFFFF&}: Сейчас в VK играет: Неизвестен - Hellblade \NSoundtrack_ Battle March Kreygasm
 Dialogue: 0:05:39.51, 0:05:41.70, Default, {\c&HFF901E&}9618JLee{\c&HFFFFFF&}: слышно хорошо
 Dialogue: 0:05:39.55, 0:05:41.64, Default, {\c&HB469FF&}Amil0512{\c&HFFFFFF&}: УРАААА
 Dialogue: 0:05:40.27, 0:05:42.51, Default, {\c&HFFFFFF&}anaxoretus_{\c&HFFFFFF&}: оооого аррртууур
-Dialogue: 0:05:42.09, 0:05:45.18, Default, {\c&H32CD9A&}DudelkaBot{\c&HFFFFFF&}: grafpolskii уже 2 лет с нами PogChamp Спасибо за \Nпереподписку CoolCat x⁣3
+; Dialogue: 0:05:42.09, 0:05:45.18, Default, {\c&H32CD9A&}DudelkaBot{\c&HFFFFFF&}: grafpolskii уже 2 лет с нами PogChamp Спасибо за \Nпереподписку CoolCat x⁣3
 Dialogue: 0:05:42.22, 0:05:44.38, Default, {\c&H2222B2&}kototlen{\c&HFFFFFF&}: ооомаайгаад
 Dialogue: 0:05:43.56, 0:05:45.69, Default, {\c&HFFFFFF&}Vkysnyatina{\c&HFFFFFF&}: Монструм!
 Dialogue: 0:05:43.68, 0:05:45.78, Default, {\c&H0000FF&}Vano202{\c&HFFFFFF&}: еееееее
@@ -362,14 +362,14 @@ Dialogue: 0:05:51.54, 0:05:53.85, Default, {\c&HFFFFFF&}Nromario{\c&HFFFFFF&}: �
 Dialogue: 0:05:51.70, 0:05:53.79, Default, {\c&HFFFFFF&}Nice_nice5{\c&HFFFFFF&}: ШТОООО
 Dialogue: 0:05:51.74, 0:05:54.20, Default, {\c&HFFFFFF&}Ambocornu{\c&HFFFFFF&}: Хайхайхай, Блэк! Привет, Чатик!
 Dialogue: 0:05:52.29, 0:05:54.65, Default, {\c&HFFFFFF&}Ikar94{\c&HFFFFFF&}: ооооо. да. давай дуделку
-Dialogue: 0:05:52.80, 0:05:55.68, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Vlad_Hurma -> Не капси, я в танке горел, я дурак. \N[warning]
+; Dialogue: 0:05:52.80, 0:05:55.68, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Vlad_Hurma -> Не капси, я в танке горел, я дурак. \N[warning]
 Dialogue: 0:05:52.93, 0:05:55.38, Default, {\c&H0045FF&}Zatarn{\c&HFFFFFF&}: атятя, Блэк)) Однако, Привет))
 Dialogue: 0:05:54.50, 0:05:56.66, Default, {\c&HFFFFFF&}WiseDolphin321{\c&HFFFFFF&}: монструм ее
 Dialogue: 0:05:54.75, 0:05:56.96, Default, {\c&HE22B8A&}Kraken608{\c&HFFFFFF&}: Слышно хорошо)
 Dialogue: 0:05:54.77, 0:05:57.19, Default, {\c&HFF0000&}valeriyakook{\c&HFFFFFF&}: oooooooooooooooooooooooooooo
-Dialogue: 0:05:55.04, 0:05:57.11, Default, {\c&HFF901E&}lego_199{\c&HFFFFFF&}: !time
+; Dialogue: 0:05:55.04, 0:05:57.11, Default, {\c&HFF901E&}lego_199{\c&HFFFFFF&}: !time
 Dialogue: 0:05:55.21, 0:05:57.40, Default, {\c&HFF0000&}true_haku_men{\c&HFFFFFF&}: А? Кто здесь?
-Dialogue: 0:05:55.32, 0:05:58.17, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Айя Ктулху, Айя Блэк! Мы в эфире уже 6 minutes 12 \Nseconds
+; Dialogue: 0:05:55.32, 0:05:58.17, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Айя Ктулху, Айя Блэк! Мы в эфире уже 6 minutes 12 \Nseconds
 Dialogue: 0:05:57.60, 0:05:59.78, Default, {\c&HFFFFFF&}Vkysnyatina{\c&HFFFFFF&}: да монструм!
 Dialogue: 0:05:57.68, 0:05:59.74, Default, {\c&HFFFFFF&}rezonator1326{\c&HFFFFFF&}: Оооо
 Dialogue: 0:06:01.88, 0:06:04.21, Default, {\c&HFFFFFF&}taskidaski{\c&HFFFFFF&}: Монструм! Kreygasm x⁣6
@@ -398,7 +398,7 @@ Dialogue: 0:06:15.35, 0:06:17.95, Default, {\c&HFFFFFF&}Nice_nice5{\c&HFFFFFF&}:
 Dialogue: 0:06:17.71, 0:06:20.35, Default, {\c&HFFFFFF&}mormoro{\c&HFFFFFF&}: А пятюню с Дашей еще кому-то будете давать?
 Dialogue: 0:06:18.96, 0:06:21.08, Default, {\c&HFF0000&}MinistreliaKatrin{\c&HFFFFFF&}: монструм
 Dialogue: 0:06:20.76, 0:06:22.98, Default, {\c&HFF0000&}777alienware777{\c&HFFFFFF&}: Монструууум!!!!
-Dialogue: 0:06:22.13, 0:06:25.75, Default, {\c&H32CD9A&}DudelkaBot{\c&HFFFFFF&}: Беги lazyhero SwiftRage , ты слишком красивый \Nподписчик. Чат уже выезжает, Артур присоединится позже \NGivePLZ
+; Dialogue: 0:06:22.13, 0:06:25.75, Default, {\c&H32CD9A&}DudelkaBot{\c&HFFFFFF&}: Беги lazyhero SwiftRage , ты слишком красивый \Nподписчик. Чат уже выезжает, Артур присоединится позже \NGivePLZ
 Dialogue: 0:06:24.46, 0:06:26.71, Default, {\c&HFF901E&}Vasyok125701yf{\c&HFFFFFF&}: СТРАШНА, вырубай!
 Dialogue: 0:06:26.16, 0:06:29.40, Default, {\c&H0000FF&}GrafPolskii{\c&HFFFFFF&}: Драсти, чат, Аптип blackufaHi blackufaHi Че \Nделаете? blackufaDumb blackufaCoolStory
 Dialogue: 0:06:26.39, 0:06:28.51, Default, {\c&HFF0000&}MinistreliaKatrin{\c&HFFFFFF&}: МОНСТРУМ
@@ -431,7 +431,7 @@ Dialogue: 0:06:41.53, 0:06:43.86, Default, {\c&H32CD9A&}Sir_GoodBoy_the_XI{\c&HF
 Dialogue: 0:06:42.52, 0:06:44.67, Default, {\c&HFFFFFF&}nezro27{\c&HFFFFFF&}: все хорошо
 Dialogue: 0:06:42.60, 0:06:45.60, Default, {\c&HFFFFFF&}LordCommanderNW{\c&HFFFFFF&}: Нормальненько, последние дни отдыха перед \Nновым семестром BibleTump
 Dialogue: 0:06:42.99, 0:06:45.21, Default, {\c&HFFFFFF&}Egend_Legend{\c&HFFFFFF&}: Артур где кооп?
-Dialogue: 0:06:43.04, 0:06:46.46, Default, {\c&H32CD9A&}DudelkaBot{\c&HFFFFFF&}: irlissa уже 6 веков с нами, старый подписчик \NKappa PogChamp Спасибо за переподписку CoolCat x⁣3
+; Dialogue: 0:06:43.04, 0:06:46.46, Default, {\c&H32CD9A&}DudelkaBot{\c&HFFFFFF&}: irlissa уже 6 веков с нами, старый подписчик \NKappa PogChamp Спасибо за переподписку CoolCat x⁣3
 Dialogue: 0:06:44.21, 0:06:46.39, Default, {\c&HFFFFFF&}Nromario{\c&HFFFFFF&}: Стало лучше)
 Dialogue: 0:06:44.48, 0:06:46.91, Default, {\c&HFFFFFF&}unknown_ivan{\c&HFFFFFF&}: что будет на основном стриме?
 Dialogue: 0:06:44.61, 0:06:46.91, Default, {\c&H0000FF&}palachrt{\c&HFFFFFF&}: Что за игры будут???
@@ -450,7 +450,7 @@ Dialogue: 0:06:54.95, 0:06:57.83, Default, {\c&HFFFFFF&}Vkysnyatina{\c&HFFFFFF&}
 Dialogue: 0:06:55.40, 0:06:57.86, Default, {\c&HE22B8A&}karmic_man{\c&HFFFFFF&}: а как у тебя дела? blackufaDumb
 Dialogue: 0:06:57.70, 0:07:00.33, Default, {\c&HFFFFFF&}Ikar94{\c&HFFFFFF&}: ну в смысли? ты же сам про монструм сказал
 Dialogue: 0:06:57.99, 0:07:00.30, Default, {\c&H00FF40&}I_am_NariK{\c&HFFFFFF&}: Он реально спутал LUL
-Dialogue: 0:06:58.64, 0:07:02.41, Default, {\c&H32CD9A&}DudelkaBot{\c&HFFFFFF&}: Ложа для 8 месячников этажом выше, давай же, \Ndragoshani, поднимайся Kappa Там тебя ждут котики и не \Nтолько CoolCat x⁣3
+; Dialogue: 0:06:58.64, 0:07:02.41, Default, {\c&H32CD9A&}DudelkaBot{\c&HFFFFFF&}: Ложа для 8 месячников этажом выше, давай же, \Ndragoshani, поднимайся Kappa Там тебя ждут котики и не \Nтолько CoolCat x⁣3
 Dialogue: 0:06:59.22, 0:07:01.53, Default, {\c&HFFFFFF&}anaxoretus_{\c&HFFFFFF&}: как у тебя артур дела
 Dialogue: 0:07:00.31, 0:07:03.45, Default, {\c&HFFFFFF&}Pirat_Panda{\c&HFFFFFF&}: На работе херня какая-то, а так хорошо, \Nспасибо) ПС. не груби груби чатику;)
 Dialogue: 0:07:00.79, 0:07:03.96, Default, {\c&HE22B8A&}Mr_grays{\c&HFFFFFF&}: Сессию надо пересдавать на след неделе вот сижу \Nстрим смотрю и ничего не делаю
@@ -466,7 +466,7 @@ Dialogue: 0:07:06.94, 0:07:09.45, Default, {\c&HFFFFFF&}tweedeec{\c&HFFFFFF&}: �
 Dialogue: 0:07:08.97, 0:07:11.82, Default, {\c&HE22B8A&}skbl9991{\c&HFFFFFF&}: Соскучился по твоей фразе: я буду жить здесь (в \Nшкафчике)
 Dialogue: 0:07:10.90, 0:07:13.69, Default, {\c&HFFFFFF&}ivan2033russ{\c&HFFFFFF&}: @blackufa_twitch лежу, болею и смотрю секси \Nстримлера
 Dialogue: 0:07:11.64, 0:07:13.88, Default, {\c&HFFFFFF&}Nice_nice5{\c&HFFFFFF&}: Нас обманули чат
-Dialogue: 0:07:12.67, 0:07:16.38, Default, {\c&H32CD9A&}DudelkaBot{\c&HFFFFFF&}: Чат уже выезжает к тебе в гости, chell66613 \NKappa / Готовь чай и печеньки, ибо ты теперь подписчик - это \Nлюбофф <3
+; Dialogue: 0:07:12.67, 0:07:16.38, Default, {\c&H32CD9A&}DudelkaBot{\c&HFFFFFF&}: Чат уже выезжает к тебе в гости, chell66613 \NKappa / Готовь чай и печеньки, ибо ты теперь подписчик - это \Nлюбофф <3
 Dialogue: 0:07:14.29, 0:07:17.31, Default, {\c&HB469FF&}simplypleasure{\c&HFFFFFF&}: @BlackUFA_Twitch Артурка не гори с чатика) \Nты сам сказал Монструм :)
 Dialogue: 0:07:17.89, 0:07:20.91, Default, {\c&HB469FF&}Yarmilu{\c&HFFFFFF&}: @pinkminttea Привет) TwitchUnity TwitchUnity \Nartgam2Sexy artgam2Sexy
 Dialogue: 0:07:17.99, 0:07:20.15, Default, {\c&HFFFFFF&}teenlok{\c&HFFFFFF&}: Всем привет
@@ -504,7 +504,7 @@ Dialogue: 0:07:47.23, 0:07:49.32, Default, {\c&HFFFFFF&}LooseCannonPillman{\c&HF
 Dialogue: 0:07:49.03, 0:07:51.63, Default, {\c&HFFFFFF&}Nromario{\c&HFFFFFF&}: Груби еще, это возбуждает чат KappaPride
 Dialogue: 0:07:50.08, 0:07:52.48, Default, {\c&HFFFFFF&}Vlad_Hurma{\c&HFFFFFF&}: второе пришествие монструма
 Dialogue: 0:07:52.44, 0:07:54.60, Default, {\c&HFFFFFF&}tweedeec{\c&HFFFFFF&}: порицание^2
-Dialogue: 0:07:57.02, 0:08:00.58, Default, {\c&H32CD9A&}DudelkaBot{\c&HFFFFFF&}: Сейчас в VK играет: Andy LaPlegua - Hellblade : \NSenua's Sacrifice (OST Hellblade) - Combichrist Kreygasm
+; Dialogue: 0:07:57.02, 0:08:00.58, Default, {\c&H32CD9A&}DudelkaBot{\c&HFFFFFF&}: Сейчас в VK играет: Andy LaPlegua - Hellblade : \NSenua's Sacrifice (OST Hellblade) - Combichrist Kreygasm
 Dialogue: 0:07:57.48, 0:07:59.78, Default, {\c&HFFFFFF&}Vkysnyatina{\c&HFFFFFF&}: порицание в квадрате
 Dialogue: 0:07:59.89, 0:08:04.62, Default, {\c&HFFFFFF&}sagittarius7576{\c&HFFFFFF&}: @BlackUFA_Twitch Артууууууууууууууууууууууу\Nууур!!!!!!!!!!!!!привеееееееееееееет!!!!!!!!!! может кто уже \Nспрашивал, но я осмелюсь спросить ещё раз))) будешь ли ты \Nиграть в subnautica?
 Dialogue: 0:08:00.93, 0:08:03.26, Default, {\c&HE22B8A&}zaira_555{\c&HFFFFFF&}: порицание в кубе Kappa
@@ -529,7 +529,7 @@ Dialogue: 0:08:30.72, 0:08:32.88, Default, {\c&H0000FF&}lllslugerlll{\c&HFFFFFF&
 Dialogue: 0:08:31.38, 0:08:33.71, Default, {\c&H20A5DA&}foxonfire{\c&HFFFFFF&}: Порицание в кубе SMOrc
 Dialogue: 0:08:33.52, 0:08:35.67, Default, {\c&HFFFFFF&}replicantm0021{\c&HFFFFFF&}: KappaPride
 Dialogue: 0:08:36.35, 0:08:38.51, Default, {\c&HFFFFFF&}VDust32{\c&HFFFFFF&}: порицание^2
-Dialogue: 0:08:37.01, 0:08:39.91, Default, {\c&H32CD9A&}DudelkaBot{\c&HFFFFFF&}: Сейчас в VK играет: Mewone! - Hastur (Original \NMix) Kreygasm
+; Dialogue: 0:08:37.01, 0:08:39.91, Default, {\c&H32CD9A&}DudelkaBot{\c&HFFFFFF&}: Сейчас в VK играет: Mewone! - Hastur (Original \NMix) Kreygasm
 Dialogue: 0:08:37.54, 0:08:40.36, Default, {\c&HFFFFFF&}ashesrene{\c&HFFFFFF&}: здраствуйте мои сладкии ! а че так рано стрим \Nначался ?
 Dialogue: 0:08:37.89, 0:08:40.17, Default, {\c&H0000FF&}Gibonich{\c&HFFFFFF&}: Артур, что делаешь?
 Dialogue: 0:08:38.68, 0:08:41.28, Default, {\c&HFFFFFF&}Laizerg1{\c&HFFFFFF&}: Растворитель хорошо помогает от слипания
@@ -593,7 +593,7 @@ Dialogue: 0:10:16.15, 0:10:18.61, Default, {\c&HFFFFFF&}Tyan_____{\c&HFFFFFF&}: 
 Dialogue: 0:10:17.52, 0:10:19.83, Default, {\c&HFFFFFF&}VDust32{\c&HFFFFFF&}: порицание в бараколке
 Dialogue: 0:10:17.84, 0:10:19.90, Default, {\c&HFFFFFF&}promolkin{\c&HFFFFFF&}: Всех
 Dialogue: 0:10:18.01, 0:10:20.07, Default, {\c&HFFFFFF&}ezezix{\c&HFFFFFF&}: Себя
-Dialogue: 0:10:18.29, 0:10:21.17, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Infrar3dxd -> Не капси, я в танке горел, я дурак. \N[warning]
+; Dialogue: 0:10:18.29, 0:10:21.17, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Infrar3dxd -> Не капси, я в танке горел, я дурак. \N[warning]
 Dialogue: 0:10:19.38, 0:10:21.57, Default, {\c&HFFFFFF&}annavail{\c&HFFFFFF&}: порицай всех)
 Dialogue: 0:10:19.97, 0:10:22.28, Default, {\c&H32CD9A&}Ginger04{\c&HFFFFFF&}: бандеролька же, ну хд
 Dialogue: 0:10:20.11, 0:10:23.76, Default, {\c&HFFFFFF&}iliosin991{\c&HFFFFFF&}: Бандеролька норм, уже год вожу всякое разное, \Nплюс ко всему отменили нотификацию, теперь проще вводить \Nтехнику
@@ -605,7 +605,7 @@ Dialogue: 0:10:24.65, 0:10:27.22, Default, {\c&H0000FF&}GrafPolskii{\c&HFFFFFF&}
 Dialogue: 0:10:26.17, 0:10:28.42, Default, {\c&HFFFFFF&}anstefan{\c&HFFFFFF&}: всех blackufaDumb
 Dialogue: 0:10:27.40, 0:10:29.46, Default, {\c&H0000FF&}Insane41{\c&HFFFFFF&}: всех
 Dialogue: 0:10:27.46, 0:10:29.64, Default, {\c&HFFFFFF&}teenlok{\c&HFFFFFF&}: Всех порицай
-Dialogue: 0:10:27.50, 0:10:30.38, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: ShadyDax -> Yippie ka-yay [stop spamming symbols] \N[warning]
+; Dialogue: 0:10:27.50, 0:10:30.38, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: ShadyDax -> Yippie ka-yay [stop spamming symbols] \N[warning]
 Dialogue: 0:10:27.88, 0:10:30.06, Default, {\c&HFFFFFF&}ashesrene{\c&HFFFFFF&}: порицай ВСЕХ
 Dialogue: 0:10:28.08, 0:10:30.27, Default, {\c&H7FFF00&}SaltyCook{\c&HFFFFFF&}: бандеролька !
 Dialogue: 0:10:28.63, 0:10:31.12, Default, {\c&HFFFFFF&}Ikar94{\c&HFFFFFF&}: порицать стримлера как цель жизни
@@ -637,7 +637,7 @@ Dialogue: 0:10:57.65, 0:10:59.83, Default, {\c&HFFFFFF&}VDust32{\c&HFFFFFF&}: д
 Dialogue: 0:10:58.00, 0:11:01.11, Default, {\c&HFF0000&}avrilkin{\c&HFFFFFF&}: @BlackUFA_Twitch У тебя на стриме скидка на кресло \N5%, а под стримом 3% :)
 Dialogue: 0:10:58.61, 0:11:02.03, Default, {\c&HFFFFFF&}Nikita7878{\c&HFFFFFF&}: Артур привет хотел спросить ты играешь в xbox \None x вне стримов стоит вообще покупать консоль ?
 Dialogue: 0:10:58.78, 0:11:01.12, Default, {\c&HE22B8A&}Kraken608{\c&HFFFFFF&}: В Бандерольке порицание
-Dialogue: 0:11:00.75, 0:11:03.95, Default, {\c&H32CD9A&}DudelkaBot{\c&HFFFFFF&}: Ого у farkh_rasl уже 13 сантиметров PogChamp \NСпасибо за переподписку CoolCat x⁣3
+; Dialogue: 0:11:00.75, 0:11:03.95, Default, {\c&H32CD9A&}DudelkaBot{\c&HFFFFFF&}: Ого у farkh_rasl уже 13 сантиметров PogChamp \NСпасибо за переподписку CoolCat x⁣3
 Dialogue: 0:11:02.83, 0:11:06.99, Default, {\c&HE22B8A&}asfild1{\c&HFFFFFF&}: Артур,случайно наткнулись на церковь \Nартуроненавистников в сети. как люди смогли тебя не любить? \Nты же сексуальный няшечка. любим тебя по гейски
 Dialogue: 0:11:03.37, 0:11:05.61, Default, {\c&HFF901E&}DeKoniX{\c&HFFFFFF&}: Порицание им LUL
 Dialogue: 0:11:03.65, 0:11:06.31, Default, {\c&HFF0000&}SibiroM{\c&HFFFFFF&}: А как же Nier automata BibleThump BibleThump
@@ -655,7 +655,7 @@ Dialogue: 0:11:28.38, 0:11:33.38, Default, {\c&HA09E5F&}GilyovDmitrij{\c&HFFFFFF
 Dialogue: 0:11:30.00, 0:11:32.13, Default, {\c&HE22B8A&}Kraken608{\c&HFFFFFF&}: Монструм)
 Dialogue: 0:11:33.51, 0:11:35.60, Default, {\c&H0045FF&}c00kiemancer{\c&HFFFFFF&}: TaBeRu
 Dialogue: 0:11:33.86, 0:11:36.34, Default, {\c&HB469FF&}Yarmilu{\c&HFFFFFF&}: @camafa_vlad Привет) artgam2Sexy
-Dialogue: 0:11:36.04, 0:11:40.26, Default, {\c&H32CD9A&}DudelkaBot{\c&HFFFFFF&}: Ты сегодня особенно хорош, mykillaa ! Добро \Nпожаловать Kappa /, не забудь оставить сегодня окно \Nоткрытым, тебя ждет сюрприз KappaPride ! CoolCat x⁣3
+; Dialogue: 0:11:36.04, 0:11:40.26, Default, {\c&H32CD9A&}DudelkaBot{\c&HFFFFFF&}: Ты сегодня особенно хорош, mykillaa ! Добро \Nпожаловать Kappa /, не забудь оставить сегодня окно \Nоткрытым, тебя ждет сюрприз KappaPride ! CoolCat x⁣3
 Dialogue: 0:11:38.98, 0:11:41.82, Default, {\c&H32CD9A&}ShadyDax{\c&HFFFFFF&}: Артур порицает себя в прямом эфире без регистрации \Nи смс
 Dialogue: 0:11:40.58, 0:11:42.76, Default, {\c&HE22B8A&}IrrealityGG{\c&HFFFFFF&}: Порицание ^2
 Dialogue: 0:11:44.39, 0:11:47.77, Default, {\c&HFFFFFF&}antonm23{\c&HFFFFFF&}: Ирония в том, что кто хейтит сервис этот сами \Nникогда им не пользовались... это же чат Kappa
@@ -681,7 +681,7 @@ Dialogue: 0:12:05.14, 0:12:08.47, Default, {\c&HB469FF&}AmabelRick{\c&HFFFFFF&}:
 Dialogue: 0:12:05.61, 0:12:08.60, Default, {\c&HFFFFFF&}AlmightyPuding{\c&HFFFFFF&}: @BlackUFA_Twitch Я за среднее качество чтоб \Nмой комп тянул это все
 Dialogue: 0:12:05.69, 0:12:08.12, Default, {\c&HFFFFFF&}kichok{\c&HFFFFFF&}: привет Артур ,привет нон-сабы
 Dialogue: 0:12:06.86, 0:12:09.02, Default, {\c&HE22B8A&}Ubitiydendi{\c&HFFFFFF&}: artgam2Sexy
-Dialogue: 0:12:07.04, 0:12:10.22, Default, {\c&H32CD9A&}DudelkaBot{\c&HFFFFFF&}: alexander__white уже 11 лет с нами PogChamp \NСпасибо за переподписку CoolCat x⁣3
+; Dialogue: 0:12:07.04, 0:12:10.22, Default, {\c&H32CD9A&}DudelkaBot{\c&HFFFFFF&}: alexander__white уже 11 лет с нами PogChamp \NСпасибо за переподписку CoolCat x⁣3
 Dialogue: 0:12:08.28, 0:12:10.79, Default, {\c&H008000&}Karilon{\c&HFFFFFF&}: Ортур,будешь зрителей приглашать ?
 Dialogue: 0:12:08.67, 0:12:10.73, Default, {\c&HFFFFFF&}promolkin{\c&HFFFFFF&}: окей
 Dialogue: 0:12:09.22, 0:12:12.49, Default, {\c&HFF0000&}avrilkin{\c&HFFFFFF&}: @BlackUFA_Twitch У тебя на стриме скидка на кресло \N5%, а под стримом в описании 3% :)
@@ -701,11 +701,11 @@ Dialogue: 0:12:27.17, 0:12:29.33, Default, {\c&HFFFFFF&}pikapuhek{\c&HFFFFFF&}: 
 Dialogue: 0:12:28.14, 0:12:30.44, Default, {\c&HFFFFFF&}VDust32{\c&HFFFFFF&}: Монста ханта порицац
 Dialogue: 0:12:29.44, 0:12:32.05, Default, {\c&HFF0000&}Kasper786{\c&HFFFFFF&}: кто бы знал что пираты окажутся такие топ
 Dialogue: 0:12:30.39, 0:12:32.55, Default, {\c&H0045FF&}c00kiemancer{\c&HFFFFFF&}: blackufaWut
-Dialogue: 0:12:30.55, 0:12:33.82, Default, {\c&H32CD9A&}DudelkaBot{\c&HFFFFFF&}: Ого у dovolniyanatoliy уже 5 сантиметров \NPogChamp Спасибо за переподписку CoolCat x⁣3
+; Dialogue: 0:12:30.55, 0:12:33.82, Default, {\c&H32CD9A&}DudelkaBot{\c&HFFFFFF&}: Ого у dovolniyanatoliy уже 5 сантиметров \NPogChamp Спасибо за переподписку CoolCat x⁣3
 Dialogue: 0:12:31.88, 0:12:34.19, Default, {\c&HFFFFFF&}FALEJE {\c&HFFFFFF&}: Он ответил, о господя
 Dialogue: 0:12:32.90, 0:12:35.54, Default, {\c&HFFFFFF&}anaxoretus_{\c&HFFFFFF&}: пачему монстр хантр ну эта будет сексуально
-Dialogue: 0:12:34.24, 0:12:36.31, Default, {\c&HE22B8A&}KarenCatherineBarnes{\c&HFFFFFF&}: !time
-Dialogue: 0:12:34.59, 0:12:37.46, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Айя Ктулху, Айя Блэк! Мы в эфире уже 12 minutes 52 \Nseconds
+; Dialogue: 0:12:34.24, 0:12:36.31, Default, {\c&HE22B8A&}KarenCatherineBarnes{\c&HFFFFFF&}: !time
+; Dialogue: 0:12:34.59, 0:12:37.46, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Айя Ктулху, Айя Блэк! Мы в эфире уже 12 minutes 52 \Nseconds
 Dialogue: 0:12:34.61, 0:12:36.79, Default, {\c&HB469FF&}simplypleasure{\c&HFFFFFF&}: нет, не крут
 Dialogue: 0:12:37.72, 0:12:39.78, Default, {\c&H0000FF&}Insane41{\c&HFFFFFF&}: Крут
 Dialogue: 0:12:39.76, 0:12:42.01, Default, {\c&HFFFFFF&}promolkin{\c&HFFFFFF&}: слишком сексуален
@@ -713,8 +713,8 @@ Dialogue: 0:12:41.55, 0:12:44.06, Default, {\c&H0000FF&}santehnik59{\c&HFFFFFF&}
 Dialogue: 0:12:41.68, 0:12:44.16, Default, {\c&HB469FF&}Yarmilu{\c&HFFFFFF&}: @camafa_vlad как ты? blackufaNya
 Dialogue: 0:12:43.64, 0:12:45.74, Default, {\c&HFFFFFF&}Jessika_Glitch{\c&HFFFFFF&}: пэрфэкт
 Dialogue: 0:12:43.66, 0:12:45.78, Default, {\c&HFF0000&}aristerk90{\c&HFFFFFF&}: Варвар))
-Dialogue: 0:12:44.72, 0:12:46.79, Default, {\c&HE22B8A&}KarenCatherineBarnes{\c&HFFFFFF&}: !game
-Dialogue: 0:12:45.20, 0:12:47.83, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Сейчас Артур играет в Monster Hunter World
+; Dialogue: 0:12:44.72, 0:12:46.79, Default, {\c&HE22B8A&}KarenCatherineBarnes{\c&HFFFFFF&}: !game
+; Dialogue: 0:12:45.20, 0:12:47.83, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Сейчас Артур играет в Monster Hunter World
 Dialogue: 0:12:45.39, 0:12:47.55, Default, {\c&HFFFFFF&}VDust32{\c&HFFFFFF&}: порицание^2
 Dialogue: 0:12:47.61, 0:12:49.89, Default, {\c&HE22B8A&}Kraken608{\c&HFFFFFF&}: оооо 900Р появилось
 Dialogue: 0:12:48.69, 0:12:51.08, Default, {\c&H507FFF&}XinnGadget{\c&HFFFFFF&}: Эм, очень тёмная картинка?
@@ -725,7 +725,7 @@ Dialogue: 0:12:51.58, 0:12:53.92, Default, {\c&HB469FF&}dovolniyanatoliy{\c&HFFF
 Dialogue: 0:12:51.75, 0:12:54.14, Default, {\c&HFFFFFF&}wingedvala{\c&HFFFFFF&}: хотел же в монструм???????
 Dialogue: 0:12:53.68, 0:12:56.76, Default, {\c&H0045FF&}c00kiemancer{\c&HFFFFFF&}: У Артура смайлики сломались? Или только у мен \Nяони буквами отображаться?
 Dialogue: 0:12:53.68, 0:12:56.11, Default, {\c&HFF901E&}DeKoniX{\c&HFFFFFF&}: Порицание^2 blackufaChatPower
-Dialogue: 0:12:54.30, 0:12:57.09, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Наш сервер в Discord - \Nhttps://discord.gg/fsofbsadw ●
+; Dialogue: 0:12:54.30, 0:12:57.09, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Наш сервер в Discord - \Nhttps://discord.gg/fsofbsadw ●
 Dialogue: 0:12:55.60, 0:12:57.81, Default, {\c&HFF901E&}IKsargenI{\c&HFFFFFF&}: из кого броня?
 Dialogue: 0:13:02.91, 0:13:05.18, Default, {\c&HFFFFFF&}DRamilka{\c&HFFFFFF&}: приветик, любимый)
 Dialogue: 0:13:05.53, 0:13:07.75, Default, {\c&H2222B2&}kototlen{\c&HFFFFFF&}: какой обман :'(
@@ -734,7 +734,7 @@ Dialogue: 0:13:06.05, 0:13:08.14, Default, {\c&HFFFFFF&}Neznayka_na_lune{\c&HFFF
 Dialogue: 0:13:08.69, 0:13:11.12, Default, {\c&HFFFFFF&}Vlad_Hurma{\c&HFFFFFF&}: Порицание в квадрате за обман
 Dialogue: 0:13:13.76, 0:13:16.45, Default, {\c&H0045FF&}c00kiemancer{\c&HFFFFFF&}: @Yarmilu Страдаю от кашля, уже устал)) ты как?
 Dialogue: 0:13:14.33, 0:13:17.38, Default, {\c&HFFFFFF&}AlmightyPuding{\c&HFFFFFF&}: @BlackUFA_Twitch Задание на пофармить \Nвозьми, чо просто так фармить то
-Dialogue: 0:13:14.98, 0:13:18.73, Default, {\c&H32CD9A&}DudelkaBot{\c&HFFFFFF&}: Ложа для 4 месячников этажом выше, давай же, \Nfrostkois, поднимайся Kappa Там тебя ждут котики и не только \NCoolCat x⁣3
+; Dialogue: 0:13:14.98, 0:13:18.73, Default, {\c&H32CD9A&}DudelkaBot{\c&HFFFFFF&}: Ложа для 4 месячников этажом выше, давай же, \Nfrostkois, поднимайся Kappa Там тебя ждут котики и не только \NCoolCat x⁣3
 Dialogue: 0:13:15.12, 0:13:17.34, Default, {\c&HFFFFFF&}dexter3141{\c&HFFFFFF&}: из жопы дракона
 Dialogue: 0:13:16.37, 0:13:18.44, Default, {\c&HFFFFFF&}Nice_nice5{\c&HFFFFFF&}: Обман
 Dialogue: 0:13:17.60, 0:13:19.82, Default, {\c&HFFFFFF&}Stef_Wolf{\c&HFFFFFF&}: нас обманули...
@@ -763,7 +763,7 @@ Dialogue: 0:13:51.67, 0:13:54.39, Default, {\c&H20A5DA&}foxonfire{\c&HFFFFFF&}: 
 Dialogue: 0:13:51.93, 0:13:55.47, Default, {\c&HFFFFFF&}eddsaw{\c&HFFFFFF&}: @BlackUFA_Twitch Какой красивый мужчина у меня в \Nмониторе! Привет Артурка,долго там сидеть собираешься?
 Dialogue: 0:13:52.15, 0:13:54.25, Default, {\c&HFFFFFF&}dimaklik1{\c&HFFFFFF&}: здарова
 Dialogue: 0:13:52.46, 0:13:55.04, Default, {\c&HFFFFFF&}Bezdare{\c&HFFFFFF&}: @BlackUFA_Twitch Или я чего-то не знаю?
-Dialogue: 0:13:53.04, 0:13:58.04, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: ● Группа в вк - https://vk.com/b_silver ● Я в вк - \Nhttps://vk.com/blacksilverufa ● Канал - \Nhttps://www.youtube.com/user/BlackSilverUfa ● Донат - \Nhttp://www.donationalerts.ru/r/blackufa_twitch ● \NДополнительные смайлы в приложении BetterTTV - \Nhttps://nightdev.com/betterttv/
+; Dialogue: 0:13:53.04, 0:13:58.04, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: ● Группа в вк - https://vk.com/b_silver ● Я в вк - \Nhttps://vk.com/blacksilverufa ● Канал - \Nhttps://www.youtube.com/user/BlackSilverUfa ● Донат - \Nhttp://www.donationalerts.ru/r/blackufa_twitch ● \NДополнительные смайлы в приложении BetterTTV - \Nhttps://nightdev.com/betterttv/
 Dialogue: 0:13:53.95, 0:13:56.13, Default, {\c&HFFFFFF&}miyagi1995{\c&HFFFFFF&}: Привет всем)
 Dialogue: 0:13:57.18, 0:13:59.63, Default, {\c&H0045FF&}c00kiemancer{\c&HFFFFFF&}: @PinkMintTea вот эти показует)
 Dialogue: 0:13:58.11, 0:14:01.08, Default, {\c&HFFFFFF&}Vlad_Hurma{\c&HFFFFFF&}: Артур, что делать если все игнорят резюме из-за \Nотсутствия опыта?
@@ -785,7 +785,7 @@ Dialogue: 0:14:48.53, 0:14:51.50, Default, {\c&HFFFFFF&}AdeptusCustodes{\c&HFFFF
 Dialogue: 0:14:50.98, 0:14:53.50, Default, {\c&HFFFFFF&}marshellowl{\c&HFFFFFF&}: курсор меня убивает ResidentSleeper
 Dialogue: 0:14:59.50, 0:15:02.07, Default, {\c&H0000FF&}Ursomone1{\c&HFFFFFF&}: @ZelniteBF жиза брат, жиза FeelsBadMan
 Dialogue: 0:15:02.44, 0:15:04.65, Default, {\c&HFFFFFF&}FALEJE {\c&HFFFFFF&}: Для кого игра?
-Dialogue: 0:15:06.57, 0:15:10.38, Default, {\c&H32CD9A&}DudelkaBot{\c&HFFFFFF&}: Случайная цитата LUL - blackufa_twitch, 2017 #8 \N: 'Вот те ключ, на те дом, размером с дворец, ищи дверь \N[Pinewiev Drive]'
+; Dialogue: 0:15:06.57, 0:15:10.38, Default, {\c&H32CD9A&}DudelkaBot{\c&HFFFFFF&}: Случайная цитата LUL - blackufa_twitch, 2017 #8 \N: 'Вот те ключ, на те дом, размером с дворец, ищи дверь \N[Pinewiev Drive]'
 Dialogue: 0:15:07.94, 0:15:11.80, Default, {\c&H7FFF00&}PinkMintTea{\c&HFFFFFF&}: @camafa_vlad, нука... blackufaLUL blackufaGachi \NblackufaEGO blackufaChamp blackufaCry blackufaLike \NblackufaAAA blackufaMonka
 Dialogue: 0:15:08.62, 0:15:11.64, Default, {\c&HFFFFFF&}Medoed13{\c&HFFFFFF&}: Привет Артур, чатик и модераторы. Всем любви и \Nкурсор спрятать надо.
 Dialogue: 0:15:08.98, 0:15:11.11, Default, {\c&HFFFFFF&}TotSamyiParen{\c&HFFFFFF&}: еееее бой
@@ -800,7 +800,7 @@ Dialogue: 0:15:26.92, 0:15:29.59, Default, {\c&HA09E5F&}Atakari{\c&HFFFFFF&}: р
 Dialogue: 0:15:28.92, 0:15:31.73, Default, {\c&H0000CC&}VVhiskeyPie{\c&HFFFFFF&}: Аруту, ты не железно решил первый верминтайд \Nпобегать?
 Dialogue: 0:15:29.54, 0:15:32.15, Default, {\c&H507FFF&}ArdensLumen{\c&HFFFFFF&}: Приветики ~_~ Хорошо что проверила стрим)
 Dialogue: 0:15:30.46, 0:15:32.65, Default, {\c&HFFFFFF&}raiderfz{\c&HFFFFFF&}: Даже нонсабы?
-Dialogue: 0:15:31.78, 0:15:35.28, Default, {\c&H32CD9A&}DudelkaBot{\c&HFFFFFF&}: mr_smithrus уже 11 веков с нами, старый \Nподписчик Kappa PogChamp Спасибо за переподписку CoolCat x⁣3
+; Dialogue: 0:15:31.78, 0:15:35.28, Default, {\c&H32CD9A&}DudelkaBot{\c&HFFFFFF&}: mr_smithrus уже 11 веков с нами, старый \Nподписчик Kappa PogChamp Спасибо за переподписку CoolCat x⁣3
 Dialogue: 0:15:32.99, 0:15:35.20, Default, {\c&HFF0000&}Irlissa{\c&HFFFFFF&}: сама ж из этих
 Dialogue: 0:15:35.09, 0:15:37.91, Default, {\c&HB469FF&}Tr0yz{\c&HFFFFFF&}: Я вижу курсор RageFace \NRageFaceRageFaceRageFaceRageFace
 Dialogue: 0:15:35.37, 0:15:37.97, Default, {\c&H7FFF00&}PinkMintTea{\c&HFFFFFF&}: @camafa_vlad, ме, я всё вижу FeelsSadMan
@@ -846,8 +846,8 @@ Dialogue: 0:16:46.00, 0:16:48.40, Default, {\c&HE22B8A&}kirmih{\c&HFFFFFF&}: Э�
 Dialogue: 0:16:46.15, 0:16:48.60, Default, {\c&HFFFFFF&}kreaxe145{\c&HFFFFFF&}: О. Снова коопчик? CoolStoryBob
 Dialogue: 0:16:47.40, 0:16:49.47, Default, {\c&HFFFFFF&}dimaklik1{\c&HFFFFFF&}: маняк
 Dialogue: 0:16:48.08, 0:16:50.39, Default, {\c&HFFFFFF&}teenlok{\c&HFFFFFF&}: BibleThump x⁣3 УБИЙЦА
-Dialogue: 0:16:48.20, 0:16:50.27, Default, {\c&HFFFFFF&}miyagi1995{\c&HFFFFFF&}: !time
-Dialogue: 0:16:48.52, 0:16:51.37, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Айя Ктулху, Айя Блэк! Мы в эфире уже 17 minutes 6 \Nseconds
+; Dialogue: 0:16:48.20, 0:16:50.27, Default, {\c&HFFFFFF&}miyagi1995{\c&HFFFFFF&}: !time
+; Dialogue: 0:16:48.52, 0:16:51.37, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Айя Ктулху, Айя Блэк! Мы в эфире уже 17 minutes 6 \Nseconds
 Dialogue: 0:16:51.01, 0:16:53.22, Default, {\c&HFFFFFF&}Lpgnl{\c&HFFFFFF&}: BibleThump x⁣4
 Dialogue: 0:16:53.56, 0:16:55.66, Default, {\c&H0000FF&}Insane41{\c&HFFFFFF&}: хорошее
 Dialogue: 0:16:53.76, 0:16:57.53, Default, {\c&HFFFFFF&}4to_za_Di4b{\c&HFFFFFF&}: Артур, у Даши контракт с Дюрекс? Я пока смотрел \Nзапись Sea of Thieves раз 20 посмотрел рекламу про Вику с \Nсифилисом...
@@ -917,7 +917,7 @@ Dialogue: 0:19:30.82, 0:19:33.24, Default, {\c&HFF901E&}prince_alladuin{\c&HFFFF
 Dialogue: 0:19:32.97, 0:19:36.38, Default, {\c&H0000FF&}xber9{\c&HFFFFFF&}: @BlackUFA_Twitch у тебя есть сеть в предметах, ей \Nможно ловить таких маленьких штучек для дома
 Dialogue: 0:19:33.83, 0:19:36.47, Default, {\c&H2222B2&}hustlear{\c&HFFFFFF&}: @BlackUFA_Twitch с кем сегодня будет кооп ?
 Dialogue: 0:19:39.21, 0:19:42.15, Default, {\c&H7FFF00&}PinkMintTea{\c&HFFFFFF&}: @yarmilu, Кто то Пинки называет, кто то \NЧай/Чаёчек blackufaDumb
-Dialogue: 0:19:41.13, 0:19:44.78, Default, {\c&H32CD9A&}DudelkaBot{\c&HFFFFFF&}: Беги diebusters SwiftRage , ты слишком красивый \Nподписчик. Чат уже выезжает, Артур присоединится позже \NGivePLZ
+; Dialogue: 0:19:41.13, 0:19:44.78, Default, {\c&H32CD9A&}DudelkaBot{\c&HFFFFFF&}: Беги diebusters SwiftRage , ты слишком красивый \Nподписчик. Чат уже выезжает, Артур присоединится позже \NGivePLZ
 Dialogue: 0:19:42.84, 0:19:45.26, Default, {\c&HFFFFFF&}sultannio{\c&HFFFFFF&}: гриндилка шминдилка хаха ыыы
 Dialogue: 0:19:46.36, 0:19:48.60, Default, {\c&H20A5DA&}foxonfire{\c&HFFFFFF&}: Порицание в кубе
 Dialogue: 0:19:46.46, 0:19:48.89, Default, {\c&HFFFFFF&}jaf3111{\c&HFFFFFF&}: почему стрим так рано начал??
@@ -961,7 +961,7 @@ Dialogue: 0:20:16.22, 0:20:18.26, Default, {\c&HFFFFFF&}jaf3111{\c&HFFFFFF&}: н
 Dialogue: 0:20:16.25, 0:20:19.51, Default, {\c&HFFFFFF&}Arcukenn{\c&HFFFFFF&}: Что это? Несогласованный с министерством стримов \Nстрим? Пожалуйста, пройдемте с нами
 Dialogue: 0:20:16.62, 0:20:18.65, Default, {\c&HB469FF&}折原{\c&HFFFFFF&}: Да
 Dialogue: 0:20:19.57, 0:20:21.78, Default, {\c&H20A5DA&}foxonfire{\c&HFFFFFF&}: Оно тебя сжрет
-Dialogue: 0:20:19.62, 0:20:22.83, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Kraken608 -> Hmmm... That's gonna leave a mark. \N[stop spamming symbols] [warning]
+; Dialogue: 0:20:19.62, 0:20:22.83, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Kraken608 -> Hmmm... That's gonna leave a mark. \N[stop spamming symbols] [warning]
 Dialogue: 0:20:19.66, 0:20:21.97, Default, {\c&HFFFFFF&}4to_za_Di4b{\c&HFFFFFF&}: он 4 уровня сложности
 Dialogue: 0:20:19.68, 0:20:21.72, Default, {\c&HE22B8A&}Daimond_Marshal{\c&HFFFFFF&}: нет
 Dialogue: 0:20:19.76, 0:20:22.01, Default, {\c&H008000&}Wijiro{\c&HFFFFFF&}: blackufaPuke x⁣14
@@ -992,10 +992,10 @@ Dialogue: 0:20:44.18, 0:20:46.28, Default, {\c&H7FFF00&}dimasonor{\c&HFFFFFF&}: 
 Dialogue: 0:20:44.74, 0:20:47.08, Default, {\c&HFFFFFF&}Lpgnl{\c&HFFFFFF&}: Монстрик сделал кусь)))
 Dialogue: 0:20:44.81, 0:20:47.48, Default, {\c&HFFFFFF&}Infl1ct{\c&HFFFFFF&}: Нет, Артур беги эта тварь оч сложная для тебя
 Dialogue: 0:20:44.96, 0:20:47.12, Default, {\c&HFFFFFF&}TotSamyiParen{\c&HFFFFFF&}: аборт мишен
-Dialogue: 0:20:46.25, 0:20:48.32, Default, {\c&HFF901E&}lego_199{\c&HFFFFFF&}: !time
-Dialogue: 0:20:46.62, 0:20:49.47, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Айя Ктулху, Айя Блэк! Мы в эфире уже 21 minutes 4 \Nseconds
+; Dialogue: 0:20:46.25, 0:20:48.32, Default, {\c&HFF901E&}lego_199{\c&HFFFFFF&}: !time
+; Dialogue: 0:20:46.62, 0:20:49.47, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Айя Ктулху, Айя Блэк! Мы в эфире уже 21 minutes 4 \Nseconds
 Dialogue: 0:20:47.05, 0:20:49.41, Default, {\c&H0000FF&}helpeddust27{\c&HFFFFFF&}: Не лезь, оно тебя сожрет
-Dialogue: 0:20:48.26, 0:20:51.44, Default, {\c&H32CD9A&}DudelkaBot{\c&HFFFFFF&}: CoolCat x⁣3 Спасибо за переподписку \Nredrick_shuh! С 5 месяцем тебя! CoolCat x⁣3
+; Dialogue: 0:20:48.26, 0:20:51.44, Default, {\c&H32CD9A&}DudelkaBot{\c&HFFFFFF&}: CoolCat x⁣3 Спасибо за переподписку \Nredrick_shuh! С 5 месяцем тебя! CoolCat x⁣3
 Dialogue: 0:20:48.56, 0:20:53.56, Default, {\c&HFFFFFF&}LordCommanderNW{\c&HFFFFFF&}: @BlackUFA_Twitch , Артур, не забывай, что \Nигры Бетесды, как Вульф, Визин, Прей, Дизонорд - очень \Nхреново рекламировались, в отличие от тех же переизданий \NСкайрима. Поэтому низкие продажи. Грамотная и хорошая \Nреклама - один из залогов успешных продаж
 Dialogue: 0:20:50.69, 0:20:53.21, Default, {\c&H0045FF&}c00kiemancer{\c&HFFFFFF&}: Ты можешь стать его завтраком Kappa
 Dialogue: 0:20:51.19, 0:20:53.34, Default, {\c&HFFFFFF&}TotSamyiParen{\c&HFFFFFF&}: миша зачем
@@ -1009,7 +1009,7 @@ Dialogue: 0:21:05.94, 0:21:08.31, Default, {\c&HFFFFFF&}sultannio{\c&HFFFFFF&}: 
 Dialogue: 0:21:06.20, 0:21:08.21, Default, {\c&H0000FF&}Doomguning{\c&HFFFFFF&}: -
 Dialogue: 0:21:09.32, 0:21:12.38, Default, {\c&HE22B8A&}kirmih{\c&HFFFFFF&}: @BlackUFA_Twitch а тут будут битвы с кучей игроков и \Nогромными врагами?
 Dialogue: 0:21:11.15, 0:21:14.29, Default, {\c&H32CD9A&}ShadyDax{\c&HFFFFFF&}: @BlackUFA_Twitch Чет Попкоп превратился в \NГрогнака. Рога, молот, волосатость
-Dialogue: 0:21:11.18, 0:21:14.47, Default, {\c&H32CD9A&}DudelkaBot{\c&HFFFFFF&}: CoolCat x⁣3 Спасибо за переподписку \Nbrokoli_from_tarkof! С 5 месяцем тебя! CoolCat x⁣3
+; Dialogue: 0:21:11.18, 0:21:14.47, Default, {\c&H32CD9A&}DudelkaBot{\c&HFFFFFF&}: CoolCat x⁣3 Спасибо за переподписку \Nbrokoli_from_tarkof! С 5 месяцем тебя! CoolCat x⁣3
 Dialogue: 0:21:14.24, 0:21:16.34, Default, {\c&H008000&}Karilon{\c&HFFFFFF&}: 11 ранг
 Dialogue: 0:21:15.14, 0:21:17.59, Default, {\c&HFFFFFF&}Diebusters{\c&HFFFFFF&}: а Sea of Thieves с нами будет?
 Dialogue: 0:21:17.18, 0:21:19.78, Default, {\c&HFFFFFF&}Stef_Wolf{\c&HFFFFFF&}: Нужно доминировать над всем что движется
@@ -1026,8 +1026,8 @@ Dialogue: 0:21:32.81, 0:21:35.48, Default, {\c&HE22B8A&}Zareni{\c&HFFFFFF&}: п�
 Dialogue: 0:21:34.78, 0:21:38.56, Default, {\c&HFFFFFF&}kripz0{\c&HFFFFFF&}: в этом то и дело что игры с лутбоксами и микро \Nдонатами намного выгодней подорвать, либо же бесконечьные \Nальфа версии )
 Dialogue: 0:21:38.81, 0:21:41.32, Default, {\c&HFFFFFF&}loki_oki{\c&HFFFFFF&}: О геморройный кооп сейчас начнется
 Dialogue: 0:21:43.78, 0:21:46.14, Default, {\c&H7FFF00&}GhosTNis123{\c&HFFFFFF&}: сколько уже длится стрем
-Dialogue: 0:21:46.45, 0:21:48.52, Default, {\c&HFF0000&}Brokoli_from_Tarkof{\c&HFFFFFF&}: !time
-Dialogue: 0:21:46.85, 0:21:49.70, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Айя Ктулху, Айя Блэк! Мы в эфире уже 22 minutes 4 \Nseconds
+; Dialogue: 0:21:46.45, 0:21:48.52, Default, {\c&HFF0000&}Brokoli_from_Tarkof{\c&HFFFFFF&}: !time
+; Dialogue: 0:21:46.85, 0:21:49.70, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Айя Ктулху, Айя Блэк! Мы в эфире уже 22 minutes 4 \Nseconds
 Dialogue: 0:21:46.86, 0:21:49.05, Default, {\c&HFFFFFF&}Froliki{\c&HFFFFFF&}: калабарация ?
 Dialogue: 0:21:47.02, 0:21:49.09, Default, {\c&HFFFFFF&}promolkin{\c&HFFFFFF&}: SMOrc
 Dialogue: 0:21:49.03, 0:21:51.37, Default, {\c&HFFFFFF&}Bogrovy_tulen{\c&HFFFFFF&}: у меня есть, го сыграем
@@ -1038,12 +1038,12 @@ Dialogue: 0:21:52.68, 0:21:54.99, Default, {\c&HE22B8A&}Kraken608{\c&HFFFFFF&}: 
 Dialogue: 0:21:57.44, 0:22:00.04, Default, {\c&HFFFFFF&}Dogmat87{\c&HFFFFFF&}: @BlackUFA_Twitch Кого бьём, Раталоса? х)
 Dialogue: 0:22:05.59, 0:22:07.72, Default, {\c&HB469FF&}Tr0yz{\c&HFFFFFF&}: кало что?
 Dialogue: 0:22:09.99, 0:22:12.26, Default, {\c&H7FFF00&}PinkMintTea{\c&HFFFFFF&}: @500hz, не гуглила
-Dialogue: 0:22:10.51, 0:22:13.66, Default, {\c&H32CD9A&}DudelkaBot{\c&HFFFFFF&}: rusonlinegaming уже 7 лет с нами PogChamp \NСпасибо за переподписку CoolCat x⁣3
+; Dialogue: 0:22:10.51, 0:22:13.66, Default, {\c&H32CD9A&}DudelkaBot{\c&HFFFFFF&}: rusonlinegaming уже 7 лет с нами PogChamp \NСпасибо за переподписку CoolCat x⁣3
 Dialogue: 0:22:13.02, 0:22:15.93, Default, {\c&H32CD9A&}ShadyDax{\c&HFFFFFF&}: Артур точит молот в прямом эфире, без регистрации \Nи смс Kappa
 Dialogue: 0:22:13.23, 0:22:15.68, Default, {\c&HFFFFFF&}av1zzo{\c&HFFFFFF&}: Когда будет life is strange???
 Dialogue: 0:22:15.25, 0:22:17.64, Default, {\c&HFF901E&}9618JLee{\c&HFFFFFF&}: опять серваки упадут Kappa
 Dialogue: 0:22:18.17, 0:22:21.05, Default, {\c&HFFFFFF&}AlmightyPuding{\c&HFFFFFF&}: Если не будешь стримить МХВ то порицание в \N4й степени Kappa
-Dialogue: 0:22:25.18, 0:22:28.41, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Ursomone1 -> Where's a hammer when you need one? \N[stop spamming symbols] [warning]
+; Dialogue: 0:22:25.18, 0:22:28.41, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Ursomone1 -> Where's a hammer when you need one? \N[stop spamming symbols] [warning]
 Dialogue: 0:22:26.19, 0:22:28.43, Default, {\c&HE22B8A&}pinpingvin_{\c&HFFFFFF&}: blackufaPuke x⁣3
 Dialogue: 0:22:28.40, 0:22:30.65, Default, {\c&H008000&}Wijiro{\c&HFFFFFF&}: blackufaPuke x⁣11
 Dialogue: 0:22:28.49, 0:22:30.73, Default, {\c&H0045FF&}c00kiemancer{\c&HFFFFFF&}: blackufaPuke x⁣3
@@ -1060,9 +1060,9 @@ Dialogue: 0:22:35.42, 0:22:37.66, Default, {\c&HA09E5F&}shy_fringilla{\c&HFFFFFF
 Dialogue: 0:22:35.50, 0:22:37.68, Default, {\c&HC200CC&}Zerian{\c&HFFFFFF&}: blackufaPuke
 Dialogue: 0:22:36.50, 0:22:38.69, Default, {\c&H2222B2&}sirmorkovka23{\c&HFFFFFF&}: privet, artur
 Dialogue: 0:22:36.87, 0:22:39.23, Default, {\c&HFFFFFF&}Theterrifyingemptiness{\c&HFFFFFF&}: Тут есть другие локации?
-Dialogue: 0:22:37.09, 0:22:39.19, Default, {\c&H0000FF&}KOB_Fearuin{\c&HFFFFFF&}: !uptime
+; Dialogue: 0:22:37.09, 0:22:39.19, Default, {\c&H0000FF&}KOB_Fearuin{\c&HFFFFFF&}: !uptime
 Dialogue: 0:22:37.20, 0:22:39.44, Default, {\c&HFFFFFF&}annavail{\c&HFFFFFF&}: blackufaPuke x⁣5
-Dialogue: 0:22:37.51, 0:22:40.71, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Айя Ктулху, Айя Блэк! Мы в эфире уже 22 minutes 54 \Nseconds 22 minutes 55 seconds
+; Dialogue: 0:22:37.51, 0:22:40.71, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Айя Ктулху, Айя Блэк! Мы в эфире уже 22 minutes 54 \Nseconds 22 minutes 55 seconds
 Dialogue: 0:22:38.15, 0:22:40.24, Default, {\c&H0000FF&}Ursomone1{\c&HFFFFFF&}: (puke)
 Dialogue: 0:22:38.36, 0:22:40.43, Default, {\c&HE22B8A&}Kraken608{\c&HFFFFFF&}: 🤮🤮🤮🤮🤮
 Dialogue: 0:22:38.42, 0:22:40.67, Default, {\c&H008000&}omni_fest{\c&HFFFFFF&}: Один,или с Тёмой?
@@ -1078,7 +1078,7 @@ Dialogue: 0:22:48.85, 0:22:51.25, Default, {\c&HFFFFFF&}tidusmidus{\c&HFFFFFF&}:
 Dialogue: 0:22:51.27, 0:22:53.46, Default, {\c&HFF0000&}Irlissa{\c&HFFFFFF&}: чат зоблёван)
 Dialogue: 0:22:51.59, 0:22:54.10, Default, {\c&H0045FF&}ThedarksideMe{\c&HFFFFFF&}: Новый человек в Сони- это Грогнак?
 Dialogue: 0:22:53.17, 0:22:56.38, Default, {\c&HFFFFFF&}nikitaboch{\c&HFFFFFF&}: В sea of thieves контента вообще нет и уже через \N6 часов игры делать там нечего((
-Dialogue: 0:22:53.82, 0:22:56.61, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Наш сервер в Discord - \Nhttps://discord.gg/fsofbsadw ●
+; Dialogue: 0:22:53.82, 0:22:56.61, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Наш сервер в Discord - \Nhttps://discord.gg/fsofbsadw ●
 Dialogue: 0:22:54.79, 0:22:59.68, Default, {\c&HFFFFFF&}4to_za_Di4b{\c&HFFFFFF&}: Артур, у Даши контракт с дюрекс? я во время \Nзаписи вчерашнего стрим раз 20 посмотрел про Вику с \Nсифилисом, так после нее еще и запись зависала, приходилось \Nперезагружать и опять на нее смотреть
 Dialogue: 0:22:57.27, 0:22:59.52, Default, {\c&H507FFF&}ArdensLumen{\c&HFFFFFF&}: blackufaTosya x⁣3
 Dialogue: 0:23:00.86, 0:23:03.11, Default, {\c&H008000&}xDoubleOSpeedx{\c&HFFFFFF&}: это кооп с темой?
@@ -1165,8 +1165,8 @@ Dialogue: 0:24:48.52, 0:24:50.74, Default, {\c&HFFFFFF&}tweedeec{\c&HFFFFFF&}: �
 Dialogue: 0:24:48.57, 0:24:50.87, Default, {\c&HFF0000&}Irlissa{\c&HFFFFFF&}: у всех разная чтоль?
 Dialogue: 0:24:49.24, 0:24:51.43, Default, {\c&HFFFFFF&}modified_mouse_{\c&HFFFFFF&}: АТОН какой то
 Dialogue: 0:24:49.54, 0:24:52.57, Default, {\c&HFFFFFF&}malih0r{\c&HFFFFFF&}: Артур, будет стрим по Kingdom Come: Deliverance, \Nвроде скоро выходит.
-Dialogue: 0:24:51.80, 0:24:53.87, Default, {\c&HFFFFFF&}verywelllord1{\c&HFFFFFF&}: !time
-Dialogue: 0:24:52.08, 0:24:54.93, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Айя Ктулху, Айя Блэк! Мы в эфире уже 25 minutes 9 \Nseconds
+; Dialogue: 0:24:51.80, 0:24:53.87, Default, {\c&HFFFFFF&}verywelllord1{\c&HFFFFFF&}: !time
+; Dialogue: 0:24:52.08, 0:24:54.93, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Айя Ктулху, Айя Блэк! Мы в эфире уже 25 minutes 9 \Nseconds
 Dialogue: 0:24:53.70, 0:24:55.89, Default, {\c&HFFFFFF&}666irishka{\c&HFFFFFF&}: не включается
 Dialogue: 0:24:53.73, 0:24:56.69, Default, {\c&HE22B8A&}waterfoxy{\c&HFFFFFF&}: реклама сексуальных штучек и хорошо укрепленных \Nокон! такие дела
 Dialogue: 0:24:54.40, 0:24:57.45, Default, {\c&H698BE8&}AzazelMorningstar{\c&HFFFFFF&}: @BlackUFA_Twitch кооп вылупился, или до \Nсих пор в состоянии эмбриона ?
@@ -1180,7 +1180,7 @@ Dialogue: 0:25:00.91, 0:25:03.33, Default, {\c&H2222B2&}sirmorkovka23{\c&HFFFFFF
 Dialogue: 0:25:04.08, 0:25:06.45, Default, {\c&HE22B8A&}siera_11{\c&HFFFFFF&}: обуви для сета не хватает
 Dialogue: 0:25:05.73, 0:25:07.97, Default, {\c&HFF0000&}Killerpumpkins{\c&HFFFFFF&}: Видимо да,разная
 Dialogue: 0:25:05.77, 0:25:07.99, Default, {\c&HFFFFFF&}ibraitas_space_daughter{\c&HFFFFFF&}: реклама дошика?
-Dialogue: 0:25:06.56, 0:25:10.15, Default, {\c&H32CD9A&}DudelkaBot{\c&HFFFFFF&}: Случайная цитата LUL - blackufa_twitch, 2017 #14 \N: 'А я сосла с умааа, какая досада... [Alien: Isolation]'
+; Dialogue: 0:25:06.56, 0:25:10.15, Default, {\c&H32CD9A&}DudelkaBot{\c&HFFFFFF&}: Случайная цитата LUL - blackufa_twitch, 2017 #14 \N: 'А я сосла с умааа, какая досада... [Alien: Isolation]'
 Dialogue: 0:25:09.18, 0:25:12.21, Default, {\c&HFFFFFF&}holysavior1608{\c&HFFFFFF&}: привет @blackufa_twitch привет чатик, как \Nдела?) Хорошего настроения)
 Dialogue: 0:25:12.31, 0:25:14.86, Default, {\c&H0000FF&}Gibonich{\c&HFFFFFF&}: Ты Twenty One Pilots напеваешь чтоли?
 Dialogue: 0:25:12.40, 0:25:14.67, Default, {\c&HE22B8A&}Suntsipena{\c&HFFFFFF&}: @K5u5ha blackufaHi
@@ -1263,11 +1263,11 @@ Dialogue: 0:28:04.10, 0:28:06.58, Default, {\c&HB469FF&}Tr0yz{\c&HFFFFFF&}: эт
 Dialogue: 0:28:05.54, 0:28:08.33, Default, {\c&HFFFFFF&}Septtor{\c&HFFFFFF&}: @BlackUFA_Twitch У хрюшки надо вовремя нажать \Nкружок!
 Dialogue: 0:28:05.74, 0:28:08.73, Default, {\c&H0000FF&}xber9{\c&HFFFFFF&}: @BlackUFA_Twitch когда вослкицательный знак - надо \Nкружок нанимать
 Dialogue: 0:28:06.84, 0:28:08.93, Default, {\c&HFFFFFF&}Neikton1{\c&HFFFFFF&}: У тебя
-Dialogue: 0:28:08.44, 0:28:10.51, Default, {\c&HFFFFFF&}kiwi20024{\c&HFFFFFF&}: !timr
-Dialogue: 0:28:13.03, 0:28:15.10, Default, {\c&HFFFFFF&}kiwi20024{\c&HFFFFFF&}: !time
-Dialogue: 0:28:13.38, 0:28:16.25, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Айя Ктулху, Айя Блэк! Мы в эфире уже 28 minutes 30 \Nseconds
+; Dialogue: 0:28:08.44, 0:28:10.51, Default, {\c&HFFFFFF&}kiwi20024{\c&HFFFFFF&}: !timr
+; Dialogue: 0:28:13.03, 0:28:15.10, Default, {\c&HFFFFFF&}kiwi20024{\c&HFFFFFF&}: !time
+; Dialogue: 0:28:13.38, 0:28:16.25, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Айя Ктулху, Айя Блэк! Мы в эфире уже 28 minutes 30 \Nseconds
 Dialogue: 0:28:15.03, 0:28:17.49, Default, {\c&HE22B8A&}Katerok{\c&HFFFFFF&}: материалы не в инвентаре у тебя
-Dialogue: 0:28:16.44, 0:28:18.51, Default, {\c&HB469FF&}Tr0yz{\c&HFFFFFF&}: !time
+; Dialogue: 0:28:16.44, 0:28:18.51, Default, {\c&HB469FF&}Tr0yz{\c&HFFFFFF&}: !time
 Dialogue: 0:28:18.82, 0:28:21.93, Default, {\c&HE22B8A&}Webster_Ts{\c&HFFFFFF&}: Чтобы приручить свинью нажми кружок когда \Nпоявится восклицательный знак!!!
 Dialogue: 0:28:23.69, 0:28:26.77, Default, {\c&HB469FF&}Amil0512{\c&HFFFFFF&}: @vlada_osad Скорее всего потом будет обычный \Nстрим, а там обычно смотрит
 Dialogue: 0:28:27.84, 0:28:30.59, Default, {\c&HFF901E&}Vasyok125701yf{\c&HFFFFFF&}: чат не врёт потому что не всегда знает о \Nчёмр ечь)
@@ -1277,8 +1277,8 @@ Dialogue: 0:28:34.98, 0:28:37.22, Default, {\c&HFFFFFF&}gingertea13{\c&HFFFFFF&}
 Dialogue: 0:28:42.13, 0:28:45.79, Default, {\c&HFFFFFF&}Wunderlord{\c&HFFFFFF&}: @BlackUFA_Twitch свинка была еще в прежнихх \Nчастях, раньше надо было в определенный момент перестать ее \Nгладить
 Dialogue: 0:28:48.77, 0:28:51.32, Default, {\c&HFFFFFF&}dmd03{\c&HFFFFFF&}: в этой игре нужны вообще все предметы
 Dialogue: 0:28:54.33, 0:28:56.54, Default, {\c&HFF901E&}Captured_Camel{\c&HFFFFFF&}: Это расходники
-Dialogue: 0:28:56.98, 0:28:59.05, Default, {\c&HFFFFFF&}GnawindCat{\c&HFFFFFF&}: !time
-Dialogue: 0:28:57.23, 0:29:00.10, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Айя Ктулху, Айя Блэк! Мы в эфире уже 29 minutes 14 \Nseconds
+; Dialogue: 0:28:56.98, 0:28:59.05, Default, {\c&HFFFFFF&}GnawindCat{\c&HFFFFFF&}: !time
+; Dialogue: 0:28:57.23, 0:29:00.10, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Айя Ктулху, Айя Блэк! Мы в эфире уже 29 minutes 14 \Nseconds
 Dialogue: 0:29:00.28, 0:29:02.37, Default, {\c&H0000FF&}skantip_{\c&HFFFFFF&}: Привет
 Dialogue: 0:29:03.36, 0:29:06.02, Default, {\c&HE22B8A&}kirmih{\c&HFFFFFF&}: она чем то очень похожа на horison zero dawn
 Dialogue: 0:29:04.57, 0:29:07.56, Default, {\c&H008000&}xDoubleOSpeedx{\c&HFFFFFF&}: свинья приручается если нажать кружок после \Nвосклицательного знака
@@ -1300,8 +1300,8 @@ Dialogue: 0:29:58.38, 0:30:00.63, Default, {\c&HE22B8A&}Dspade091{\c&HFFFFFF&}: 
 Dialogue: 0:30:00.09, 0:30:03.00, Default, {\c&HFF901E&}Captured_Camel{\c&HFFFFFF&}: Все пригодится, куча возможностей \Nкомбинировать одно с другим
 Dialogue: 0:30:07.60, 0:30:09.76, Default, {\c&HB469FF&}Amil0512{\c&HFFFFFF&}: Чистое ммо)
 Dialogue: 0:30:10.49, 0:30:13.07, Default, {\c&H0000FF&}Emdge{\c&HFFFFFF&}: Чат дратути!) Как вам игра? DoritosChip
-Dialogue: 0:30:12.69, 0:30:14.76, Default, {\c&HE22B8A&}Dspade091{\c&HFFFFFF&}: !time
-Dialogue: 0:30:13.01, 0:30:15.88, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Айя Ктулху, Айя Блэк! Мы в эфире уже 30 minutes 30 \Nseconds
+; Dialogue: 0:30:12.69, 0:30:14.76, Default, {\c&HE22B8A&}Dspade091{\c&HFFFFFF&}: !time
+; Dialogue: 0:30:13.01, 0:30:15.88, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Айя Ктулху, Айя Блэк! Мы в эфире уже 30 minutes 30 \Nseconds
 Dialogue: 0:30:21.88, 0:30:23.92, Default, {\c&HE22B8A&}kot4456{\c&HFFFFFF&}: Ку!
 Dialogue: 0:30:27.39, 0:30:29.57, Default, {\c&H0000FF&}JenkinsRS{\c&HFFFFFF&}: Всем привет!
 Dialogue: 0:30:31.22, 0:30:33.56, Default, {\c&H2222B2&}RudigerRu{\c&HFFFFFF&}: все игры похожи на игры
@@ -1351,7 +1351,7 @@ Dialogue: 0:32:31.28, 0:32:34.00, Default, {\c&HFF901E&}Captured_Camel{\c&HFFFFF
 Dialogue: 0:32:42.99, 0:32:45.86, Default, {\c&HFFFFFF&}AlmightyPuding{\c&HFFFFFF&}: @BlackUFA_Twitch Армреслинг со зрителями \Nможно на 4м этаже
 Dialogue: 0:32:49.77, 0:32:52.11, Default, {\c&HFFFFFF&}ibraitas_space_daughter{\c&HFFFFFF&}: у меня вифи упарывается
 Dialogue: 0:32:54.35, 0:32:56.87, Default, {\c&HA09E5F&}Atakari{\c&HFFFFFF&}: все после релиза будет в Море Воров
-Dialogue: 0:32:56.74, 0:32:59.53, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Наш сервер в Discord - \Nhttps://discord.gg/fsofbsadw ●
+; Dialogue: 0:32:56.74, 0:32:59.53, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Наш сервер в Discord - \Nhttps://discord.gg/fsofbsadw ●
 Dialogue: 0:32:57.04, 0:33:00.09, Default, {\c&HFFFFFF&}de_Rebbit{\c&HFFFFFF&}: @blackufa_twitch Все-таки Теме игра не \Nпонравилась что ли, не в курсе?
 Dialogue: 0:33:00.13, 0:33:02.34, Default, {\c&HE22B8A&}kot4456{\c&HFFFFFF&}: KappaPride x⁣5
 Dialogue: 0:33:00.73, 0:33:03.18, Default, {\c&HFFFFFF&}nikitaboch{\c&HFFFFFF&}: Да кракен будет в мертвом море
@@ -1360,9 +1360,9 @@ Dialogue: 0:33:04.60, 0:33:06.75, Default, {\c&HE22B8A&}achieveman{\c&HFFFFFF&}:
 Dialogue: 0:33:05.73, 0:33:07.92, Default, {\c&H0045FF&}c00kiemancer{\c&HFFFFFF&}: blackufaSmart
 Dialogue: 0:33:10.07, 0:33:12.46, Default, {\c&H0000FF&}welizewul{\c&HFFFFFF&}: всем привет.Артурка привет
 Dialogue: 0:33:10.47, 0:33:13.01, Default, {\c&HB469FF&}johnny_horde{\c&HFFFFFF&}: вечером будет с кооп только с дашей?
-Dialogue: 0:33:11.55, 0:33:13.62, Default, {\c&HFFFFFF&}isaliy{\c&HFFFFFF&}: !time
+; Dialogue: 0:33:11.55, 0:33:13.62, Default, {\c&HFFFFFF&}isaliy{\c&HFFFFFF&}: !time
 Dialogue: 0:33:11.83, 0:33:13.90, Default, {\c&H0000FF&}Ursomone1{\c&HFFFFFF&}: GabeN
-Dialogue: 0:33:11.91, 0:33:14.78, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Айя Ктулху, Айя Блэк! Мы в эфире уже 33 minutes 29 \Nseconds
+; Dialogue: 0:33:11.91, 0:33:14.78, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Айя Ктулху, Айя Блэк! Мы в эфире уже 33 minutes 29 \Nseconds
 Dialogue: 0:33:12.05, 0:33:14.41, Default, {\c&H7FFF00&}PinkMintTea{\c&HFFFFFF&}: blackufaWut blackufaDumb
 Dialogue: 0:33:12.48, 0:33:14.75, Default, {\c&H0045FF&}NurikUtegen{\c&HFFFFFF&}: SwiftRage DansGame
 Dialogue: 0:33:12.54, 0:33:15.14, Default, {\c&H7FFF00&}BERRILL21{\c&HFFFFFF&}: молот выглядит аки пряник с глазурью LUL
@@ -1385,9 +1385,9 @@ Dialogue: 0:33:49.11, 0:33:51.77, Default, {\c&H7FFF00&}PinkMintTea{\c&HFFFFFF&}
 Dialogue: 0:33:49.37, 0:33:52.18, Default, {\c&HB469FF&}IvanParadox{\c&HFFFFFF&}: Чатик представил, теперь чатику нужно \Nотлучиться Kappa
 Dialogue: 0:33:51.49, 0:33:53.89, Default, {\c&H0000FF&}KOB_Fearuin{\c&HFFFFFF&}: @atananook Представь Zyzz'a
 Dialogue: 0:33:51.54, 0:33:53.73, Default, {\c&H008000&}Karilon{\c&HFFFFFF&}: ранг охотника
-Dialogue: 0:33:53.85, 0:33:55.92, Default, {\c&HFFFFFF&}barmaley3bclass{\c&HFFFFFF&}: !time
-Dialogue: 0:33:54.28, 0:33:57.15, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Айя Ктулху, Айя Блэк! Мы в эфире уже 34 minutes 11 \Nseconds
-Dialogue: 0:33:54.66, 0:33:59.66, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: ● Группа в вк - https://vk.com/b_silver ● Я в вк - \Nhttps://vk.com/blacksilverufa ● Канал - \Nhttps://www.youtube.com/user/BlackSilverUfa ● Донат - \Nhttp://www.donationalerts.ru/r/blackufa_twitch ● \NДополнительные смайлы в приложении BetterTTV - \Nhttps://nightdev.com/betterttv/
+; Dialogue: 0:33:53.85, 0:33:55.92, Default, {\c&HFFFFFF&}barmaley3bclass{\c&HFFFFFF&}: !time
+; Dialogue: 0:33:54.28, 0:33:57.15, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Айя Ктулху, Айя Блэк! Мы в эфире уже 34 minutes 11 \Nseconds
+; Dialogue: 0:33:54.66, 0:33:59.66, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: ● Группа в вк - https://vk.com/b_silver ● Я в вк - \Nhttps://vk.com/blacksilverufa ● Канал - \Nhttps://www.youtube.com/user/BlackSilverUfa ● Донат - \Nhttp://www.donationalerts.ru/r/blackufa_twitch ● \NДополнительные смайлы в приложении BetterTTV - \Nhttps://nightdev.com/betterttv/
 Dialogue: 0:33:56.61, 0:33:58.92, Default, {\c&HFFFFFF&}Bogrovy_tulen{\c&HFFFFFF&}: РО - рейтинг охотника
 Dialogue: 0:34:00.23, 0:34:02.47, Default, {\c&HE22B8A&}zubastik13{\c&HFFFFFF&}: @atananook Kappa
 Dialogue: 0:34:01.24, 0:34:04.06, Default, {\c&HFFFFFF&}ProphetKhalul{\c&HFFFFFF&}: @BlackUFA_Twitch а хде Тема? Все еще в ссоре? \NKappaRoss
@@ -1401,15 +1401,15 @@ Dialogue: 0:34:15.89, 0:34:17.90, Default, {\c&H008000&}idipeychay{\c&HFFFFFF&}:
 Dialogue: 0:34:16.76, 0:34:18.95, Default, {\c&HFFFFFF&}staikra{\c&HFFFFFF&}: Ранг Охотника
 Dialogue: 0:34:17.09, 0:34:19.57, Default, {\c&H008000&}Vesterlim{\c&HFFFFFF&}: А SoT будет с кем? Только Дашей?
 Dialogue: 0:34:21.38, 0:34:24.16, Default, {\c&HFFFFFF&}Neikton1{\c&HFFFFFF&}: РО-рейтинг охотник. По прохождению будет \Nповышаться.
-Dialogue: 0:34:24.88, 0:34:26.95, Default, {\c&H7FFF00&}PinkMintTea{\c&HFFFFFF&}: !time
-Dialogue: 0:34:25.23, 0:34:28.10, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Айя Ктулху, Айя Блэк! Мы в эфире уже 34 minutes 42 \Nseconds
+; Dialogue: 0:34:24.88, 0:34:26.95, Default, {\c&H7FFF00&}PinkMintTea{\c&HFFFFFF&}: !time
+; Dialogue: 0:34:25.23, 0:34:28.10, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Айя Ктулху, Айя Блэк! Мы в эфире уже 34 minutes 42 \Nseconds
 Dialogue: 0:34:30.85, 0:34:34.23, Default, {\c&H578B2E&}atananook{\c&HFFFFFF&}: @PinkMintTea сиськи хороши, но, как и многих дам, \Nменя не шибко вдохновляют женские прелести
 Dialogue: 0:34:30.89, 0:34:35.06, Default, {\c&HFFFFFF&}kreaxe145{\c&HFFFFFF&}: Будет кракен. Пока сервера лежали чувак взломал \NФайлы. Будет 4-5 фракций, другие карты и прочие плюшки, из \Nбетка же повырезали много CoolStoryBob
 Dialogue: 0:34:32.53, 0:34:34.92, Default, {\c&HFFFFFF&}ibraitas_space_daughter{\c&HFFFFFF&}: яграсы клёвые не убивай их
 Dialogue: 0:34:38.14, 0:34:41.44, Default, {\c&H0000FF&}brutalvarg{\c&HFFFFFF&}: Не выслеживай! Они там это... ну это самое, что \Nтам яграсы наедине делают blackufaTosya
 Dialogue: 0:34:38.44, 0:34:40.66, Default, {\c&H008000&}Karilon{\c&HFFFFFF&}: этот квест на 1
 Dialogue: 0:34:40.11, 0:34:42.48, Default, {\c&HFFFFFF&}FusilMooN{\c&HFFFFFF&}: день добрый Артур и чатик
-Dialogue: 0:34:41.67, 0:34:43.74, Default, {\c&HB469FF&}BolocatbiI_cHeg{\c&HFFFFFF&}: !time
+; Dialogue: 0:34:41.67, 0:34:43.74, Default, {\c&HB469FF&}BolocatbiI_cHeg{\c&HFFFFFF&}: !time
 Dialogue: 0:34:49.72, 0:34:52.75, Default, {\c&HE22B8A&}kirmih{\c&HFFFFFF&}: а тут будут драки с такими врагами как во \Nвступлении?(лавовый монстр)
 Dialogue: 0:34:52.86, 0:34:55.56, Default, {\c&HFFFFFF&}vairus5000{\c&HFFFFFF&}: убить всех динозавроподобных аргентинских уток!
 Dialogue: 0:34:54.74, 0:34:56.98, Default, {\c&H0000FF&}Kima597{\c&HFFFFFF&}: оно для 1 только
@@ -1418,16 +1418,16 @@ Dialogue: 0:35:01.12, 0:35:03.57, Default, {\c&HFFFFFF&}sfarathe{\c&HFFFFFF&}: �
 Dialogue: 0:35:01.54, 0:35:04.36, Default, {\c&HFFFFFF&}ProphetKhalul{\c&HFFFFFF&}: @BlackUFA_Twitch а хде Тема? Все еще в ссоре? \NKappaRoss
 Dialogue: 0:35:03.47, 0:35:05.98, Default, {\c&HFFFFFF&}KamamberO{\c&HFFFFFF&}: Сегодня “В поисках коопа Выпуск 3”
 Dialogue: 0:35:03.91, 0:35:07.20, Default, {\c&HE22B8A&}Dspade091{\c&HFFFFFF&}: Все должны взять задание внизу. А потом взять \Nзадание вверху. Но я не играл, не знаю))
-Dialogue: 0:35:06.59, 0:35:11.05, Default, {\c&H32CD9A&}DudelkaBot{\c&HFFFFFF&}: Случайная цитата LUL - blackufa_twitch, 2017 #47 \N: 'Только вылети, только попробуй вылети! Если вылетишь я \Nзаплачу. Я мужчина, я спортсмен, я найду тебя![CRAZY LS]'
+; Dialogue: 0:35:06.59, 0:35:11.05, Default, {\c&H32CD9A&}DudelkaBot{\c&HFFFFFF&}: Случайная цитата LUL - blackufa_twitch, 2017 #47 \N: 'Только вылети, только попробуй вылети! Если вылетишь я \Nзаплачу. Я мужчина, я спортсмен, я найду тебя![CRAZY LS]'
 Dialogue: 0:35:07.41, 0:35:09.71, Default, {\c&HFFFFFF&}Shin_krsk{\c&HFFFFFF&}: @pinkminttea пасиба)
 Dialogue: 0:35:09.43, 0:35:11.76, Default, {\c&HE22B8A&}Katerok{\c&HFFFFFF&}: иди на миссию, там SOS
 Dialogue: 0:35:11.85, 0:35:14.10, Default, {\c&HB469FF&}BolocatbiI_cHeg{\c&HFFFFFF&}: Найтбот, ты пьян?
 Dialogue: 0:35:15.64, 0:35:18.15, Default, {\c&HE22B8A&}zubastik13{\c&HFFFFFF&}: @atananook представь мужскую грудь
-Dialogue: 0:35:17.42, 0:35:19.49, Default, {\c&HB469FF&}BolocatbiI_cHeg{\c&HFFFFFF&}: !time
-Dialogue: 0:35:17.74, 0:35:20.61, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Айя Ктулху, Айя Блэк! Мы в эфире уже 35 minutes 35 \Nseconds
+; Dialogue: 0:35:17.42, 0:35:19.49, Default, {\c&HB469FF&}BolocatbiI_cHeg{\c&HFFFFFF&}: !time
+; Dialogue: 0:35:17.74, 0:35:20.61, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Айя Ктулху, Айя Блэк! Мы в эфире уже 35 minutes 35 \Nseconds
 Dialogue: 0:35:19.85, 0:35:22.27, Default, {\c&HFFFFFF&}Infl1ct{\c&HFFFFFF&}: Артур, ты типо клан создаешь
 Dialogue: 0:35:19.96, 0:35:22.14, Default, {\c&H0045FF&}c00kiemancer{\c&HFFFFFF&}: Церковь жука
-Dialogue: 0:35:22.44, 0:35:26.12, Default, {\c&H32CD9A&}DudelkaBot{\c&HFFFFFF&}: Чат уже выезжает к тебе в гости, smokergk Kappa \N/ Готовь чай и печеньки, ибо ты теперь подписчик - это \Nлюбофф <3
+; Dialogue: 0:35:22.44, 0:35:26.12, Default, {\c&H32CD9A&}DudelkaBot{\c&HFFFFFF&}: Чат уже выезжает к тебе в гости, smokergk Kappa \N/ Готовь чай и печеньки, ибо ты теперь подписчик - это \Nлюбофф <3
 Dialogue: 0:35:23.45, 0:35:26.02, Default, {\c&H0000FF&}xber9{\c&HFFFFFF&}: Надо станачала народ в сессиюю набрать
 Dialogue: 0:35:25.14, 0:35:27.84, Default, {\c&HFFFFFF&}Pavel19840307{\c&HFFFFFF&}: А разве для коопа не в гилдхоле берутся \Nквесты?
 Dialogue: 0:35:27.26, 0:35:29.36, Default, {\c&HE22B8A&}kot4456{\c&HFFFFFF&}: Красиво
@@ -1485,8 +1485,8 @@ Dialogue: 0:38:12.21, 0:38:14.82, Default, {\c&HE22B8A&}Dspade091{\c&HFFFFFF&}: 
 Dialogue: 0:38:14.69, 0:38:16.85, Default, {\c&H0000FF&}infinitelifeline{\c&HFFFFFF&}: всем привет
 Dialogue: 0:38:23.03, 0:38:25.46, Default, {\c&H0000FF&}JenkinsRS{\c&HFFFFFF&}: @infinitelifeline, blackufaHi
 Dialogue: 0:38:30.09, 0:38:32.49, Default, {\c&H0000FF&}K5u5ha{\c&HFFFFFF&}: @infinitelifeline, привет:)
-Dialogue: 0:38:30.17, 0:38:32.24, Default, {\c&HFFFFFF&}andrei__ad{\c&HFFFFFF&}: !time
-Dialogue: 0:38:30.45, 0:38:33.32, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Айя Ктулху, Айя Блэк! Мы в эфире уже 38 minutes 48 \Nseconds
+; Dialogue: 0:38:30.17, 0:38:32.24, Default, {\c&HFFFFFF&}andrei__ad{\c&HFFFFFF&}: !time
+; Dialogue: 0:38:30.45, 0:38:33.32, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Айя Ктулху, Айя Блэк! Мы в эфире уже 38 minutes 48 \Nseconds
 Dialogue: 0:38:33.15, 0:38:35.67, Default, {\c&H7FFF00&}PinkMintTea{\c&HFFFFFF&}: @infinitelifeline, хэээй blackufaHi
 Dialogue: 0:38:36.94, 0:38:39.31, Default, {\c&HFFFFFF&}dimentor23{\c&HFFFFFF&}: Дратути. А кооп нашелся?)
 Dialogue: 0:38:45.26, 0:38:47.81, Default, {\c&HB469FF&}Yarmilu{\c&HFFFFFF&}: @infinitelifeline Привет) artgam2Sexy
@@ -1508,10 +1508,10 @@ Dialogue: 0:39:25.14, 0:39:30.14, Default, {\c&HFF901E&}Captured_Camel{\c&HFFFFF
 Dialogue: 0:39:33.01, 0:39:35.31, Default, {\c&HFFFFFF&}Lerenikush{\c&HFFFFFF&}: сколько стрим идет ?
 Dialogue: 0:39:43.57, 0:39:47.26, Default, {\c&H0000FF&}xber9{\c&HFFFFFF&}: Надо было сначала народ в сессию собрать (через \Nпригласить друзей ) а потом уже миссию размещать \N@BlackUFA_Twitch
 Dialogue: 0:39:48.01, 0:39:50.40, Default, {\c&HFFFFFF&}sultannio{\c&HFFFFFF&}: Тёма играет за тосико кооп
-Dialogue: 0:39:49.97, 0:39:52.04, Default, {\c&H0000FF&}K5u5ha{\c&HFFFFFF&}: !time
+; Dialogue: 0:39:49.97, 0:39:52.04, Default, {\c&H0000FF&}K5u5ha{\c&HFFFFFF&}: !time
 Dialogue: 0:39:50.30, 0:39:52.75, Default, {\c&HFFFFFF&}Infl1ct{\c&HFFFFFF&}: Не забывай кушац перед миссией
-Dialogue: 0:39:50.51, 0:39:53.36, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Айя Ктулху, Айя Блэк! Мы в эфире уже 40 minutes 7 \Nseconds
-Dialogue: 0:39:51.80, 0:39:53.87, Default, {\c&HFFFFFF&}myhero47{\c&HFFFFFF&}: !time
+; Dialogue: 0:39:50.51, 0:39:53.36, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Айя Ктулху, Айя Блэк! Мы в эфире уже 40 minutes 7 \Nseconds
+; Dialogue: 0:39:51.80, 0:39:53.87, Default, {\c&HFFFFFF&}myhero47{\c&HFFFFFF&}: !time
 Dialogue: 0:40:02.96, 0:40:05.24, Default, {\c&HFFFFFF&}Devifos{\c&HFFFFFF&}: оружие точи подумой
 Dialogue: 0:40:15.71, 0:40:17.83, Default, {\c&HFFFFFF&}retven{\c&HFFFFFF&}: о привет
 Dialogue: 0:40:17.85, 0:40:20.54, Default, {\c&HFFFFFF&}ibraitas_space_daughter{\c&HFFFFFF&}: как вообще котейка с динозавром \Nможет биться??
@@ -1589,7 +1589,7 @@ Dialogue: 0:42:41.27, 0:42:44.06, Default, {\c&HE22B8A&}kirmih{\c&HFFFFFF&}: К�
 Dialogue: 0:42:42.63, 0:42:44.91, Default, {\c&HFF0000&}Mandju_Edo{\c&HFFFFFF&}: ну мы будем ждать )
 Dialogue: 0:42:49.01, 0:42:51.31, Default, {\c&H7FFF00&}3r3m4_s4n{\c&HFFFFFF&}: Спуки же есть Сенпай
 Dialogue: 0:42:52.82, 0:42:55.42, Default, {\c&HFFFFFF&}zadr21{\c&HFFFFFF&}: Артур когда Доки Доки проходить будешь?)
-Dialogue: 0:42:54.03, 0:42:56.82, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Наш сервер в Discord - \Nhttps://discord.gg/fsofbsadw ●
+; Dialogue: 0:42:54.03, 0:42:56.82, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Наш сервер в Discord - \Nhttps://discord.gg/fsofbsadw ●
 Dialogue: 0:42:55.27, 0:42:57.33, Default, {\c&HFFFFFF&}anaxoretus_{\c&HFFFFFF&}: мало
 Dialogue: 0:42:56.36, 0:42:59.26, Default, {\c&H698BE8&}AzazelMorningstar{\c&HFFFFFF&}: тосико дикий, он с таким звуком перелома \Nкхм кхм добил ящера
 Dialogue: 0:42:59.36, 0:43:02.38, Default, {\c&HFFFFFF&}warrdon7{\c&HFFFFFF&}: Артур, вы еще будете играть тут в коопе или теперь \Nты только в соло?
@@ -1616,8 +1616,8 @@ Dialogue: 0:43:50.79, 0:43:53.43, Default, {\c&HFFFFFF&}retven{\c&HFFFFFF&}: а 
 Dialogue: 0:43:50.87, 0:43:53.21, Default, {\c&H0000FF&}CRAZYB0MB{\c&HFFFFFF&}: @oxot_nick это не точно
 Dialogue: 0:43:58.81, 0:44:01.32, Default, {\c&HB469FF&}hlp_10{\c&HFFFFFF&}: А что по релизу данной игры на ПК?
 Dialogue: 0:44:00.82, 0:44:02.97, Default, {\c&H0000FF&}CRAZYB0MB{\c&HFFFFFF&}: она кругом
-Dialogue: 0:44:03.73, 0:44:05.80, Default, {\c&H0000FF&}ProleToK{\c&HFFFFFF&}: !time
-Dialogue: 0:44:04.05, 0:44:06.92, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Айя Ктулху, Айя Блэк! Мы в эфире уже 44 minutes 21 \Nseconds
+; Dialogue: 0:44:03.73, 0:44:05.80, Default, {\c&H0000FF&}ProleToK{\c&HFFFFFF&}: !time
+; Dialogue: 0:44:04.05, 0:44:06.92, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Айя Ктулху, Айя Блэк! Мы в эфире уже 44 minutes 21 \Nseconds
 Dialogue: 0:44:09.63, 0:44:12.50, Default, {\c&H32CD9A&}jamichover{\c&HFFFFFF&}: кто нибудь подскажет, что сегодня на стриме \Nбудет?) :) x⁣4
 Dialogue: 0:44:10.02, 0:44:12.57, Default, {\c&HFFFFFF&}de_Rebbit{\c&HFFFFFF&}: Эта игра зайдет и в ко опе и в соло:)
 Dialogue: 0:44:13.67, 0:44:16.67, Default, {\c&HE22B8A&}Baalata{\c&HFFFFFF&}: @PinkMintTea если глянуть фото на оф сайте СЦП и \Nфанарты. я об этом
@@ -1639,7 +1639,7 @@ Dialogue: 0:44:55.29, 0:44:57.65, Default, {\c&HFFFFFF&}retven{\c&HFFFFFF&}: н 
 Dialogue: 0:45:03.29, 0:45:06.19, Default, {\c&HFFFFFF&}Ikar94{\c&HFFFFFF&}: @BlackUFA_Twitch Артур, а что думаешь про VR-игру \NАрктика 1?
 Dialogue: 0:45:05.85, 0:45:08.07, Default, {\c&H1E69D2&}Maximilian758{\c&HFFFFFF&}: Вот так и надо.
 Dialogue: 0:45:06.58, 0:45:08.73, Default, {\c&H7FFF00&}3r3m4_s4n{\c&HFFFFFF&}: Ну тупые 2
-Dialogue: 0:45:06.59, 0:45:10.27, Default, {\c&H32CD9A&}DudelkaBot{\c&HFFFFFF&}: Случайная цитата LUL - blackufa_twitch, 2017 #44 \N: 'Я тварь и я гонялась за Артуром [Amnesia: The Dark \NDescent]'
+; Dialogue: 0:45:06.59, 0:45:10.27, Default, {\c&H32CD9A&}DudelkaBot{\c&HFFFFFF&}: Случайная цитата LUL - blackufa_twitch, 2017 #44 \N: 'Я тварь и я гонялась за Артуром [Amnesia: The Dark \NDescent]'
 Dialogue: 0:45:10.57, 0:45:12.93, Default, {\c&HFFFFFF&}Jenek361{\c&HFFFFFF&}: Догма отличное сравнение
 Dialogue: 0:45:16.66, 0:45:19.63, Default, {\c&HFF0000&}ali_brin{\c&HFFFFFF&}: соберешь нужное количество следов сможешь видеть \Nмонстра на карте
 Dialogue: 0:45:19.94, 0:45:22.22, Default, {\c&HFFFFFF&}de_Rebbit{\c&HFFFFFF&}: Правильное решение)
@@ -1669,7 +1669,7 @@ Dialogue: 0:45:51.37, 0:45:53.67, Default, {\c&H32CD9A&}NekoArc007{\c&HFFFFFF&}:
 Dialogue: 0:45:51.48, 0:45:54.02, Default, {\c&HA09E5F&}Atakari{\c&HFFFFFF&}: "я не прав... но вскрой вены!" Kappa
 Dialogue: 0:45:52.48, 0:45:54.82, Default, {\c&HB469FF&}AmabelRick{\c&HFFFFFF&}: Он про Life is strange?
 Dialogue: 0:45:52.61, 0:45:54.83, Default, {\c&H0000FF&}brutalvarg{\c&HFFFFFF&}: blackufaEGO x⁣4
-Dialogue: 0:45:52.70, 0:45:55.69, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: rustotik -> Yeah, piece of cake! [stop spamming \Nsymbols] [warning]
+; Dialogue: 0:45:52.70, 0:45:55.69, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: rustotik -> Yeah, piece of cake! [stop spamming \Nsymbols] [warning]
 Dialogue: 0:45:53.61, 0:45:56.00, Default, {\c&HFFFFFF&}retven{\c&HFFFFFF&}: не обижай чатик BibleThump
 Dialogue: 0:45:53.90, 0:45:56.05, Default, {\c&HB469FF&}Amil0512{\c&HFFFFFF&}: Согласимся
 Dialogue: 0:45:53.95, 0:45:56.22, Default, {\c&H7FFF00&}3r3m4_s4n{\c&HFFFFFF&}: Артур оскорбил чат
@@ -1738,8 +1738,8 @@ Dialogue: 0:48:21.18, 0:48:23.46, Default, {\c&HFFFFFF&}promolkin{\c&HFFFFFF&}: 
 Dialogue: 0:48:24.68, 0:48:27.47, Default, {\c&HFF901E&}Captured_Camel{\c&HFFFFFF&}: Скатываешь заряжая сильную атаку молота и \Nбудет крута
 Dialogue: 0:48:24.84, 0:48:27.11, Default, {\c&H507FFF&}XinnGadget{\c&HFFFFFF&}: Крававый УБИЙЦА!!1
 Dialogue: 0:48:24.95, 0:48:27.17, Default, {\c&HE22B8A&}Zareni{\c&HFFFFFF&}: хайпожор карочи
-Dialogue: 0:48:25.14, 0:48:27.21, Default, {\c&HB469FF&}zhopka_ehvana{\c&HFFFFFF&}: !time
-Dialogue: 0:48:25.44, 0:48:28.31, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Айя Ктулху, Айя Блэк! Мы в эфире уже 48 minutes 43 \Nseconds
+; Dialogue: 0:48:25.14, 0:48:27.21, Default, {\c&HB469FF&}zhopka_ehvana{\c&HFFFFFF&}: !time
+; Dialogue: 0:48:25.44, 0:48:28.31, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Айя Ктулху, Айя Блэк! Мы в эфире уже 48 minutes 43 \Nseconds
 Dialogue: 0:48:28.59, 0:48:30.99, Default, {\c&H32CD9A&}Funvit{\c&HFFFFFF&}: blackufaGachi blackufaGachi
 Dialogue: 0:48:38.96, 0:48:41.17, Default, {\c&H507FFF&}XinnGadget{\c&HFFFFFF&}: BibleThump x⁣3
 Dialogue: 0:48:46.04, 0:48:48.11, Default, {\c&HFF901E&}yuki10003{\c&HFFFFFF&}: храшо
@@ -1771,8 +1771,8 @@ Dialogue: 0:49:32.21, 0:49:34.31, Default, {\c&HFFFFFF&}Infl1ct{\c&HFFFFFF&}: Д
 Dialogue: 0:49:34.13, 0:49:36.28, Default, {\c&HFFFFFF&}TheDrHax{\c&HFFFFFF&}: BibleThump
 Dialogue: 0:49:35.41, 0:49:37.48, Default, {\c&HFFFFFF&}Ikar94{\c&HFFFFFF&}: держи
 Dialogue: 0:49:38.82, 0:49:41.70, Default, {\c&HB469FF&}折原{\c&HFFFFFF&}: @sultannio Это тебе к Даше, я у нее тогда локан волос \Nкупил
-Dialogue: 0:49:40.45, 0:49:42.52, Default, {\c&HFFFFFF&}kaneki_keni{\c&HFFFFFF&}: !time
-Dialogue: 0:49:40.75, 0:49:43.62, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Айя Ктулху, Айя Блэк! Мы в эфире уже 49 minutes 58 \Nseconds
+; Dialogue: 0:49:40.45, 0:49:42.52, Default, {\c&HFFFFFF&}kaneki_keni{\c&HFFFFFF&}: !time
+; Dialogue: 0:49:40.75, 0:49:43.62, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Айя Ктулху, Айя Блэк! Мы в эфире уже 49 minutes 58 \Nseconds
 Dialogue: 0:49:43.95, 0:49:46.11, Default, {\c&HFFFFFF&}Ikar94{\c&HFFFFFF&}: долби держи
 Dialogue: 0:49:43.95, 0:49:46.19, Default, {\c&HFFFFFF&}vulpesruber{\c&HFFFFFF&}: @gontrmax привет
 Dialogue: 0:49:44.39, 0:49:46.46, Default, {\c&HFFFFFF&}Doctor2039{\c&HFFFFFF&}: Kappa
@@ -1809,7 +1809,7 @@ Dialogue: 0:50:23.40, 0:50:25.76, Default, {\c&H20A5DA&}DenSilver_{\c&HFFFFFF&}:
 Dialogue: 0:50:23.45, 0:50:25.78, Default, {\c&HFFFFFF&}vulpesruber{\c&HFFFFFF&}: @sovietzombie или мать
 Dialogue: 0:50:25.64, 0:50:27.98, Default, {\c&HFFFFFF&}Ikar94{\c&HFFFFFF&}: жестокий BibleThump x⁣3
 Dialogue: 0:50:26.61, 0:50:28.92, Default, {\c&HFFFFFF&}kreaxe145{\c&HFFFFFF&}: BibleThump BibleThump
-Dialogue: 0:50:27.01, 0:50:29.61, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: anaxoretus_ -> Хватит смайлов. [warning]
+; Dialogue: 0:50:27.01, 0:50:29.61, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: anaxoretus_ -> Хватит смайлов. [warning]
 Dialogue: 0:50:27.02, 0:50:29.23, Default, {\c&HFF0000&}Gontrmax{\c&HFFFFFF&}: BibleThump x⁣6
 Dialogue: 0:50:27.77, 0:50:29.98, Default, {\c&HFFFFFF&}preciousous{\c&HFFFFFF&}: BibleThump x⁣5
 Dialogue: 0:50:30.04, 0:50:32.35, Default, {\c&HFFFFFF&}de_Rebbit{\c&HFFFFFF&}: Злодей BibleThump x⁣3
@@ -1886,8 +1886,8 @@ Dialogue: 0:52:11.92, 0:52:14.11, Default, {\c&HFFFFFF&}dan_sai{\c&HFFFFFF&}: С
 Dialogue: 0:52:12.38, 0:52:15.53, Default, {\c&HE22B8A&}Katerok{\c&HFFFFFF&}: да, в журнале охотника показано куда и чем лучше \Nбить, и что оттуда дропнется
 Dialogue: 0:52:23.45, 0:52:25.73, Default, {\c&H0000FF&}xber9{\c&HFFFFFF&}: Сонная ловушк нужна
 Dialogue: 0:52:30.56, 0:52:32.89, Default, {\c&H01CB1F&}Ruslan1499{\c&HFFFFFF&}: сетка для мелких вроде
-Dialogue: 0:52:30.78, 0:52:32.85, Default, {\c&HE22B8A&}MrBark0_0{\c&HFFFFFF&}: !time
-Dialogue: 0:52:31.13, 0:52:34.00, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Айя Ктулху, Айя Блэк! Мы в эфире уже 52 minutes 48 \Nseconds
+; Dialogue: 0:52:30.78, 0:52:32.85, Default, {\c&HE22B8A&}MrBark0_0{\c&HFFFFFF&}: !time
+; Dialogue: 0:52:31.13, 0:52:34.00, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Айя Ктулху, Айя Блэк! Мы в эфире уже 52 minutes 48 \Nseconds
 Dialogue: 0:52:38.40, 0:52:40.56, Default, {\c&HFFFFFF&}preciousous{\c&HFFFFFF&}: сок сантал?
 Dialogue: 0:52:40.92, 0:52:43.29, Default, {\c&H1E69D2&}Maximilian758{\c&HFFFFFF&}: Я пил бананово клубничный
 Dialogue: 0:52:41.10, 0:52:43.28, Default, {\c&HFF901E&}yuki10003{\c&HFFFFFF&}: лул, вкусно?
@@ -1900,7 +1900,7 @@ Dialogue: 0:52:52.61, 0:52:55.31, Default, {\c&HFFFFFF&}4to_za_Di4b{\c&HFFFFFF&}
 Dialogue: 0:52:52.98, 0:52:55.58, Default, {\c&HB469FF&}Amil0512{\c&HFFFFFF&}: Банановый сок - как противная баба Kappa
 Dialogue: 0:52:53.25, 0:52:55.46, Default, {\c&H0000FF&}BeSS33rus{\c&HFFFFFF&}: Про чё игра???
 Dialogue: 0:52:53.44, 0:52:55.98, Default, {\c&HFFFFFF&}sovietzombie{\c&HFFFFFF&}: Как банановое мороженное, только сок
-Dialogue: 0:52:54.32, 0:52:57.11, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Наш сервер в Discord - \Nhttps://discord.gg/fsofbsadw ●
+; Dialogue: 0:52:54.32, 0:52:57.11, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Наш сервер в Discord - \Nhttps://discord.gg/fsofbsadw ●
 Dialogue: 0:52:54.50, 0:52:57.05, Default, {\c&H578B2E&}Fess8659{\c&HFFFFFF&}: О, банановый сок - мой любимый.Сантал
 Dialogue: 0:52:55.69, 0:52:57.76, Default, {\c&HFFFFFF&}Egend_Legend{\c&HFFFFFF&}: пухля
 Dialogue: 0:52:56.60, 0:52:59.06, Default, {\c&H0000FF&}CRAZYB0MB{\c&HFFFFFF&}: сабы не люди MiniK blackufaDumb
@@ -1913,8 +1913,8 @@ Dialogue: 0:53:05.64, 0:53:07.79, Default, {\c&HFFFFFF&}mac_ar_0_o{\c&HFFFFFF&}:
 Dialogue: 0:53:07.14, 0:53:09.57, Default, {\c&HFFFFFF&}annavail{\c&HFFFFFF&}: как сок, но только банановый)
 Dialogue: 0:53:09.61, 0:53:11.73, Default, {\c&HFFFFFF&}Ikar94{\c&HFFFFFF&}: свинкааа
 Dialogue: 0:53:11.23, 0:53:13.44, Default, {\c&H32CD9A&}Funvit{\c&HFFFFFF&}: полюбил свинку
-Dialogue: 0:53:19.45, 0:53:21.52, Default, {\c&H578B2E&}nika4voron{\c&HFFFFFF&}: !time
-Dialogue: 0:53:19.75, 0:53:22.62, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Айя Ктулху, Айя Блэк! Мы в эфире уже 53 minutes 37 \Nseconds
+; Dialogue: 0:53:19.45, 0:53:21.52, Default, {\c&H578B2E&}nika4voron{\c&HFFFFFF&}: !time
+; Dialogue: 0:53:19.75, 0:53:22.62, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Айя Ктулху, Айя Блэк! Мы в эфире уже 53 minutes 37 \Nseconds
 Dialogue: 0:53:19.87, 0:53:24.07, Default, {\c&HFF901E&}Captured_Camel{\c&HFFFFFF&}: Значит кооп. Иди к доске> там есть сеанс \Nсетевой игры> создать сеанс сетевой игры Потом НАСТОРОЙКИ \NСЕТЕВОЙ ИГРЫ там показывают код @blackufa_twitch
 Dialogue: 0:53:20.66, 0:53:22.70, Default, {\c&H01CB1F&}Ruslan1499{\c&HFFFFFF&}: чат
 Dialogue: 0:53:21.65, 0:53:23.75, Default, {\c&HFFFFFF&}Ikar94{\c&HFFFFFF&}: пумбааа
@@ -1943,7 +1943,7 @@ Dialogue: 0:53:51.11, 0:53:53.20, Default, {\c&HFFFFFF&}niteprice{\c&HFFFFFF&}: 
 Dialogue: 0:53:51.13, 0:53:53.22, Default, {\c&HFF901E&}TemyPanda{\c&HFFFFFF&}: эвахюн
 Dialogue: 0:53:52.61, 0:53:55.00, Default, {\c&HFFFFFF&}slowcheetah2109{\c&HFFFFFF&}: Всем привет, уважаемый чат
 Dialogue: 0:53:52.91, 0:53:55.10, Default, {\c&HFFFFFF&}ShassarKovert{\c&HFFFFFF&}: РРР потерял))
-Dialogue: 0:53:53.23, 0:53:58.23, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: ● Группа в вк - https://vk.com/b_silver ● Я в вк - \Nhttps://vk.com/blacksilverufa ● Канал - \Nhttps://www.youtube.com/user/BlackSilverUfa ● Донат - \Nhttp://www.donationalerts.ru/r/blackufa_twitch ● \NДополнительные смайлы в приложении BetterTTV - \Nhttps://nightdev.com/betterttv/
+; Dialogue: 0:53:53.23, 0:53:58.23, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: ● Группа в вк - https://vk.com/b_silver ● Я в вк - \Nhttps://vk.com/blacksilverufa ● Канал - \Nhttps://www.youtube.com/user/BlackSilverUfa ● Донат - \Nhttp://www.donationalerts.ru/r/blackufa_twitch ● \NДополнительные смайлы в приложении BetterTTV - \Nhttps://nightdev.com/betterttv/
 Dialogue: 0:53:53.32, 0:53:55.41, Default, {\c&H32CD9A&}ShadyDax{\c&HFFFFFF&}: Эвахюн
 Dialogue: 0:53:53.59, 0:53:56.22, Default, {\c&H0000FF&}ZloyPryanya{\c&HFFFFFF&}: банановый сок, ну вы понимаете о чём я ...
 Dialogue: 0:53:53.59, 0:53:55.68, Default, {\c&H4D4D4D&}KoT_MaTpOcKuH_17{\c&HFFFFFF&}: Эвахюн
@@ -2012,7 +2012,7 @@ Dialogue: 0:55:01.35, 0:55:03.59, Default, {\c&HFF901E&}teen_from_moon{\c&HFFFFF
 Dialogue: 0:55:01.59, 0:55:03.71, Default, {\c&H1E69D2&}Maximilian758{\c&HFFFFFF&}: в костер
 Dialogue: 0:55:04.06, 0:55:06.28, Default, {\c&HFFFFFF&}rezonator1326{\c&HFFFFFF&}: blackufaNya x⁣3
 Dialogue: 0:55:04.80, 0:55:07.10, Default, {\c&H0000FF&}Iduschiy{\c&HFFFFFF&}: Не трогай мимимиха.С
-Dialogue: 0:55:06.56, 0:55:10.00, Default, {\c&H32CD9A&}DudelkaBot{\c&HFFFFFF&}: Случайная цитата LUL - blackufa_twitch, 2017 #20 \N: 'Здесь одна сложность: конченая [Bloodborne]'
+; Dialogue: 0:55:06.56, 0:55:10.00, Default, {\c&H32CD9A&}DudelkaBot{\c&HFFFFFF&}: Случайная цитата LUL - blackufa_twitch, 2017 #20 \N: 'Здесь одна сложность: конченая [Bloodborne]'
 Dialogue: 0:55:07.76, 0:55:09.85, Default, {\c&HFFFFFF&}JohnVVhatSon{\c&HFFFFFF&}: BegWan
 Dialogue: 0:55:07.98, 0:55:10.22, Default, {\c&H0000FF&}Dudelka_Krasnaya{\c&HFFFFFF&}: Со скалы его LuL
 Dialogue: 0:55:10.06, 0:55:13.18, Default, {\c&H20A5DA&}supernatural_9000{\c&HFFFFFF&}: Здоровенным молотом машет на раз два, а \Nхрушку еле тащит artgam2GopFacapalm
@@ -2074,8 +2074,8 @@ Dialogue: 0:58:07.28, 0:58:09.52, Default, {\c&HFF901E&}SadMilkT_T{\c&HFFFFFF&}:
 Dialogue: 0:58:09.10, 0:58:11.70, Default, {\c&HFFC6D9&}NoirMitsu{\c&HFFFFFF&}: Реклама? Сосать + лежать forsen1 forsen2
 Dialogue: 0:58:10.12, 0:58:13.26, Default, {\c&HE22B8A&}MrBark0_0{\c&HFFFFFF&}: только что досмотрел запись Си оф фифс от даши, а \Nтут анонс от Арчи, ляпота!
 Dialogue: 0:58:10.56, 0:58:13.46, Default, {\c&HFFFFFF&}Egend_Legend{\c&HFFFFFF&}: Артур давай сразу две рекламы подряд, я хочу \Nбольше рекламы!
-Dialogue: 0:58:10.78, 0:58:12.85, Default, {\c&HFF0000&}xeethedead{\c&HFFFFFF&}: !time
-Dialogue: 0:58:11.06, 0:58:13.93, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Айя Ктулху, Айя Блэк! Мы в эфире уже 58 minutes 28 \Nseconds
+; Dialogue: 0:58:10.78, 0:58:12.85, Default, {\c&HFF0000&}xeethedead{\c&HFFFFFF&}: !time
+; Dialogue: 0:58:11.06, 0:58:13.93, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Айя Ктулху, Айя Блэк! Мы в эфире уже 58 minutes 28 \Nseconds
 Dialogue: 0:58:11.43, 0:58:13.61, Default, {\c&HFFFFFF&}MilliumMusic{\c&HFFFFFF&}: 6vNiMALrnsPX
 Dialogue: 0:58:12.53, 0:58:14.75, Default, {\c&HFFFFFF&}ibraitas_space_daughter{\c&HFFFFFF&}: а где реклама??
 Dialogue: 0:58:18.04, 0:58:21.61, Default, {\c&H32CD9A&}ShadyDax{\c&HFFFFFF&}: Ммм шоколадное молоко... @BlackUFA_Twitch Тебе \Nточно нужно связаться по поводу рекламы шоколадного молока
@@ -2122,8 +2122,8 @@ Dialogue: 0:59:45.74, 0:59:48.02, Default, {\c&H32CD9A&}ShadyDax{\c&HFFFFFF&}: �
 Dialogue: 0:59:47.32, 0:59:49.51, Default, {\c&H578B2E&}zORg_alex{\c&HFFFFFF&}: И инет падает
 Dialogue: 0:59:47.65, 0:59:50.04, Default, {\c&HB469FF&}Yarmilu{\c&HFFFFFF&}: @pinkminttea ой,я случайно
 Dialogue: 0:59:53.84, 0:59:56.17, Default, {\c&HFFFFFF&}Infl1ct{\c&HFFFFFF&}: У меня не входит Артур
-Dialogue: 0:59:54.18, 0:59:56.25, Default, {\c&HFF0000&}MishaBigA55{\c&HFFFFFF&}: !time
-Dialogue: 0:59:54.52, 0:59:57.33, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Айя Ктулху, Айя Блэк! Мы в эфире уже 1 hour 12 \Nseconds
+; Dialogue: 0:59:54.18, 0:59:56.25, Default, {\c&HFF0000&}MishaBigA55{\c&HFFFFFF&}: !time
+; Dialogue: 0:59:54.52, 0:59:57.33, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Айя Ктулху, Айя Блэк! Мы в эфире уже 1 hour 12 \Nseconds
 Dialogue: 0:59:55.53, 0:59:57.65, Default, {\c&HFFFFFF&}Ikar94{\c&HFFFFFF&}: Саскееее
 Dialogue: 0:59:58.43, 1:00:00.97, Default, {\c&HFFFFFF&}raiderfz{\c&HFFFFFF&}: Будут еще стримы по getting over it?
 Dialogue: 0:59:58.46, 1:00:01.25, Default, {\c&HB469FF&}zhopka_ehvana{\c&HFFFFFF&}: БЕЗ АНОНСА!!! Артур, ты ЧУДОВИЩЕ! )) \NdwillisKappa x⁣5
@@ -2187,7 +2187,7 @@ Dialogue: 1:02:05.83, 1:02:08.16, Default, {\c&HFFFFFF&}sovietzombie{\c&HFFFFFF&
 Dialogue: 1:02:06.32, 1:02:08.36, Default, {\c&HFFFFFF&}JohnVVhatSon{\c&HFFFFFF&}: лол
 Dialogue: 1:02:06.36, 1:02:08.67, Default, {\c&HCD5B6A&}iNemezys{\c&HFFFFFF&}: у вас тоже подгрузки?
 Dialogue: 1:02:07.53, 1:02:09.69, Default, {\c&HFFFFFF&}ibraitas_space_daughter{\c&HFFFFFF&}: лагает твич
-Dialogue: 1:02:11.22, 1:02:14.09, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Mrdark129 -> Не капси, я в танке горел, я дурак. \N[warning]
+; Dialogue: 1:02:11.22, 1:02:14.09, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Mrdark129 -> Не капси, я в танке горел, я дурак. \N[warning]
 Dialogue: 1:02:12.78, 1:02:14.84, Default, {\c&HB469FF&}hlp_10{\c&HFFFFFF&}: твич
 Dialogue: 1:02:19.29, 1:02:21.74, Default, {\c&H507FFF&}XinnGadget{\c&HFFFFFF&}: Тосико выставляй, она победит!
 Dialogue: 1:02:19.67, 1:02:21.89, Default, {\c&HFFFFFF&}Yamicumo{\c&HFFFFFF&}: чо поцоны аниме
@@ -2199,8 +2199,8 @@ Dialogue: 1:02:30.33, 1:02:32.99, Default, {\c&H7FFF00&}showstopper1337{\c&HFFFF
 Dialogue: 1:02:31.91, 1:02:34.93, Default, {\c&H1919B3&}NinKorr{\c&HFFFFFF&}: У меня пролагивает, но я думал что это из-за \Nрендера на моей стороне
 Dialogue: 1:02:32.64, 1:02:34.79, Default, {\c&HFFFFFF&}Yamicumo{\c&HFFFFFF&}: KappaPride
 Dialogue: 1:02:34.70, 1:02:36.83, Default, {\c&HB4CC00&}Olivi_art{\c&HFFFFFF&}: EleGiggle
-Dialogue: 1:02:35.44, 1:02:37.51, Default, {\c&HFFFFFF&}AliveDeadMan116{\c&HFFFFFF&}: !time
-Dialogue: 1:02:35.92, 1:02:38.88, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Айя Ктулху, Айя Блэк! Мы в эфире уже 1 hour 2 \Nminutes 53 seconds
+; Dialogue: 1:02:35.44, 1:02:37.51, Default, {\c&HFFFFFF&}AliveDeadMan116{\c&HFFFFFF&}: !time
+; Dialogue: 1:02:35.92, 1:02:38.88, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Айя Ктулху, Айя Блэк! Мы в эфире уже 1 hour 2 \Nminutes 53 seconds
 Dialogue: 1:02:36.31, 1:02:39.13, Default, {\c&H1E69D2&}Maximilian758{\c&HFFFFFF&}: стрим падает каждые 10 - 15 секунд даже на \N160 качестве
 Dialogue: 1:02:39.01, 1:02:41.32, Default, {\c&HB469FF&}折原{\c&HFFFFFF&}: Просто он бана боялся
 Dialogue: 1:02:41.84, 1:02:43.91, Default, {\c&HFFFFFF&}lawaed{\c&HFFFFFF&}: альфа
@@ -2213,7 +2213,7 @@ Dialogue: 1:02:47.86, 1:02:50.25, Default, {\c&H7FFF00&}mykillaa{\c&HFFFFFF&}: �
 Dialogue: 1:02:49.59, 1:02:52.14, Default, {\c&H20A5DA&}Helleve{\c&HFFFFFF&}: Никто ничего не видел. Значит не было
 Dialogue: 1:02:50.97, 1:02:53.34, Default, {\c&HE22B8A&}kirmih{\c&HFFFFFF&}: артур самый быстрый палец
 Dialogue: 1:02:56.08, 1:02:58.59, Default, {\c&HE22B8A&}Baalata{\c&HFFFFFF&}: у меня постоянные подгрузки стрима
-Dialogue: 1:02:57.35, 1:03:00.14, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Наш сервер в Discord - \Nhttps://discord.gg/fsofbsadw ●
+; Dialogue: 1:02:57.35, 1:03:00.14, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Наш сервер в Discord - \Nhttps://discord.gg/fsofbsadw ●
 Dialogue: 1:02:58.38, 1:03:00.62, Default, {\c&HFFFFFF&}barmaley3bclass{\c&HFFFFFF&}: Лагает конкретно
 Dialogue: 1:02:59.21, 1:03:02.03, Default, {\c&HFFFFFF&}Televisorium{\c&HFFFFFF&}: так это твич лагает чтоли?!а я уже роутер \Nрасфигачил..(
 Dialogue: 1:02:59.84, 1:03:01.90, Default, {\c&HFF901E&}Captured_Camel{\c&HFFFFFF&}: ЛАги
@@ -2299,7 +2299,7 @@ Dialogue: 1:05:01.42, 1:05:04.45, Default, {\c&H0000FF&}xber9{\c&HFFFFFF&}: @Bla
 Dialogue: 1:05:01.65, 1:05:03.92, Default, {\c&HFFFFFF&}4to_za_Di4b{\c&HFFFFFF&}: Отряд надо создать
 Dialogue: 1:05:03.96, 1:05:06.09, Default, {\c&H8B5E27&}hi_kidd{\c&HFFFFFF&}: Подгрузки
 Dialogue: 1:05:06.36, 1:05:08.51, Default, {\c&HFFFFFF&}Sheat13{\c&HFFFFFF&}: Лаги есть!
-Dialogue: 1:05:06.60, 1:05:10.17, Default, {\c&H32CD9A&}DudelkaBot{\c&HFFFFFF&}: Случайная цитата LUL - blackufa_twitch, 2017 #12 \N: 'Что это за многоногая многоручка ?! [Внутреннее зло]'
+; Dialogue: 1:05:06.60, 1:05:10.17, Default, {\c&H32CD9A&}DudelkaBot{\c&HFFFFFF&}: Случайная цитата LUL - blackufa_twitch, 2017 #12 \N: 'Что это за многоногая многоручка ?! [Внутреннее зло]'
 Dialogue: 1:05:07.19, 1:05:09.52, Default, {\c&H7FFF00&}menya_ne_v1dno{\c&HFFFFFF&}: это твич лагает походу
 Dialogue: 1:05:08.64, 1:05:10.77, Default, {\c&HFFFFFF&}the_only_eugene{\c&HFFFFFF&}: Лаги есть
 Dialogue: 1:05:08.66, 1:05:10.75, Default, {\c&HFFFFFF&}farward{\c&HFFFFFF&}: хорошо
@@ -2343,8 +2343,8 @@ Dialogue: 1:06:41.70, 1:06:43.88, Default, {\c&H698BE8&}AzazelMorningstar{\c&HFF
 Dialogue: 1:06:41.99, 1:06:44.39, Default, {\c&HFFFFFF&}retven{\c&HFFFFFF&}: женщины толкают тележку LUL
 Dialogue: 1:06:46.10, 1:06:48.25, Default, {\c&HFF901E&}yuki10003{\c&HFFFFFF&}: храшо,Даша
 Dialogue: 1:06:46.94, 1:06:49.09, Default, {\c&HFFFFFF&}barmaley3bclass{\c&HFFFFFF&}: Сюжета нет
-Dialogue: 1:06:47.28, 1:06:49.35, Default, {\c&HFFFFFF&}Veselchak_Wolter{\c&HFFFFFF&}: !time
-Dialogue: 1:06:47.64, 1:06:50.58, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Айя Ктулху, Айя Блэк! Мы в эфире уже 1 hour 7 \Nminutes 5 seconds
+; Dialogue: 1:06:47.28, 1:06:49.35, Default, {\c&HFFFFFF&}Veselchak_Wolter{\c&HFFFFFF&}: !time
+; Dialogue: 1:06:47.64, 1:06:50.58, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Айя Ктулху, Айя Блэк! Мы в эфире уже 1 hour 7 \Nminutes 5 seconds
 Dialogue: 1:06:48.40, 1:06:50.80, Default, {\c&H32CD9A&}GRIBO4KI{\c&HFFFFFF&}: @dariya_willis shame on you
 Dialogue: 1:06:48.83, 1:06:51.50, Default, {\c&HFF901E&}IlleQuiDormit{\c&HFFFFFF&}: Привет чатик, стримлер, господа модераторы =)
 Dialogue: 1:06:49.75, 1:06:52.09, Default, {\c&H7FFF00&}mykillaa{\c&HFFFFFF&}: @dariya_willis Даша...😩
@@ -2438,8 +2438,8 @@ Dialogue: 1:09:57.38, 1:09:59.65, Default, {\c&HFFFFFF&}ibraitas_space_daughter{
 Dialogue: 1:10:01.25, 1:10:03.50, Default, {\c&HFFFFFF&}IGnorrr{\c&HFFFFFF&}: Давно стрим идет?
 Dialogue: 1:10:03.13, 1:10:05.20, Default, {\c&HE0A9F4&}うさぎにゃ{\c&HFFFFFF&}: Даааа
 Dialogue: 1:10:08.15, 1:10:10.79, Default, {\c&HFFFFFF&}GnawindCat{\c&HFFFFFF&}: @blackufa_twitch взял и свету жуком обозвал
-Dialogue: 1:10:08.54, 1:10:10.61, Default, {\c&H0000FF&}JenkinsRS{\c&HFFFFFF&}: !time
-Dialogue: 1:10:08.84, 1:10:11.81, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Айя Ктулху, Айя Блэк! Мы в эфире уже 1 hour 10 \Nminutes 26 seconds
+; Dialogue: 1:10:08.54, 1:10:10.61, Default, {\c&H0000FF&}JenkinsRS{\c&HFFFFFF&}: !time
+; Dialogue: 1:10:08.84, 1:10:11.81, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Айя Ктулху, Айя Блэк! Мы в эфире уже 1 hour 10 \Nminutes 26 seconds
 Dialogue: 1:10:12.89, 1:10:15.13, Default, {\c&HFFFFFF&}teslameniack{\c&HFFFFFF&}: Проффесионализм)
 Dialogue: 1:10:13.00, 1:10:15.55, Default, {\c&HE0A9F4&}うさぎにゃ{\c&HFFFFFF&}: у меня, эти драйвера качались сегодня
 Dialogue: 1:10:14.16, 1:10:16.25, Default, {\c&HFFFFFF&}barmaley3bclass{\c&HFFFFFF&}: Мда...
@@ -2457,7 +2457,7 @@ Dialogue: 1:10:39.35, 1:10:41.62, Default, {\c&HFFFFFF&}Ikar94{\c&HFFFFFF&}: А�
 Dialogue: 1:10:39.80, 1:10:41.98, Default, {\c&H973566&}Woodeon{\c&HFFFFFF&}: опаздаааааал
 Dialogue: 1:10:40.05, 1:10:43.07, Default, {\c&HE0A9F4&}うさぎにゃ{\c&HFFFFFF&}: я чуть не помер, из-за лагов а потом выскочило это \Nуведомление Kappa
 Dialogue: 1:10:40.23, 1:10:42.45, Default, {\c&HFFFFFF&}MilliumMusic{\c&HFFFFFF&}: Ран фор ю лайф!
-Dialogue: 1:10:43.18, 1:10:46.35, Default, {\c&H32CD9A&}DudelkaBot{\c&HFFFFFF&}: CoolCat x⁣3 Спасибо за переподписку herrmayor52! \NС 5 месяцем тебя! CoolCat x⁣3
+; Dialogue: 1:10:43.18, 1:10:46.35, Default, {\c&H32CD9A&}DudelkaBot{\c&HFFFFFF&}: CoolCat x⁣3 Спасибо за переподписку herrmayor52! \NС 5 месяцем тебя! CoolCat x⁣3
 Dialogue: 1:10:47.41, 1:10:50.07, Default, {\c&HB469FF&}折原{\c&HFFFFFF&}: Артур всегда такой подготовленный KappaClaus
 Dialogue: 1:10:49.76, 1:10:51.86, Default, {\c&HFFFFFF&}Lpgnl{\c&HFFFFFF&}: LUL x⁣3
 Dialogue: 1:10:50.01, 1:10:52.16, Default, {\c&HFFFFFF&}Infl1ct{\c&HFFFFFF&}: Не бей еее
@@ -2469,8 +2469,8 @@ Dialogue: 1:11:02.67, 1:11:04.80, Default, {\c&HE22B8A&}keylali{\c&HFFFFFF&}: Dx
 Dialogue: 1:11:05.45, 1:11:07.76, Default, {\c&HFFFFFF&}Infl1ct{\c&HFFFFFF&}: Артур ее не нада бить
 Dialogue: 1:11:08.95, 1:11:11.71, Default, {\c&HFFFFFF&}Televisorium{\c&HFFFFFF&}: все норм,смотрю в королевских 160р SeemsGood \NSSSsss
 Dialogue: 1:11:20.82, 1:11:23.01, Default, {\c&HFFFFFF&}4to_za_Di4b{\c&HFFFFFF&}: Так себе идея
-Dialogue: 1:11:21.15, 1:11:23.25, Default, {\c&HFF901E&}ViNtouZz{\c&HFFFFFF&}: !uptime
-Dialogue: 1:11:21.49, 1:11:24.52, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Айя Ктулху, Айя Блэк! Мы в эфире уже \N1 hour 11 minutes 39 seconds x⁣2
+; Dialogue: 1:11:21.15, 1:11:23.25, Default, {\c&HFF901E&}ViNtouZz{\c&HFFFFFF&}: !uptime
+; Dialogue: 1:11:21.49, 1:11:24.52, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Айя Ктулху, Айя Блэк! Мы в эфире уже \N1 hour 11 minutes 39 seconds x⁣2
 Dialogue: 1:11:22.78, 1:11:25.15, Default, {\c&HFFFFFF&}noobmemory{\c&HFFFFFF&}: А кооп то что-то не робит
 Dialogue: 1:11:25.42, 1:11:27.76, Default, {\c&H0000FF&}CRAZYB0MB{\c&HFFFFFF&}: @keylali привет PopCorn
 Dialogue: 1:11:25.63, 1:11:27.66, Default, {\c&HFF901E&}ViNtouZz{\c&HFFFFFF&}: :(
@@ -2482,8 +2482,8 @@ Dialogue: 1:12:00.10, 1:12:02.49, Default, {\c&H20A5DA&}foxonfire{\c&HFFFFFF&}: 
 Dialogue: 1:12:03.77, 1:12:06.22, Default, {\c&HFF901E&}ViNtouZz{\c&HFFFFFF&}: Чёт чат какой то мёртвый Kappa
 Dialogue: 1:12:04.61, 1:12:08.26, Default, {\c&H1E69D2&}Maximilian758{\c&HFFFFFF&}: @hustlear по умолчанию в експириенсе стоит \Nнастройка скачивать но не устанавливать без разрешения \Nпользователя
 Dialogue: 1:12:08.73, 1:12:11.49, Default, {\c&H698BE8&}AzazelMorningstar{\c&HFFFFFF&}: типичный мир грогнака и сам грогнак к \Nвашим услугам
-Dialogue: 1:12:18.63, 1:12:20.70, Default, {\c&HB1CC00&}AXE607{\c&HFFFFFF&}: !time
-Dialogue: 1:12:19.32, 1:12:22.29, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Айя Ктулху, Айя Блэк! Мы в эфире уже 1 hour 12 \Nminutes 36 seconds
+; Dialogue: 1:12:18.63, 1:12:20.70, Default, {\c&HB1CC00&}AXE607{\c&HFFFFFF&}: !time
+; Dialogue: 1:12:19.32, 1:12:22.29, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Айя Ктулху, Айя Блэк! Мы в эфире уже 1 hour 12 \Nminutes 36 seconds
 Dialogue: 1:12:21.16, 1:12:24.27, Default, {\c&H0000FF&}JenkinsRS{\c&HFFFFFF&}: @akumeji, Нельзя удалить одно сообщение, к \Nсожалению. Удаляется сразу всё.
 Dialogue: 1:12:24.17, 1:12:26.45, Default, {\c&HB469FF&}折原{\c&HFFFFFF&}: Слоумод стоит прост
 Dialogue: 1:12:30.01, 1:12:32.49, Default, {\c&HFF0000&}MishaBigA55{\c&HFFFFFF&}: короче кооп на уровне Дарк Соуса
@@ -2493,12 +2493,12 @@ Dialogue: 1:12:42.29, 1:12:44.50, Default, {\c&HFFFFFF&}McAlforz{\c&HFFFFFF&}: B
 Dialogue: 1:12:47.65, 1:12:49.74, Default, {\c&HFFFFFF&}teenlok{\c&HFFFFFF&}: Убийца
 Dialogue: 1:12:49.67, 1:12:51.82, Default, {\c&H008000&}Flynn__Rider__{\c&HFFFFFF&}: BibleThump
 Dialogue: 1:12:51.47, 1:12:53.51, Default, {\c&H32CD9A&}GRIBO4KI{\c&HFFFFFF&}: 123
-Dialogue: 1:12:54.77, 1:12:57.56, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Наш сервер в Discord - \Nhttps://discord.gg/fsofbsadw ●
+; Dialogue: 1:12:54.77, 1:12:57.56, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Наш сервер в Discord - \Nhttps://discord.gg/fsofbsadw ●
 Dialogue: 1:12:56.22, 1:12:58.40, Default, {\c&HE22B8A&}romoyle{\c&HFFFFFF&}: Мы все знали
 Dialogue: 1:12:58.46, 1:13:00.79, Default, {\c&H0000FF&}JenkinsRS{\c&HFFFFFF&}: @izaya_, Нет слоумода.
-Dialogue: 1:12:59.09, 1:13:01.19, Default, {\c&H1E69D2&}BLACKR1K{\c&HFFFFFF&}: !uptime
+; Dialogue: 1:12:59.09, 1:13:01.19, Default, {\c&H1E69D2&}BLACKR1K{\c&HFFFFFF&}: !uptime
 Dialogue: 1:12:59.14, 1:13:02.02, Default, {\c&HFF901E&}Captured_Camel{\c&HFFFFFF&}: @mishabiga55 игра на порядок лучше только \NblackufaCoolStory
-Dialogue: 1:12:59.68, 1:13:03.09, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Айя Ктулху, Айя Блэк! Мы в эфире уже 1 hour 13 \Nminutes 16 seconds 1 hour 13 minutes 17 seconds
+; Dialogue: 1:12:59.68, 1:13:03.09, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Айя Ктулху, Айя Блэк! Мы в эфире уже 1 hour 13 \Nminutes 16 seconds 1 hour 13 minutes 17 seconds
 Dialogue: 1:13:02.09, 1:13:04.28, Default, {\c&H0045FF&}KRASNOV_RUS{\c&HFFFFFF&}: индиго! Kappa
 Dialogue: 1:13:03.98, 1:13:07.67, Default, {\c&HFFFFFF&}TheBlakeRed_Twitch{\c&HFFFFFF&}: @blackufa_twitch карта у тебя в книжечке \Nвесь игровой мир или одна из локаций? просто маловато будет \NblackufaDumb
 Dialogue: 1:13:04.66, 1:13:06.70, Default, {\c&H1E69D2&}BLACKR1K{\c&HFFFFFF&}: цук
@@ -2519,7 +2519,7 @@ Dialogue: 1:13:49.47, 1:13:51.83, Default, {\c&H32CD9A&}Funvit{\c&HFFFFFF&}: п�
 Dialogue: 1:13:50.56, 1:13:52.86, Default, {\c&HFFFFFF&}retven{\c&HFFFFFF&}: попкоп такой суровый
 Dialogue: 1:13:51.48, 1:13:53.63, Default, {\c&H32CD9A&}ShadyDax{\c&HFFFFFF&}: Опять лаги
 Dialogue: 1:13:53.24, 1:13:55.58, Default, {\c&HE22B8A&}mr_jackys{\c&HFFFFFF&}: Спасибо за анонс стрима
-Dialogue: 1:13:53.34, 1:13:58.34, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: ● Группа в вк - https://vk.com/b_silver ● Я в вк - \Nhttps://vk.com/blacksilverufa ● Канал - \Nhttps://www.youtube.com/user/BlackSilverUfa ● Донат - \Nhttp://www.donationalerts.ru/r/blackufa_twitch ● \NДополнительные смайлы в приложении BetterTTV - \Nhttps://nightdev.com/betterttv/
+; Dialogue: 1:13:53.34, 1:13:58.34, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: ● Группа в вк - https://vk.com/b_silver ● Я в вк - \Nhttps://vk.com/blacksilverufa ● Канал - \Nhttps://www.youtube.com/user/BlackSilverUfa ● Донат - \Nhttp://www.donationalerts.ru/r/blackufa_twitch ● \NДополнительные смайлы в приложении BetterTTV - \Nhttps://nightdev.com/betterttv/
 Dialogue: 1:13:53.70, 1:13:55.83, Default, {\c&HFFFFFF&}Yamicumo{\c&HFFFFFF&}: TearGlove
 Dialogue: 1:13:55.09, 1:13:57.33, Default, {\c&HFFFFFF&}4to_za_Di4b{\c&HFFFFFF&}: Надежная оборона
 Dialogue: 1:13:56.33, 1:13:58.60, Default, {\c&HA09E5F&}Atakari{\c&HFFFFFF&}: тут как на Татуине
@@ -2547,7 +2547,7 @@ Dialogue: 1:14:52.75, 1:14:54.93, Default, {\c&HFFFFFF&}ibraitas_space_daughter{
 Dialogue: 1:15:00.16, 1:15:03.04, Default, {\c&H32CD9A&}GRIBO4KI{\c&HFFFFFF&}: @kreaxe145 зацени пинус ехидны. Это тебе не наклс \Nиз уганды
 Dialogue: 1:15:01.62, 1:15:04.79, Default, {\c&HFF0000&}Stezz49rus{\c&HFFFFFF&}: А не это просто 900р было, я 160р поставил и \Nоружие реально охирительное стало
 Dialogue: 1:15:05.38, 1:15:07.83, Default, {\c&H0000FF&}JenkinsRS{\c&HFFFFFF&}: @ibraitas_space_daughter, Нет.
-Dialogue: 1:15:06.55, 1:15:09.72, Default, {\c&H32CD9A&}DudelkaBot{\c&HFFFFFF&}: Случайная цитата LUL - blackufa_twitch, 2017 #52 \N: 'Нах@р.Сидим в углу,плачем'
+; Dialogue: 1:15:06.55, 1:15:09.72, Default, {\c&H32CD9A&}DudelkaBot{\c&HFFFFFF&}: Случайная цитата LUL - blackufa_twitch, 2017 #52 \N: 'Нах@р.Сидим в углу,плачем'
 Dialogue: 1:15:13.93, 1:15:16.36, Default, {\c&HFFFFFF&}teslameniack{\c&HFFFFFF&}: ВОт и у менЯ дрова скачались)
 Dialogue: 1:15:14.16, 1:15:16.47, Default, {\c&HFFFFFF&}retven{\c&HFFFFFF&}: клубничкой в глаз LUL
 Dialogue: 1:15:14.95, 1:15:17.74, Default, {\c&HFFFFFF&}sfarathe{\c&HFFFFFF&}: ты похож на повзрослвшего линка в варварских \Nдоспехах
@@ -2563,8 +2563,8 @@ Dialogue: 1:15:50.05, 1:15:52.23, Default, {\c&HFFFFFF&}Alarmister{\c&HFFFFFF&}:
 Dialogue: 1:15:53.23, 1:15:55.44, Default, {\c&HFFFFFF&}loki_oki{\c&HFFFFFF&}: Баррот=Дьяблос
 Dialogue: 1:15:56.23, 1:15:58.44, Default, {\c&HFFFFFF&}sfarathe{\c&HFFFFFF&}: ЯГОДКА СМЕРТИ!
 Dialogue: 1:15:57.03, 1:15:59.64, Default, {\c&HFFFFFF&}Direxfull{\c&HFFFFFF&}: Скажите,Артур про нир что-нибудь говорил?
-Dialogue: 1:15:59.99, 1:16:02.06, Default, {\c&HE22B8A&}BIGLITTLEPLANE{\c&HFFFFFF&}: !time
-Dialogue: 1:16:00.37, 1:16:03.34, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Айя Ктулху, Айя Блэк! Мы в эфире уже 1 hour 16 \Nminutes 17 seconds
+; Dialogue: 1:15:59.99, 1:16:02.06, Default, {\c&HE22B8A&}BIGLITTLEPLANE{\c&HFFFFFF&}: !time
+; Dialogue: 1:16:00.37, 1:16:03.34, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Айя Ктулху, Айя Блэк! Мы в эфире уже 1 hour 16 \Nminutes 17 seconds
 Dialogue: 1:16:09.59, 1:16:11.63, Default, {\c&H20A5DA&}PoryadochnyyValentine{\c&HFFFFFF&}: )))
 Dialogue: 1:16:27.86, 1:16:29.99, Default, {\c&HFFFFFF&}Lpgnl{\c&HFFFFFF&}: ХВОСТ!!!!
 Dialogue: 1:16:30.55, 1:16:32.91, Default, {\c&HFFFFFF&}vulpesruber{\c&HFFFFFF&}: Earth-chan is not flat!!
@@ -2620,8 +2620,8 @@ Dialogue: 1:19:24.58, 1:19:26.94, Default, {\c&H32CD9A&}ShadyDax{\c&HFFFFFF&}: �
 Dialogue: 1:19:28.96, 1:19:31.08, Default, {\c&H0000FF&}Manfromchina{\c&HFFFFFF&}: поточись
 Dialogue: 1:19:34.12, 1:19:36.30, Default, {\c&HFFFFFF&}Neznayka_na_lune{\c&HFFFFFF&}: Блек пошути.
 Dialogue: 1:19:35.60, 1:19:38.14, Default, {\c&HFFFFFF&}Alarmister{\c&HFFFFFF&}: Попкоп -точит,остальные -работаем)))
-Dialogue: 1:19:38.67, 1:19:40.77, Default, {\c&H7FFF00&}Rednaw936{\c&HFFFFFF&}: !uptime
-Dialogue: 1:19:39.08, 1:19:42.11, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Айя Ктулху, Айя Блэк! Мы в эфире уже \N1 hour 19 minutes 56 seconds x⁣2
+; Dialogue: 1:19:38.67, 1:19:40.77, Default, {\c&H7FFF00&}Rednaw936{\c&HFFFFFF&}: !uptime
+; Dialogue: 1:19:39.08, 1:19:42.11, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Айя Ктулху, Айя Блэк! Мы в эфире уже \N1 hour 19 minutes 56 seconds x⁣2
 Dialogue: 1:19:43.12, 1:19:45.31, Default, {\c&H0000FF&}andrey1303_DronikMT{\c&HFFFFFF&}: всем привет))
 Dialogue: 1:19:44.21, 1:19:46.52, Default, {\c&HFFFFFF&}KarosKonfrid{\c&HFFFFFF&}: Почини оружку, Аптип!
 Dialogue: 1:19:47.66, 1:19:50.57, Default, {\c&H1E69D2&}Maximilian758{\c&HFFFFFF&}: Прошлый раз ты башку ему разбил и он перестал \Nплевать дерьмом
@@ -2673,7 +2673,7 @@ Dialogue: 1:22:42.55, 1:22:44.98, Default, {\c&HFFFFFF&}barmaley3bclass{\c&HFFFF
 Dialogue: 1:22:48.16, 1:22:50.37, Default, {\c&HFFFFFF&}eevan{\c&HFFFFFF&}: а соло слабо ?
 Dialogue: 1:22:51.78, 1:22:54.36, Default, {\c&HE22B8A&}Kraken608{\c&HFFFFFF&}: может он полирует его или воском мажет?
 Dialogue: 1:22:54.25, 1:22:57.61, Default, {\c&HCC0300&}KvemistRU{\c&HFFFFFF&}: @BlackUFA_Twitch Артур, вышла в релиз игра \NSubnautica, будешь ли стримить или играть в неё?
-Dialogue: 1:22:54.42, 1:22:57.21, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Наш сервер в Discord - \Nhttps://discord.gg/fsofbsadw ●
+; Dialogue: 1:22:54.42, 1:22:57.21, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Наш сервер в Discord - \Nhttps://discord.gg/fsofbsadw ●
 Dialogue: 1:22:58.85, 1:23:01.25, Default, {\c&H32CD9A&}ShadyDax{\c&HFFFFFF&}: Говна наглотались наверн ух
 Dialogue: 1:22:59.61, 1:23:01.82, Default, {\c&HFFFFFF&}Couragee_{\c&HFFFFFF&}: BibleThump x⁣6
 Dialogue: 1:23:10.13, 1:23:12.35, Default, {\c&H578B2E&}sad_warden{\c&HFFFFFF&}: PETA BibleThump
@@ -2696,9 +2696,9 @@ Dialogue: 1:23:53.37, 1:23:57.32, Default, {\c&HFFFFFF&}BlazeStrix{\c&HFFFFFF&}:
 Dialogue: 1:23:55.69, 1:23:58.54, Default, {\c&HE22B8A&}BIGLITTLEPLANE{\c&HFFFFFF&}: А aptytp c кем то играет или проcто по cети \Nc рандомами ?
 Dialogue: 1:24:00.30, 1:24:02.51, Default, {\c&HB469FF&}zhopka_ehvana{\c&HFFFFFF&}: BibleThump x⁣3
 Dialogue: 1:24:01.61, 1:24:05.08, Default, {\c&HFF0000&}Asura_77{\c&HFFFFFF&}: ну как я вижу происходящее: накши бравые ребята \Nкоммунисты борятся насмерть с монстром капитализма
-Dialogue: 1:24:01.85, 1:24:03.92, Default, {\c&H008000&}Jekerman{\c&HFFFFFF&}: !time
+; Dialogue: 1:24:01.85, 1:24:03.92, Default, {\c&H008000&}Jekerman{\c&HFFFFFF&}: !time
 Dialogue: 1:24:01.97, 1:24:04.03, Default, {\c&H578B2E&}sad_warden{\c&HFFFFFF&}: Clap
-Dialogue: 1:24:02.12, 1:24:05.09, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Айя Ктулху, Айя Блэк! Мы в эфире уже 1 hour 24 \Nminutes 19 seconds
+; Dialogue: 1:24:02.12, 1:24:05.09, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Айя Ктулху, Айя Блэк! Мы в эфире уже 1 hour 24 \Nminutes 19 seconds
 Dialogue: 1:24:03.99, 1:24:06.45, Default, {\c&HFFFFFF&}Stef_Wolf{\c&HFFFFFF&}: Никакой жалости. Тип сам напал.
 Dialogue: 1:24:06.08, 1:24:08.29, Default, {\c&HB469FF&}zhopka_ehvana{\c&HFFFFFF&}: BibleThump x⁣4
 Dialogue: 1:24:06.14, 1:24:08.29, Default, {\c&H32CD9A&}GRIBO4KI{\c&HFFFFFF&}: BibleThump
@@ -2723,7 +2723,7 @@ Dialogue: 1:24:56.68, 1:24:59.16, Default, {\c&H507FFF&}MOIIIHATOP{\c&HFFFFFF&}:
 Dialogue: 1:24:59.54, 1:25:01.66, Default, {\c&HFF0000&}MishaBigA55{\c&HFFFFFF&}: Ассасино
 Dialogue: 1:25:01.87, 1:25:04.44, Default, {\c&H5200CC&}EthMastare{\c&HFFFFFF&}: forsenX WutFace Надень капюшон обратно
 Dialogue: 1:25:04.54, 1:25:07.41, Default, {\c&HFFFFFF&}noobmemory{\c&HFFFFFF&}: Будешь играть в Kingdom come Deliverence Когда \Nона выйдет?
-Dialogue: 1:25:06.56, 1:25:10.07, Default, {\c&H32CD9A&}DudelkaBot{\c&HFFFFFF&}: Случайная цитата LUL - blackufa_twitch, 2017 #32 \N: 'Манекены! Проклятые манекены! Ненавижу манекены!'
+; Dialogue: 1:25:06.56, 1:25:10.07, Default, {\c&H32CD9A&}DudelkaBot{\c&HFFFFFF&}: Случайная цитата LUL - blackufa_twitch, 2017 #32 \N: 'Манекены! Проклятые манекены! Ненавижу манекены!'
 Dialogue: 1:25:07.26, 1:25:09.66, Default, {\c&H0000FF&}gluk48{\c&HFFFFFF&}: нормально. хотя бы не помер
 Dialogue: 1:25:07.33, 1:25:09.81, Default, {\c&H0000FF&}ZloyPryanya{\c&HFFFFFF&}: а будешь играть с Тёмой в коопе?
 Dialogue: 1:25:08.09, 1:25:10.30, Default, {\c&H0000FF&}andrey1303_DronikMT{\c&HFFFFFF&}: И тут ассасины
@@ -2788,7 +2788,7 @@ Dialogue: 1:28:05.41, 1:28:07.60, Default, {\c&HFFFFFF&}Tedien_{\c&HFFFFFF&}: п
 Dialogue: 1:28:07.32, 1:28:09.77, Default, {\c&HFF901E&}DeKoniX{\c&HFFFFFF&}: в легкую, в соло, изи босс LUL
 Dialogue: 1:28:10.24, 1:28:12.93, Default, {\c&HB469FF&}Yarmilu{\c&HFFFFFF&}: @expod1 Привет Подя) я скучал) artgam2Sexy x⁣3
 Dialogue: 1:28:12.70, 1:28:14.83, Default, {\c&H0000FF&}andrey1303_DronikMT{\c&HFFFFFF&}: Грооогнак
-Dialogue: 1:28:15.10, 1:28:17.94, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Naydan9 -> Не капси, я в танке горел, я дурак. \N[warning]
+; Dialogue: 1:28:15.10, 1:28:17.94, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Naydan9 -> Не капси, я в танке горел, я дурак. \N[warning]
 Dialogue: 1:28:20.64, 1:28:22.97, Default, {\c&H008000&}Flynn__Rider__{\c&HFFFFFF&}: точить катану Kreygasm
 Dialogue: 1:28:22.82, 1:28:25.07, Default, {\c&HFFFFFF&}Noolina{\c&HFFFFFF&}: Хасаги KappaPride
 Dialogue: 1:28:24.08, 1:28:26.45, Default, {\c&H7FFF00&}ExPOD_Twitch{\c&HFFFFFF&}: @yarmilu нёёёу artgam2Cry
@@ -2799,9 +2799,9 @@ Dialogue: 1:28:40.07, 1:28:42.53, Default, {\c&HB469FF&}Yarmilu{\c&HFFFFFF&}: @e
 Dialogue: 1:28:41.56, 1:28:43.77, Default, {\c&HFFFFFF&}vairus5000{\c&HFFFFFF&}: на лбу вмятина
 Dialogue: 1:28:46.80, 1:28:49.40, Default, {\c&HFFFFFF&}retven{\c&HFFFFFF&}: а что означает "я в танке горел,я дурак"
 Dialogue: 1:28:49.37, 1:28:51.52, Default, {\c&HFFFFFF&}barmaley3bclass{\c&HFFFFFF&}: Че сказал?
-Dialogue: 1:28:50.84, 1:28:52.94, Default, {\c&HE22B8A&}ifishmani{\c&HFFFFFF&}: !uptime
+; Dialogue: 1:28:50.84, 1:28:52.94, Default, {\c&HE22B8A&}ifishmani{\c&HFFFFFF&}: !uptime
 Dialogue: 1:28:51.30, 1:28:53.97, Default, {\c&HFFFFFF&}izgoy_sakh{\c&HFFFFFF&}: даже на ПК управление будет лучше на геймпаде
-Dialogue: 1:28:51.37, 1:28:54.39, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Айя Ктулху, Айя Блэк! Мы в эфире уже \N1 hour 29 minutes 8 seconds x⁣2
+; Dialogue: 1:28:51.37, 1:28:54.39, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Айя Ктулху, Айя Блэк! Мы в эфире уже \N1 hour 29 minutes 8 seconds x⁣2
 Dialogue: 1:29:01.24, 1:29:03.39, Default, {\c&HFF901E&}sergey_shl{\c&HFFFFFF&}: экспидеция
 Dialogue: 1:29:01.30, 1:29:03.70, Default, {\c&H0000FF&}palachrt{\c&HFFFFFF&}: не в чем себе не отказывай)
 Dialogue: 1:29:01.68, 1:29:04.85, Default, {\c&H7FFF00&}ExPOD_Twitch{\c&HFFFFFF&}: @yarmilu будешь приставать - зайду с модеркой \Nи отправлю на сутки artgam2Demon
@@ -2820,8 +2820,8 @@ Dialogue: 1:29:35.98, 1:29:38.41, Default, {\c&H0000FF&}JenkinsRS{\c&HFFFFFF&}: 
 Dialogue: 1:29:36.58, 1:29:38.77, Default, {\c&HFF0000&}Asura_77{\c&HFFFFFF&}: костяная руда
 Dialogue: 1:29:37.74, 1:29:40.62, Default, {\c&HB469FF&}Yarmilu{\c&HFFFFFF&}: @expod1 ты ведь знаешь что у меня странные вкусы \NKappaPride
 Dialogue: 1:29:38.77, 1:29:41.01, Default, {\c&HFFFFFF&}poniaf{\c&HFFFFFF&}: Всем приветики))
-Dialogue: 1:29:40.79, 1:29:42.86, Default, {\c&HFFFFFF&}washington_g1{\c&HFFFFFF&}: !time
-Dialogue: 1:29:41.10, 1:29:44.07, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Айя Ктулху, Айя Блэк! Мы в эфире уже 1 hour 29 \Nminutes 58 seconds
+; Dialogue: 1:29:40.79, 1:29:42.86, Default, {\c&HFFFFFF&}washington_g1{\c&HFFFFFF&}: !time
+; Dialogue: 1:29:41.10, 1:29:44.07, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Айя Ктулху, Айя Блэк! Мы в эфире уже 1 hour 29 \Nminutes 58 seconds
 Dialogue: 1:29:46.71, 1:29:49.02, Default, {\c&HFFFFFF&}uppymano{\c&HFFFFFF&}: KappaPride KappaPride
 Dialogue: 1:29:46.76, 1:29:49.18, Default, {\c&HFF901E&}jenner247450{\c&HFFFFFF&}: ён вирнецца, ён вирнецца )))
 Dialogue: 1:29:57.24, 1:29:59.40, Default, {\c&H32CD9A&}GRIBO4KI{\c&HFFFFFF&}: Катана торт
@@ -2829,8 +2829,8 @@ Dialogue: 1:29:58.20, 1:30:00.96, Default, {\c&H7FFF00&}ExPOD_Twitch{\c&HFFFFFF&
 Dialogue: 1:29:58.58, 1:30:00.62, Default, {\c&HFFFFFF&}dan_sai{\c&HFFFFFF&}: LUL
 Dialogue: 1:30:00.15, 1:30:02.91, Default, {\c&HFFFFFF&}LoveYouSoGay{\c&HFFFFFF&}: привет самому горячем чатику и стримлеру на \Nпланете
 Dialogue: 1:30:04.56, 1:30:06.65, Default, {\c&H7FFF00&}ExPOD_Twitch{\c&HFFFFFF&}: люблю*
-Dialogue: 1:30:05.48, 1:30:07.58, Default, {\c&HFFFFFF&}ImBishop_{\c&HFFFFFF&}: !uptime
-Dialogue: 1:30:05.91, 1:30:08.94, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Айя Ктулху, Айя Блэк! Мы в эфире уже \N1 hour 30 minutes 23 seconds x⁣2
+; Dialogue: 1:30:05.48, 1:30:07.58, Default, {\c&HFFFFFF&}ImBishop_{\c&HFFFFFF&}: !uptime
+; Dialogue: 1:30:05.91, 1:30:08.94, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Айя Ктулху, Айя Блэк! Мы в эфире уже \N1 hour 30 minutes 23 seconds x⁣2
 Dialogue: 1:30:08.03, 1:30:10.31, Default, {\c&HFFFFFF&}Tedien_{\c&HFFFFFF&}: Артур, го в Харьков
 Dialogue: 1:30:08.48, 1:30:10.90, Default, {\c&HFFFFFF&}barmaley3bclass{\c&HFFFFFF&}: может быть,а может и не быть
 Dialogue: 1:30:09.14, 1:30:11.29, Default, {\c&HFFFFFF&}Noolina{\c&HFFFFFF&}: KappaPride
@@ -2889,15 +2889,15 @@ Dialogue: 1:32:35.12, 1:32:37.19, Default, {\c&HFFFFFF&}burntcrustofbread{\c&HFF
 Dialogue: 1:32:35.44, 1:32:37.60, Default, {\c&HFFFFFF&}barmaley3bclass{\c&HFFFFFF&}: А ты хорош!
 Dialogue: 1:32:38.78, 1:32:41.12, Default, {\c&H973566&}Woodeon{\c&HFFFFFF&}: blackufaLUL blackufaLUL
 Dialogue: 1:32:39.00, 1:32:41.43, Default, {\c&HFFFFFF&}Stef_Wolf{\c&HFFFFFF&}: Но ведь... уже есть штанцы...
-Dialogue: 1:32:39.84, 1:32:41.91, Default, {\c&H0000FF&}JenkinsRS{\c&HFFFFFF&}: !game
-Dialogue: 1:32:40.22, 1:32:42.85, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Сейчас Артур играет в Monster Hunter World
+; Dialogue: 1:32:39.84, 1:32:41.91, Default, {\c&H0000FF&}JenkinsRS{\c&HFFFFFF&}: !game
+; Dialogue: 1:32:40.22, 1:32:42.85, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Сейчас Артур играет в Monster Hunter World
 Dialogue: 1:32:40.24, 1:32:42.37, Default, {\c&HE22B8A&}siera_11{\c&HFFFFFF&}: сапоги же
 Dialogue: 1:32:40.46, 1:32:42.50, Default, {\c&H0000FF&}the_player{\c&HFFFFFF&}: LUL
 Dialogue: 1:32:47.18, 1:32:49.25, Default, {\c&H0000FF&}Fixxin{\c&HFFFFFF&}: Умеен
 Dialogue: 1:32:49.58, 1:32:52.06, Default, {\c&HB469FF&}Yarmilu{\c&HFFFFFF&}: @expod1 я не дерзил CoolStoryBob
 Dialogue: 1:32:49.72, 1:32:51.82, Default, {\c&H0000FF&}andrey1303_DronikMT{\c&HFFFFFF&}: LUL x⁣3
 Dialogue: 1:32:52.94, 1:32:55.01, Default, {\c&HFFFFFF&}Noolina{\c&HFFFFFF&}: SMOrc
-Dialogue: 1:32:57.33, 1:33:00.12, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Наш сервер в Discord - \Nhttps://discord.gg/fsofbsadw ●
+; Dialogue: 1:32:57.33, 1:33:00.12, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Наш сервер в Discord - \Nhttps://discord.gg/fsofbsadw ●
 Dialogue: 1:32:58.69, 1:33:00.81, Default, {\c&HE22B8A&}romasanto{\c&HFFFFFF&}: Уммеееен
 Dialogue: 1:32:59.60, 1:33:01.96, Default, {\c&HE22B8A&}kirmih{\c&HFFFFFF&}: у тебя же нет сапогов...
 Dialogue: 1:33:00.21, 1:33:02.31, Default, {\c&HFFFFFF&}burntcrustofbread{\c&HFFFFFF&}: ох умен
@@ -2927,7 +2927,7 @@ Dialogue: 1:33:45.18, 1:33:47.25, Default, {\c&HE22B8A&}kirmih{\c&HFFFFFF&}: SMO
 Dialogue: 1:33:49.04, 1:33:51.89, Default, {\c&HFFFFFF&}warrdon7{\c&HFFFFFF&}: блин, хочу купить эту игру, но 70 евро это слишком \Nмного(
 Dialogue: 1:33:51.29, 1:33:53.71, Default, {\c&H7FFF00&}ExPOD_Twitch{\c&HFFFFFF&}: @yarmilu ты мне не интересен
 Dialogue: 1:33:54.32, 1:33:56.39, Default, {\c&HFFFFFF&}mrMedvved{\c&HFFFFFF&}: Kappa
-Dialogue: 1:33:55.61, 1:34:00.61, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: ● Группа в вк - https://vk.com/b_silver ● Я в вк - \Nhttps://vk.com/blacksilverufa ● Канал - \Nhttps://www.youtube.com/user/BlackSilverUfa ● Донат - \Nhttp://www.donationalerts.ru/r/blackufa_twitch ● \NДополнительные смайлы в приложении BetterTTV - \Nhttps://nightdev.com/betterttv/
+; Dialogue: 1:33:55.61, 1:34:00.61, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: ● Группа в вк - https://vk.com/b_silver ● Я в вк - \Nhttps://vk.com/blacksilverufa ● Канал - \Nhttps://www.youtube.com/user/BlackSilverUfa ● Донат - \Nhttp://www.donationalerts.ru/r/blackufa_twitch ● \NДополнительные смайлы в приложении BetterTTV - \Nhttps://nightdev.com/betterttv/
 Dialogue: 1:34:01.77, 1:34:03.86, Default, {\c&H2222B2&}ZaYc25rus{\c&HFFFFFF&}: Сморк)
 Dialogue: 1:34:03.79, 1:34:06.36, Default, {\c&HFFFFFF&}Mishamishami{\c&HFFFFFF&}: У меня написано рандомщина, я че дэбил
 Dialogue: 1:34:09.98, 1:34:12.83, Default, {\c&H7FFF00&}ExPOD_Twitch{\c&HFFFFFF&}: @yarmilu Ксю вон и то интереснее, хоть и \Nвредничает вечно
@@ -2965,7 +2965,7 @@ Dialogue: 1:35:03.62, 1:35:05.90, Default, {\c&HFFFFFF&}kaser23p{\c&HFFFFFF&}: �
 Dialogue: 1:35:05.95, 1:35:07.98, Default, {\c&H0000FF&}andrey1303_DronikMT{\c&HFFFFFF&}: да
 Dialogue: 1:35:06.43, 1:35:08.46, Default, {\c&HFFFFFF&}Mark_August101{\c&HFFFFFF&}: Да
 Dialogue: 1:35:06.58, 1:35:08.62, Default, {\c&H578B2E&}nika4voron{\c&HFFFFFF&}: нет
-Dialogue: 1:35:06.59, 1:35:10.81, Default, {\c&H32CD9A&}DudelkaBot{\c&HFFFFFF&}: Случайная цитата LUL - blackufa_twitch, 2017 #41 \N: 'Что меня дико радует в этой игре... Я забыл, что меня \Nдико радует в этой игре. [Pineview Drive]'
+; Dialogue: 1:35:06.59, 1:35:10.81, Default, {\c&H32CD9A&}DudelkaBot{\c&HFFFFFF&}: Случайная цитата LUL - blackufa_twitch, 2017 #41 \N: 'Что меня дико радует в этой игре... Я забыл, что меня \Nдико радует в этой игре. [Pineview Drive]'
 Dialogue: 1:35:06.79, 1:35:08.83, Default, {\c&HFFFFFF&}Kurljandsky{\c&HFFFFFF&}: нет
 Dialogue: 1:35:06.96, 1:35:09.00, Default, {\c&HFFFFFF&}burntcrustofbread{\c&HFFFFFF&}: нет
 Dialogue: 1:35:07.15, 1:35:09.22, Default, {\c&H0000FF&}Demonalis{\c&HFFFFFF&}: Да не
@@ -2999,8 +2999,8 @@ Dialogue: 1:35:55.30, 1:35:57.33, Default, {\c&HFFFFFF&}isaliy{\c&HFFFFFF&}: ne
 Dialogue: 1:35:55.82, 1:35:57.85, Default, {\c&H7FFF00&}Opiumus{\c&HFFFFFF&}: го
 Dialogue: 1:35:56.61, 1:35:59.01, Default, {\c&H0000FF&}strigat_{\c&HFFFFFF&}: @PinkMintTea cemkaToxic x⁣4
 Dialogue: 1:35:59.53, 1:36:01.81, Default, {\c&HFFFFFF&}Noolina{\c&HFFFFFF&}: Штаны верни апгрейд
-Dialogue: 1:35:59.56, 1:36:01.63, Default, {\c&HFF0000&}Suicidemangamer{\c&HFFFFFF&}: !time
-Dialogue: 1:35:59.86, 1:36:02.83, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Айя Ктулху, Айя Блэк! Мы в эфире уже 1 hour 36 \Nminutes 17 seconds
+; Dialogue: 1:35:59.56, 1:36:01.63, Default, {\c&HFF0000&}Suicidemangamer{\c&HFFFFFF&}: !time
+; Dialogue: 1:35:59.86, 1:36:02.83, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Айя Ктулху, Айя Блэк! Мы в эфире уже 1 hour 36 \Nminutes 17 seconds
 Dialogue: 1:36:00.81, 1:36:02.94, Default, {\c&H04C863&}HappyCreative{\c&HFFFFFF&}: bjornGasm
 Dialogue: 1:36:01.13, 1:36:03.35, Default, {\c&HFFFFFF&}dan_sai{\c&HFFFFFF&}: Гениально SMOrc
 Dialogue: 1:36:01.37, 1:36:05.06, Default, {\c&H0000FF&}Kuro_Tama{\c&HFFFFFF&}: потом сможешь еще скрафтить, у тебя позже по игре \Nбудет огромное кол-во ресурсов, так что продавать норм в \Nначале
@@ -3021,12 +3021,12 @@ Dialogue: 1:36:21.72, 1:36:24.90, Default, {\c&H1CBD00&}Drakellius{\c&HFFFFFF&}:
 Dialogue: 1:36:21.87, 1:36:24.26, Default, {\c&HFFFFFF&}kaser23p{\c&HFFFFFF&}: ты продал прокаченые штаны
 Dialogue: 1:36:22.21, 1:36:24.40, Default, {\c&H008000&}Spazm_mozga{\c&HFFFFFF&}: трипер >( x⁣3
 Dialogue: 1:36:22.61, 1:36:24.77, Default, {\c&H7FFF00&}ExPOD_Twitch{\c&HFFFFFF&}: @yarmilu да
-Dialogue: 1:36:25.85, 1:36:27.92, Default, {\c&H32CD9A&}kotisk{\c&HFFFFFF&}: !time
+; Dialogue: 1:36:25.85, 1:36:27.92, Default, {\c&H32CD9A&}kotisk{\c&HFFFFFF&}: !time
 Dialogue: 1:36:27.14, 1:36:29.47, Default, {\c&HFFFFFF&}Duke3275{\c&HFFFFFF&}: йохохо и бутылка грога
 Dialogue: 1:36:27.64, 1:36:30.10, Default, {\c&HFFFFFF&}Ligarok{\c&HFFFFFF&}: О, здрасти, а что так внезапно?
 Dialogue: 1:36:29.18, 1:36:31.37, Default, {\c&HFF901E&}SmokerGK{\c&HFFFFFF&}: R3 сортировка
 Dialogue: 1:36:29.31, 1:36:31.52, Default, {\c&HE22B8A&}ScratchLaser{\c&HFFFFFF&}: BibleThump x⁣3
-Dialogue: 1:36:29.90, 1:36:32.98, Default, {\c&H32CD9A&}DudelkaBot{\c&HFFFFFF&}: doomka714 уже 15 лет с нами PogChamp Спасибо за \Nпереподписку CoolCat x⁣3
+; Dialogue: 1:36:29.90, 1:36:32.98, Default, {\c&H32CD9A&}DudelkaBot{\c&HFFFFFF&}: doomka714 уже 15 лет с нами PogChamp Спасибо за \Nпереподписку CoolCat x⁣3
 Dialogue: 1:36:35.22, 1:36:37.47, Default, {\c&H04C863&}HappyCreative{\c&HFFFFFF&}: bjornKek bjornKek
 Dialogue: 1:36:35.87, 1:36:39.77, Default, {\c&HFFFFFF&}ham102rus{\c&HFFFFFF&}: а в пиратов ты будешь играть с Дашей и с \N"ищбранными"?(настроение у меня супер,автомат по философии \NDansGame DansGame DansGame)
 Dialogue: 1:36:36.88, 1:36:39.94, Default, {\c&HA09E5F&}weoratt{\c&HFFFFFF&}: Продаешь оружие, получаешь шекели. Что вообще может \Nбыть лучше шекелей?
@@ -3210,8 +3210,8 @@ Dialogue: 1:40:54.36, 1:40:57.02, Default, {\c&HB469FF&}Yarmilu{\c&HFFFFFF&}: @e
 Dialogue: 1:40:58.26, 1:41:01.44, Default, {\c&HFFFFFF&}ham102rus{\c&HFFFFFF&}: сюда приходят те,кому надо закрывать \Nдолги,благословление от Артура для Уфимцев
 Dialogue: 1:40:59.46, 1:41:01.86, Default, {\c&HFF901E&}RAYHQ{\c&HFFFFFF&}: @JenkinsRS буду раз в 5 мин
 Dialogue: 1:40:59.94, 1:41:02.57, Default, {\c&HFFFFFF&}hallgrimr{\c&HFFFFFF&}: А можно вместо автомата атограф от Тоси?=)
-Dialogue: 1:41:09.33, 1:41:11.40, Default, {\c&H578B2E&}B1ack__Fox{\c&HFFFFFF&}: !time
-Dialogue: 1:41:09.59, 1:41:12.56, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Айя Ктулху, Айя Блэк! Мы в эфире уже 1 hour 41 \Nminutes 27 seconds
+; Dialogue: 1:41:09.33, 1:41:11.40, Default, {\c&H578B2E&}B1ack__Fox{\c&HFFFFFF&}: !time
+; Dialogue: 1:41:09.59, 1:41:12.56, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Айя Ктулху, Айя Блэк! Мы в эфире уже 1 hour 41 \Nminutes 27 seconds
 Dialogue: 1:41:13.07, 1:41:15.25, Default, {\c&H7FFF00&}Opiumus{\c&HFFFFFF&}: на целый год
 Dialogue: 1:41:13.93, 1:41:16.24, Default, {\c&H0000FF&}Prince__Dante{\c&HFFFFFF&}: (но это не точно) LUL
 Dialogue: 1:41:18.41, 1:41:21.13, Default, {\c&HFFFFFF&}izgoy_sakh{\c&HFFFFFF&}: почему на мне твоя магия автоматов не работает?\
@@ -3248,7 +3248,7 @@ Dialogue: 1:42:41.91, 1:42:44.00, Default, {\c&HFFFFFF&}Infl1ct{\c&HFFFFFF&}: Т
 Dialogue: 1:42:48.81, 1:42:50.90, Default, {\c&H507FFF&}MOIIIHATOP{\c&HFFFFFF&}: тут же
 Dialogue: 1:42:49.92, 1:42:52.23, Default, {\c&H32CD9A&}GRIBO4KI{\c&HFFFFFF&}: @voprosikira мед вуз?
 Dialogue: 1:42:53.36, 1:42:55.94, Default, {\c&H1E69D2&}Maximilian758{\c&HFFFFFF&}: Чтобы разместить задания нужно их взять
-Dialogue: 1:42:54.24, 1:42:57.03, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Наш сервер в Discord - \Nhttps://discord.gg/fsofbsadw ●
+; Dialogue: 1:42:54.24, 1:42:57.03, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Наш сервер в Discord - \Nhttps://discord.gg/fsofbsadw ●
 Dialogue: 1:42:54.37, 1:42:56.80, Default, {\c&HE22B8A&}OrlyanaGold{\c&HFFFFFF&}: @Sinksiron значит ты молодец)
 Dialogue: 1:42:54.70, 1:42:58.63, Default, {\c&H008000&}Starork{\c&HFFFFFF&}: @Andertone23 после того НЕкоопного стрима Тёма \Nсказал, что с чатом Артура каши не сваришь. А Артур нас \Nзащищал. Вот и поссорились
 Dialogue: 1:42:55.04, 1:42:57.26, Default, {\c&HE22B8A&}indie_art{\c&HFFFFFF&}: скример изи вин
@@ -3296,7 +3296,7 @@ Dialogue: 1:44:44.78, 1:44:47.09, Default, {\c&HFFFFFF&}warrdon7{\c&HFFFFFF&}: �
 Dialogue: 1:44:45.23, 1:44:47.35, Default, {\c&H0D0D1C&}Romanspring{\c&HFFFFFF&}: elaFeels
 Dialogue: 1:44:51.17, 1:44:53.68, Default, {\c&H32CD9A&}GRIBO4KI{\c&HFFFFFF&}: @voprosikira и на кого ви учитесь?
 Dialogue: 1:44:55.39, 1:44:57.54, Default, {\c&H0D0D1C&}Romanspring{\c&HFFFFFF&}: elaFeels 🔫
-Dialogue: 1:45:06.57, 1:45:10.62, Default, {\c&H32CD9A&}DudelkaBot{\c&HFFFFFF&}: Случайная цитата LUL - blackufa_twitch, 2017 #5 \N: 'Зачем ты это делаешь, плохой человек ? ...не совсем \Nчеловек, но точно плохой... [DS2]'
+; Dialogue: 1:45:06.57, 1:45:10.62, Default, {\c&H32CD9A&}DudelkaBot{\c&HFFFFFF&}: Случайная цитата LUL - blackufa_twitch, 2017 #5 \N: 'Зачем ты это делаешь, плохой человек ? ...не совсем \Nчеловек, но точно плохой... [DS2]'
 Dialogue: 1:45:11.07, 1:45:13.46, Default, {\c&HFF0000&}LLIAX77777{\c&HFFFFFF&}: Грогнак умный blackufaDumb
 Dialogue: 1:45:11.96, 1:45:14.26, Default, {\c&HFFFFFF&}MilliumMusic{\c&HFFFFFF&}: @Romanspring WutFace
 Dialogue: 1:45:12.99, 1:45:15.56, Default, {\c&HE22B8A&}VoprosiKira{\c&HFFFFFF&}: @GRIBO4KI техническая диагносттика АЭС
@@ -3316,7 +3316,7 @@ Dialogue: 1:45:49.91, 1:45:52.00, Default, {\c&HB469FF&}DiiablO_00077{\c&HFFFFFF
 Dialogue: 1:45:51.00, 1:45:53.33, Default, {\c&HE22B8A&}OrlyanaGold{\c&HFFFFFF&}: Женщина в твоей голове
 Dialogue: 1:45:52.10, 1:45:54.37, Default, {\c&HFFFFFF&}Devifos{\c&HFFFFFF&}: она намекает Kappa
 Dialogue: 1:45:54.19, 1:45:56.73, Default, {\c&HFFFFFF&}Noolina{\c&HFFFFFF&}: "Ах, Артур сэмпай" Kappa TwitchUnity
-Dialogue: 1:45:55.28, 1:45:58.73, Default, {\c&H32CD9A&}DudelkaBot{\c&HFFFFFF&}: CoolCat x⁣3 Спасибо за подписку ergy_13 ! Добро \Nпожаловать Kappa /, теперь ты топчик! CoolCat x⁣3
+; Dialogue: 1:45:55.28, 1:45:58.73, Default, {\c&H32CD9A&}DudelkaBot{\c&HFFFFFF&}: CoolCat x⁣3 Спасибо за подписку ergy_13 ! Добро \Nпожаловать Kappa /, теперь ты топчик! CoolCat x⁣3
 Dialogue: 1:45:59.37, 1:46:01.62, Default, {\c&HFF0000&}LLIAX77777{\c&HFFFFFF&}: blackufaTosya x⁣3
 Dialogue: 1:46:04.13, 1:46:06.55, Default, {\c&HFFFFFF&}isaliy{\c&HFFFFFF&}: @expod1 ехпод старой модели?
 Dialogue: 1:46:04.30, 1:46:07.41, Default, {\c&HFFFFFF&}Andertone23{\c&HFFFFFF&}: Почему у Артурки в голове стонет непонятная \Nдевушка, что я пропустил?!))))
@@ -3383,8 +3383,8 @@ Dialogue: 1:49:31.67, 1:49:34.16, Default, {\c&H32CD9A&}GRIBO4KI{\c&HFFFFFF&}: @
 Dialogue: 1:49:32.58, 1:49:34.88, Default, {\c&HFFFFFF&}JCatsvill_ykt{\c&HFFFFFF&}: ничего не пропустил?
 Dialogue: 1:49:33.14, 1:49:36.02, Default, {\c&HFFFFFF&}ham102rus{\c&HFFFFFF&}: не надо ругаться,иначе чат начнет громко плакать \NBibleThump
 Dialogue: 1:49:35.86, 1:49:38.23, Default, {\c&HE22B8A&}BIGLITTLEPLANE{\c&HFFFFFF&}: @LLIAX77777 blackufaChamp
-Dialogue: 1:49:38.90, 1:49:40.97, Default, {\c&H1329B9&}Nx230{\c&HFFFFFF&}: !time
-Dialogue: 1:49:39.23, 1:49:42.20, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Айя Ктулху, Айя Блэк! Мы в эфире уже 1 hour 49 \Nminutes 56 seconds
+; Dialogue: 1:49:38.90, 1:49:40.97, Default, {\c&H1329B9&}Nx230{\c&HFFFFFF&}: !time
+; Dialogue: 1:49:39.23, 1:49:42.20, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Айя Ктулху, Айя Блэк! Мы в эфире уже 1 hour 49 \Nminutes 56 seconds
 Dialogue: 1:49:40.38, 1:49:42.96, Default, {\c&HE22B8A&}OrlyanaGold{\c&HFFFFFF&}: Да уж, это вам не линк в зельде у котла
 Dialogue: 1:49:44.44, 1:49:46.68, Default, {\c&HE22B8A&}VoprosiKira{\c&HFFFFFF&}: @GRIBO4KI Уганды
 Dialogue: 1:49:44.47, 1:49:47.22, Default, {\c&H008000&}Starork{\c&HFFFFFF&}: @RAYHQ то есть на ошибках ты не учишься, да? Kappa
@@ -3430,8 +3430,8 @@ Dialogue: 1:52:18.98, 1:52:21.56, Default, {\c&HB469FF&}Yarmilu{\c&HFFFFFF&}: @h
 Dialogue: 1:52:19.04, 1:52:21.67, Default, {\c&H7FFF00&}ExPOD_Twitch{\c&HFFFFFF&}: @lliax77777 я щас зайду с модеркой и укушу
 Dialogue: 1:52:23.99, 1:52:26.33, Default, {\c&HE22B8A&}BIGLITTLEPLANE{\c&HFFFFFF&}: cдеcь же еcть рыбалка ?
 Dialogue: 1:52:36.09, 1:52:38.30, Default, {\c&HFFFFFF&}Arinaco{\c&HFFFFFF&}: Доброго вечера
-Dialogue: 1:52:39.15, 1:52:41.22, Default, {\c&HFFFFFF&}Arinaco{\c&HFFFFFF&}: !time
-Dialogue: 1:52:39.50, 1:52:42.47, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Айя Ктулху, Айя Блэк! Мы в эфире уже 1 hour 52 \Nminutes 57 seconds
+; Dialogue: 1:52:39.15, 1:52:41.22, Default, {\c&HFFFFFF&}Arinaco{\c&HFFFFFF&}: !time
+; Dialogue: 1:52:39.50, 1:52:42.47, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Айя Ктулху, Айя Блэк! Мы в эфире уже 1 hour 52 \Nminutes 57 seconds
 Dialogue: 1:52:40.94, 1:52:43.10, Default, {\c&HFF0000&}LLIAX77777{\c&HFFFFFF&}: @expod1, :P
 Dialogue: 1:52:41.09, 1:52:43.21, Default, {\c&H5CCC00&}caranteen{\c&HFFFFFF&}: SabaPing
 Dialogue: 1:52:45.35, 1:52:48.64, Default, {\c&H88FF00&}Dariya_Willis{\c&HFFFFFF&}: @rayhq, хватит докапываться до модераторов. \NИначе будешь со мной говорить, но недолго.
@@ -3440,7 +3440,7 @@ Dialogue: 1:52:47.75, 1:52:50.56, Default, {\c&H507FFF&}XinnGadget{\c&HFFFFFF&}:
 Dialogue: 1:52:49.33, 1:52:51.49, Default, {\c&HFFFFFF&}TheBlakeRed_Twitch{\c&HFFFFFF&}: WutFace x⁣4
 Dialogue: 1:52:51.57, 1:52:53.85, Default, {\c&HFFFFFF&}Noolina{\c&HFFFFFF&}: Вот и рибалка SMOrc
 Dialogue: 1:52:54.36, 1:52:56.64, Default, {\c&H7FFF00&}GRANDER45{\c&HFFFFFF&}: кто длц к хорайзен?
-Dialogue: 1:52:54.73, 1:52:57.52, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Наш сервер в Discord - \Nhttps://discord.gg/fsofbsadw ●
+; Dialogue: 1:52:54.73, 1:52:57.52, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Наш сервер в Discord - \Nhttps://discord.gg/fsofbsadw ●
 Dialogue: 1:52:59.02, 1:53:01.06, Default, {\c&HFF901E&}9618JLee{\c&HFFFFFF&}: LUL
 Dialogue: 1:53:00.68, 1:53:03.01, Default, {\c&H7FFF00&}ExPOD_Twitch{\c&HFFFFFF&}: @dariya_willis привет)
 Dialogue: 1:53:01.81, 1:53:04.06, Default, {\c&HFFFFFF&}barmaley3bclass{\c&HFFFFFF&}: SabaPing SabaPing
@@ -3465,8 +3465,8 @@ Dialogue: 1:53:41.76, 1:53:44.58, Default, {\c&HB469FF&}Yarmilu{\c&HFFFFFF&}: @h
 Dialogue: 1:53:42.55, 1:53:45.09, Default, {\c&H008000&}Karilon{\c&HFFFFFF&}: да чёрт,опять неуспел artgam2ArtRage
 Dialogue: 1:53:42.87, 1:53:45.66, Default, {\c&HFFFFFF&}DOOMka714{\c&HFFFFFF&}: Тульского пряника чтаааа??) blackufaPalm \NblackufaPalm
 Dialogue: 1:53:45.68, 1:53:49.13, Default, {\c&H7FFF00&}PinkMintTea{\c&HFFFFFF&}: @rayhq, если модеры видят что человек спамит - \Nему говорят "не спамь". Если умный, то перестанет.
-Dialogue: 1:53:53.57, 1:53:58.57, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: ● Группа в вк - https://vk.com/b_silver ● Я в вк - \Nhttps://vk.com/blacksilverufa ● Канал - \Nhttps://www.youtube.com/user/BlackSilverUfa ● Донат - \Nhttp://www.donationalerts.ru/r/blackufa_twitch ● \NДополнительные смайлы в приложении BetterTTV - \Nhttps://nightdev.com/betterttv/
-Dialogue: 1:53:56.02, 1:53:59.83, Default, {\c&H32CD9A&}DudelkaBot{\c&HFFFFFF&}: Ложа для 14 месячников этажом выше, давай же, \Ncorax_corvus, поднимайся Kappa Там тебя ждут котики и не \Nтолько CoolCat x⁣3
+; Dialogue: 1:53:53.57, 1:53:58.57, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: ● Группа в вк - https://vk.com/b_silver ● Я в вк - \Nhttps://vk.com/blacksilverufa ● Канал - \Nhttps://www.youtube.com/user/BlackSilverUfa ● Донат - \Nhttp://www.donationalerts.ru/r/blackufa_twitch ● \NДополнительные смайлы в приложении BetterTTV - \Nhttps://nightdev.com/betterttv/
+; Dialogue: 1:53:56.02, 1:53:59.83, Default, {\c&H32CD9A&}DudelkaBot{\c&HFFFFFF&}: Ложа для 14 месячников этажом выше, давай же, \Ncorax_corvus, поднимайся Kappa Там тебя ждут котики и не \Nтолько CoolCat x⁣3
 Dialogue: 1:54:00.75, 1:54:02.97, Default, {\c&HE22B8A&}BIGLITTLEPLANE{\c&HFFFFFF&}: blackufaMLG x⁣3
 Dialogue: 1:54:03.67, 1:54:05.94, Default, {\c&HA09E5F&}Atakari{\c&HFFFFFF&}: Веаре ю диссапиар?
 Dialogue: 1:54:07.08, 1:54:09.29, Default, {\c&HFFFFFF&}LoveYouSoGay{\c&HFFFFFF&}: Артур, тащи!1!
@@ -3487,7 +3487,7 @@ Dialogue: 1:54:50.24, 1:54:52.45, Default, {\c&HFFFFFF&}ham102rus{\c&HFFFFFF&}: 
 Dialogue: 1:54:52.56, 1:54:54.92, Default, {\c&HB469FF&}Yarmilu{\c&HFFFFFF&}: @expod1 бука ты DansGame
 Dialogue: 1:54:54.28, 1:54:56.83, Default, {\c&H7FFF00&}ExPOD_Twitch{\c&HFFFFFF&}: @yarmilu ты себя защити от бана лучше
 Dialogue: 1:55:01.84, 1:55:04.30, Default, {\c&H32CD9A&}GRIBO4KI{\c&HFFFFFF&}: где @voprosikira, я потерял его
-Dialogue: 1:55:06.58, 1:55:11.02, Default, {\c&H32CD9A&}DudelkaBot{\c&HFFFFFF&}: Случайная цитата LUL - blackufa_twitch, 2017 #50 \N: 'Мы пришли на место, где километры трусов! Всё плохо. Я \Nвидел это во сне, но он врал! [COD IW: Rave in Redwood]'
+; Dialogue: 1:55:06.58, 1:55:11.02, Default, {\c&H32CD9A&}DudelkaBot{\c&HFFFFFF&}: Случайная цитата LUL - blackufa_twitch, 2017 #50 \N: 'Мы пришли на место, где километры трусов! Всё плохо. Я \Nвидел это во сне, но он врал! [COD IW: Rave in Redwood]'
 Dialogue: 1:55:07.34, 1:55:10.57, Default, {\c&HFFFFFF&}maxabrams{\c&HFFFFFF&}: а что случилось с Артуром и Темой? Чатик, вы же \Nшутите? Ничего ведь на самом деле?
 Dialogue: 1:55:08.23, 1:55:10.41, Default, {\c&HFFFFFF&}alter_67{\c&HFFFFFF&}: blackufaPuke
 Dialogue: 1:55:14.61, 1:55:17.28, Default, {\c&HB469FF&}Yarmilu{\c&HFFFFFF&}: @expod1 но я тебя всё равно люблю artgam2Sexy
@@ -3505,7 +3505,7 @@ Dialogue: 1:56:30.35, 1:56:32.72, Default, {\c&HFF0000&}kiroel_trainer{\c&HFFFFF
 Dialogue: 1:56:32.60, 1:56:34.85, Default, {\c&HB469FF&}Yarmilu{\c&HFFFFFF&}: @ham102rus пасиба
 Dialogue: 1:56:36.50, 1:56:38.80, Default, {\c&H7FFF00&}ExPOD_Twitch{\c&HFFFFFF&}: @yarmilu с фантазией
 Dialogue: 1:56:41.27, 1:56:44.99, Default, {\c&HFFFFFF&}ham102rus{\c&HFFFFFF&}: @yarmilu я такооой открытый молдой человек,еще и \Nс Уфы,такой же красивый,как Артур(причислил к лику Богов) \NTheThing
-Dialogue: 1:56:46.24, 1:56:49.39, Default, {\c&H32CD9A&}DudelkaBot{\c&HFFFFFF&}: CoolCat x⁣3 Спасибо за переподписку markspotty! \NС 5 месяцем тебя! CoolCat x⁣3
+; Dialogue: 1:56:46.24, 1:56:49.39, Default, {\c&H32CD9A&}DudelkaBot{\c&HFFFFFF&}: CoolCat x⁣3 Спасибо за переподписку markspotty! \NС 5 месяцем тебя! CoolCat x⁣3
 Dialogue: 1:56:51.53, 1:56:54.31, Default, {\c&HFFFFFF&}maxabrams{\c&HFFFFFF&}: я же такой, шо зайду ведь к Теме.....спрошу \Nведь....
 Dialogue: 1:56:51.55, 1:56:54.30, Default, {\c&HB469FF&}zhopka_ehvana{\c&HFFFFFF&}: @maxabrams поругались, из-за Тани \NdwillisKappa x⁣6
 Dialogue: 1:56:51.66, 1:56:54.71, Default, {\c&HFFFFFF&}Noolina{\c&HFFFFFF&}: Жалко не видно лучников, интересно посмотреть как \Nэто выглядит в коопе
@@ -3560,7 +3560,7 @@ Dialogue: 1:59:16.15, 1:59:18.52, Default, {\c&HFFFFFF&}KarmaPol1ce{\c&HFFFFFF&}
 Dialogue: 1:59:19.56, 1:59:21.87, Default, {\c&HFFFFFF&}LoveYouSoGay{\c&HFFFFFF&}: KappaPride KappaPride
 Dialogue: 1:59:25.99, 1:59:28.48, Default, {\c&H0000FF&}andrey1303_DronikMT{\c&HFFFFFF&}: кто то кого то тр..хает помоему))
 Dialogue: 1:59:26.26, 1:59:28.84, Default, {\c&H7FFF00&}rider242{\c&HFFFFFF&}: @BlackUFA_Twitch у тебя молот затупился
-Dialogue: 1:59:30.43, 1:59:33.64, Default, {\c&H32CD9A&}DudelkaBot{\c&HFFFFFF&}: Ого у brutalllpony уже 8 сантиметров PogChamp \NСпасибо за переподписку CoolCat x⁣3
+; Dialogue: 1:59:30.43, 1:59:33.64, Default, {\c&H32CD9A&}DudelkaBot{\c&HFFFFFF&}: Ого у brutalllpony уже 8 сантиметров PogChamp \NСпасибо за переподписку CoolCat x⁣3
 Dialogue: 1:59:32.75, 1:59:35.08, Default, {\c&HFFFFFF&}Im_tougher_than_I_look{\c&HFFFFFF&}: это из аньяната бронь?
 Dialogue: 1:59:35.52, 1:59:37.58, Default, {\c&H7FFF00&}Flaiver{\c&HFFFFFF&}: Clap
 Dialogue: 1:59:42.22, 1:59:44.47, Default, {\c&HFF0000&}LLIAX77777{\c&HFFFFFF&}: blackufaTosya x⁣3
@@ -3611,7 +3611,7 @@ Dialogue: 2:02:39.47, 2:02:41.51, Default, {\c&HFFFFFF&}TheDrHax{\c&HFFFFFF&}: L
 Dialogue: 2:02:48.23, 2:02:50.54, Default, {\c&H008000&}Starork{\c&HFFFFFF&}: @antoxadit556 в 18:00
 Dialogue: 2:02:49.81, 2:02:51.96, Default, {\c&H7FFF00&}hlnsay{\c&HFFFFFF&}: Опять Омск
 Dialogue: 2:02:51.22, 2:02:54.10, Default, {\c&HFFFFFF&}Noolina{\c&HFFFFFF&}: Чет локация, как предыдущая при битве с монстром \NHassanChop
-Dialogue: 2:02:56.80, 2:02:59.59, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Наш сервер в Discord - \Nhttps://discord.gg/fsofbsadw ●
+; Dialogue: 2:02:56.80, 2:02:59.59, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Наш сервер в Discord - \Nhttps://discord.gg/fsofbsadw ●
 Dialogue: 2:03:05.93, 2:03:08.17, Default, {\c&HFFFFFF&}antoxadit556{\c&HFFFFFF&}: @starork спасибо
 Dialogue: 2:03:14.50, 2:03:16.83, Default, {\c&HFF901E&}Captured_Camel{\c&HFFFFFF&}: Я не специально, комон
 Dialogue: 2:03:21.84, 2:03:24.27, Default, {\c&HFFFFFF&}LoveYouSoGay{\c&HFFFFFF&}: Да удали этот Аутлук, хоспаде
@@ -3633,7 +3633,7 @@ Dialogue: 2:04:32.51, 2:04:35.17, Default, {\c&HFF0000&}albatros128{\c&HFFFFFF&}
 Dialogue: 2:04:32.90, 2:04:35.12, Default, {\c&HFFFFFF&}ham102rus{\c&HFFFFFF&}: омерзительная 8
 Dialogue: 2:04:34.66, 2:04:37.03, Default, {\c&HE22B8A&}romasanto{\c&HFFFFFF&}: АХахах как я Люблю это)))
 Dialogue: 2:04:36.35, 2:04:38.39, Default, {\c&HFFFFFF&}TheDrHax{\c&HFFFFFF&}: LUL
-Dialogue: 2:04:37.12, 2:04:40.23, Default, {\c&H32CD9A&}DudelkaBot{\c&HFFFFFF&}: CoolCat x⁣3 Спасибо за переподписку evarain! С 6 \Nмесяцем тебя! CoolCat x⁣3
+; Dialogue: 2:04:37.12, 2:04:40.23, Default, {\c&H32CD9A&}DudelkaBot{\c&HFFFFFF&}: CoolCat x⁣3 Спасибо за переподписку evarain! С 6 \Nмесяцем тебя! CoolCat x⁣3
 Dialogue: 2:04:38.18, 2:04:40.60, Default, {\c&H0000FF&}SLim7032{\c&HFFFFFF&}: @Yeqqi сегодня море идиотов?
 Dialogue: 2:04:46.76, 2:04:49.19, Default, {\c&H0045FF&}hellish_pacifist{\c&HFFFFFF&}: Эта озвучка божественна О___О
 Dialogue: 2:04:47.70, 2:04:49.88, Default, {\c&H8A0083&}EvaRain{\c&HFFFFFF&}: CoolStoryBob
@@ -3649,7 +3649,7 @@ Dialogue: 2:04:57.76, 2:04:59.80, Default, {\c&HE22B8A&}kookree{\c&HFFFFFF&}: LU
 Dialogue: 2:04:59.94, 2:05:02.12, Default, {\c&H88FF00&}Dariya_Willis{\c&HFFFFFF&}: CoolStoryBob
 Dialogue: 2:05:02.66, 2:05:05.11, Default, {\c&H0000FF&}vinsent0loy{\c&HFFFFFF&}: сразу понятно о чем речь SMOrc
 Dialogue: 2:05:03.86, 2:05:06.32, Default, {\c&HFFFFFF&}ham102rus{\c&HFFFFFF&}: это же омерзительная 8 TheThing
-Dialogue: 2:05:06.55, 2:05:09.87, Default, {\c&H32CD9A&}DudelkaBot{\c&HFFFFFF&}: Случайная цитата LUL - blackufa_twitch, 2017 #6 \N: 'Щас ребят подождите, кирпичи стряхну'
+; Dialogue: 2:05:06.55, 2:05:09.87, Default, {\c&H32CD9A&}DudelkaBot{\c&HFFFFFF&}: Случайная цитата LUL - blackufa_twitch, 2017 #6 \N: 'Щас ребят подождите, кирпичи стряхну'
 Dialogue: 2:05:07.98, 2:05:10.19, Default, {\c&HFFFFFF&}annavail{\c&HFFFFFF&}: это Прерасно!)
 Dialogue: 2:05:11.19, 2:05:13.32, Default, {\c&HFFFFFF&}KarmaPol1ce{\c&HFFFFFF&}: Твою бать
 Dialogue: 2:05:11.88, 2:05:14.25, Default, {\c&H8A0083&}EvaRain{\c&HFFFFFF&}: CoolStoryBob CoolStoryBob
@@ -3660,7 +3660,7 @@ Dialogue: 2:05:23.79, 2:05:25.86, Default, {\c&HFFFFFF&}LoveYouSoGay{\c&HFFFFFF&
 Dialogue: 2:05:24.45, 2:05:26.93, Default, {\c&HFFFFFF&}tityag{\c&HFFFFFF&}: ублюдок мать твою я иду за тобой
 Dialogue: 2:05:26.73, 2:05:29.09, Default, {\c&HFFFFFF&}vsevolod_ovv{\c&HFFFFFF&}: твоюж мать, это мать его
 Dialogue: 2:05:29.12, 2:05:31.39, Default, {\c&HFFFFFF&}vulpesruber{\c&HFFFFFF&}: @krekerto спасибо)
-Dialogue: 2:05:30.38, 2:05:33.23, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Goooordo -> Не капси, я в танке горел, я дурак. \N[warning]
+; Dialogue: 2:05:30.38, 2:05:33.23, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Goooordo -> Не капси, я в танке горел, я дурак. \N[warning]
 Dialogue: 2:05:30.54, 2:05:33.24, Default, {\c&HFF0000&}kiroel_trainer{\c&HFFFFFF&}: тут нужны настоящие парни из последней \Nфиналки)
 Dialogue: 2:05:30.62, 2:05:32.86, Default, {\c&H88FF00&}Dariya_Willis{\c&HFFFFFF&}: мать моя женщина
 Dialogue: 2:05:31.40, 2:05:33.44, Default, {\c&H7FFF00&}Flaiver{\c&HFFFFFF&}: LUL
@@ -3669,8 +3669,8 @@ Dialogue: 2:05:31.98, 2:05:34.49, Default, {\c&H8A0083&}EvaRain{\c&HFFFFFF&}: в
 Dialogue: 2:05:32.94, 2:05:35.34, Default, {\c&HFFFFFF&}LoveYouSoGay{\c&HFFFFFF&}: Хочу фильм с такой озвучкой
 Dialogue: 2:05:33.26, 2:05:35.96, Default, {\c&HFFFFFF&}4to_za_Di4b{\c&HFFFFFF&}: @Dariya_Willis Даша, а у вас второй соньки нет?
 Dialogue: 2:05:33.79, 2:05:36.93, Default, {\c&H32CD9A&}GRIBO4KI{\c&HFFFFFF&}: @dariya_willis почему дуделкабот не модер? он не \Nне сможет писать в саб моде
-Dialogue: 2:05:35.88, 2:05:37.95, Default, {\c&H7FFF00&}FootLesso{\c&HFFFFFF&}: !time
-Dialogue: 2:05:36.23, 2:05:39.20, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Айя Ктулху, Айя Блэк! Мы в эфире уже 2 hours 5 \Nminutes 53 seconds
+; Dialogue: 2:05:35.88, 2:05:37.95, Default, {\c&H7FFF00&}FootLesso{\c&HFFFFFF&}: !time
+; Dialogue: 2:05:36.23, 2:05:39.20, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Айя Ктулху, Айя Блэк! Мы в эфире уже 2 hours 5 \Nminutes 53 seconds
 Dialogue: 2:05:41.78, 2:05:44.26, Default, {\c&HB469FF&}BolocatbiI_cHeg{\c&HFFFFFF&}: боже, это всегда превосходно LuL
 Dialogue: 2:05:44.29, 2:05:46.65, Default, {\c&H88FF00&}Dariya_Willis{\c&HFFFFFF&}: @4to_za_di4b, у нас их 3
 Dialogue: 2:05:44.66, 2:05:46.78, Default, {\c&HFF0000&}L0NeLyMan{\c&HFFFFFF&}: Бать его
@@ -3718,13 +3718,13 @@ Dialogue: 2:07:30.85, 2:07:34.00, Default, {\c&HFFFFFF&}Pirat_Panda{\c&HFFFFFF&}
 Dialogue: 2:07:33.35, 2:07:36.19, Default, {\c&HFFFFFF&}YxovKonstantin{\c&HFFFFFF&}: только что досмотрел прошлый рестрим.)) \Nблэк, приветище!
 Dialogue: 2:07:35.96, 2:07:38.14, Default, {\c&H32CD9A&}GRIBO4KI{\c&HFFFFFF&}: CoolStoryBob
 Dialogue: 2:07:37.09, 2:07:39.73, Default, {\c&HFFFFFF&}oblachko7{\c&HFFFFFF&}: здравствуй Артур,чат gsfQ gsfRelax a4pDrink
-Dialogue: 2:07:39.49, 2:07:41.61, Default, {\c&HFFFFFF&}eadbrit{\c&HFFFFFF&}: !members
-Dialogue: 2:07:39.56, 2:07:42.91, Default, {\c&H32CD9A&}DudelkaBot{\c&HFFFFFF&}: Ого у jackfoxy_games_twitch уже 7 сантиметров \NPogChamp Спасибо за переподписку CoolCat x⁣3
+; Dialogue: 2:07:39.49, 2:07:41.61, Default, {\c&HFFFFFF&}eadbrit{\c&HFFFFFF&}: !members
+; Dialogue: 2:07:39.56, 2:07:42.91, Default, {\c&H32CD9A&}DudelkaBot{\c&HFFFFFF&}: Ого у jackfoxy_games_twitch уже 7 сантиметров \NPogChamp Спасибо за переподписку CoolCat x⁣3
 Dialogue: 2:07:40.87, 2:07:44.29, Default, {\c&HFFFFFF&}ham102rus{\c&HFFFFFF&}: @dariya_willis Даша,а у вас проблем с собакой \Nнету?у нас той же породы,ну просто дикий аллергик
 Dialogue: 2:07:40.95, 2:07:43.13, Default, {\c&HFFFFFF&}YxovKonstantin{\c&HFFFFFF&}: чё по коопу?
 Dialogue: 2:07:41.98, 2:07:45.27, Default, {\c&HFFFFFF&}TheBlakeRed_Twitch{\c&HFFFFFF&}: Во всем виновата слепая свинья а внутри \NЛюциииифеееееер PowerUpL blackufaRage PowerUpR
 Dialogue: 2:07:42.00, 2:07:44.16, Default, {\c&H7FFF00&}Flaiver{\c&HFFFFFF&}: NotLikeThis
-Dialogue: 2:07:47.47, 2:07:50.73, Default, {\c&H32CD9A&}DudelkaBot{\c&HFFFFFF&}: @eadbrit Сейчас в чате 2783 фолловеров, 92 \Nсабов, 8 лучших модеров и не только Kappa
+; Dialogue: 2:07:47.47, 2:07:50.73, Default, {\c&H32CD9A&}DudelkaBot{\c&HFFFFFF&}: @eadbrit Сейчас в чате 2783 фолловеров, 92 \Nсабов, 8 лучших модеров и не только Kappa
 Dialogue: 2:07:50.05, 2:07:52.12, Default, {\c&HFFFFFF&}eadbrit{\c&HFFFFFF&}: мля.(
 Dialogue: 2:07:52.10, 2:07:54.50, Default, {\c&H0045FF&}c00kiemancer{\c&HFFFFFF&}: blackufaTosya blackufaTosya
 Dialogue: 2:07:55.91, 2:07:58.40, Default, {\c&H8A0083&}EvaRain{\c&HFFFFFF&}: давайте лучше в сос blackufaChamp
@@ -3745,8 +3745,8 @@ Dialogue: 2:09:14.16, 2:09:16.68, Default, {\c&HFF901E&}Goooordo{\c&HFFFFFF&}: @
 Dialogue: 2:09:18.17, 2:09:20.75, Default, {\c&HFFFFFF&}xStake13x{\c&HFFFFFF&}: чет игра, я смотрю, не особо популярная
 Dialogue: 2:09:32.40, 2:09:34.67, Default, {\c&HE22B8A&}romasanto{\c&HFFFFFF&}: @EvaRain Ева Wowee
 Dialogue: 2:09:39.19, 2:09:41.47, Default, {\c&H7FFF00&}ExPOD_{\c&HFFFFFF&}: Посижу с вами Keepo
-Dialogue: 2:09:52.43, 2:09:54.50, Default, {\c&HFF901E&}Goooordo{\c&HFFFFFF&}: !time
-Dialogue: 2:09:52.84, 2:09:55.83, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Айя Ктулху, Айя Блэк! Мы в эфире уже 2 hours 10 \Nminutes 10 seconds
+; Dialogue: 2:09:52.43, 2:09:54.50, Default, {\c&HFF901E&}Goooordo{\c&HFFFFFF&}: !time
+; Dialogue: 2:09:52.84, 2:09:55.83, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Айя Ктулху, Айя Блэк! Мы в эфире уже 2 hours 10 \Nminutes 10 seconds
 Dialogue: 2:09:59.48, 2:10:01.88, Default, {\c&HFF0000&}LLIAX77777{\c&HFFFFFF&}: @expod2, кусь artgam2Scared
 Dialogue: 2:10:02.09, 2:10:04.42, Default, {\c&H8A0083&}EvaRain{\c&HFFFFFF&}: @romasanto KevinTurtle
 Dialogue: 2:10:07.75, 2:10:11.07, Default, {\c&HFFFFFF&}Krekerto{\c&HFFFFFF&}: @BlackUFA_Twitch вкратце про ловлю - ты получаешь \Nкуда больше чем за убийство и мб рарки
@@ -3805,7 +3805,7 @@ Dialogue: 2:12:42.90, 2:12:45.14, Default, {\c&H0000FF&}CRAZYB0MB{\c&HFFFFFF&}: 
 Dialogue: 2:12:43.48, 2:12:45.55, Default, {\c&H698BE8&}AzazelMorningstar{\c&HFFFFFF&}: Wowee
 Dialogue: 2:12:46.64, 2:12:49.09, Default, {\c&HE22B8A&}InnocentDays_{\c&HFFFFFF&}: женюсь на тян из чата TehePelo
 Dialogue: 2:12:49.68, 2:12:52.35, Default, {\c&HFFFFFF&}sultannio{\c&HFFFFFF&}: @expod2 найн и вы ником промахнулись ай яй яй
-Dialogue: 2:12:55.00, 2:12:57.79, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Наш сервер в Discord - \Nhttps://discord.gg/fsofbsadw ●
+; Dialogue: 2:12:55.00, 2:12:57.79, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Наш сервер в Discord - \Nhttps://discord.gg/fsofbsadw ●
 Dialogue: 2:13:08.82, 2:13:11.39, Default, {\c&HFFFFFF&}PtitsTwitch{\c&HFFFFFF&}: Выложишь потом запись? Я чутка опоздал
 Dialogue: 2:13:21.62, 2:13:24.04, Default, {\c&H578B2E&}zORg_alex{\c&HFFFFFF&}: LUL @InnocentDays_ Во даёшь!
 Dialogue: 2:13:23.69, 2:13:25.99, Default, {\c&HFF0000&}BorodaFactory{\c&HFFFFFF&}: А почему не с Тёмой?
@@ -3819,15 +3819,15 @@ Dialogue: 2:13:45.14, 2:13:47.56, Default, {\c&H0000FF&}JenkinsRS{\c&HFFFFFF&}: 
 Dialogue: 2:13:46.61, 2:13:49.33, Default, {\c&H8A0083&}EvaRain{\c&HFFFFFF&}: @borodafactory кооп так и не настроили SMOrc LUL
 Dialogue: 2:13:47.98, 2:13:50.25, Default, {\c&HFFFFFF&}amid_2002{\c&HFFFFFF&}: а я ждал пиратов )
 Dialogue: 2:13:51.90, 2:13:55.11, Default, {\c&HFFFFFF&}vlada_osad{\c&HFFFFFF&}: Артурио ты просил у меня Йоши но у меня нет \Nматериала потому как появиться сделаю
-Dialogue: 2:13:53.62, 2:13:58.62, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: ● Группа в вк - https://vk.com/b_silver ● Я в вк - \Nhttps://vk.com/blacksilverufa ● Канал - \Nhttps://www.youtube.com/user/BlackSilverUfa ● Донат - \Nhttp://www.donationalerts.ru/r/blackufa_twitch ● \NДополнительные смайлы в приложении BetterTTV - \Nhttps://nightdev.com/betterttv/
+; Dialogue: 2:13:53.62, 2:13:58.62, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: ● Группа в вк - https://vk.com/b_silver ● Я в вк - \Nhttps://vk.com/blacksilverufa ● Канал - \Nhttps://www.youtube.com/user/BlackSilverUfa ● Донат - \Nhttp://www.donationalerts.ru/r/blackufa_twitch ● \NДополнительные смайлы в приложении BetterTTV - \Nhttps://nightdev.com/betterttv/
 Dialogue: 2:14:01.30, 2:14:05.13, Default, {\c&HFFFFFF&}Krekerto{\c&HFFFFFF&}: @BlackUFA_Twitch MH старая серия, породившая \Nвокруг себя безумное количество клонов, из которых арзве что \NGod eater удался
 Dialogue: 2:14:05.39, 2:14:07.85, Default, {\c&H0000FF&}andrey1303_DronikMT{\c&HFFFFFF&}: там хотя бы кооп StoneLightning
 Dialogue: 2:14:05.70, 2:14:08.52, Default, {\c&HFFFFFF&}parenek3{\c&HFFFFFF&}: @ptits_ все стримы выкладываются и сохраняются на \Nтвиче
 Dialogue: 2:14:05.71, 2:14:08.10, Default, {\c&HFFFFFF&}Noolina{\c&HFFFFFF&}: "В коопе всё весело" аминь
 Dialogue: 2:14:08.74, 2:14:11.14, Default, {\c&HFFFFFF&}vlada_osad{\c&HFFFFFF&}: Но я нарисовала тебе комикс
-Dialogue: 2:14:10.21, 2:14:12.31, Default, {\c&HFFFFFF&}Amoderas{\c&HFFFFFF&}: !uptime
+; Dialogue: 2:14:10.21, 2:14:12.31, Default, {\c&HFFFFFF&}Amoderas{\c&HFFFFFF&}: !uptime
 Dialogue: 2:14:10.29, 2:14:12.65, Default, {\c&H8A0083&}EvaRain{\c&HFFFFFF&}: че, по сути поссорились?
-Dialogue: 2:14:10.55, 2:14:13.60, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Айя Ктулху, Айя Блэк! Мы в эфире уже \N2 hours 14 minutes 28 seconds x⁣2
+; Dialogue: 2:14:10.55, 2:14:13.60, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Айя Ктулху, Айя Блэк! Мы в эфире уже \N2 hours 14 minutes 28 seconds x⁣2
 Dialogue: 2:14:15.07, 2:14:18.00, Default, {\c&H0000FF&}Bogdossa{\c&HFFFFFF&}: @InnocentDays_ , чем тебя куны не устраивают? Ты \Nчто, из этих?
 Dialogue: 2:14:16.77, 2:14:18.96, Default, {\c&HFFFFFF&}unknown_ivan{\c&HFFFFFF&}: сапоги сделай
 Dialogue: 2:14:21.26, 2:14:23.77, Default, {\c&H507FFF&}MOIIIHATOP{\c&HFFFFFF&}: @EvaRain Евча js19rusMojito OpieOP
@@ -3850,7 +3850,7 @@ Dialogue: 2:14:57.96, 2:15:00.71, Default, {\c&HFF0000&}LLIAX77777{\c&HFFFFFF&}:
 Dialogue: 2:14:58.19, 2:15:01.39, Default, {\c&H88FF00&}Dariya_Willis{\c&HFFFFFF&}: ЛЮДИ, КОТОРЫЕ ПРОСЯТ ПИРАТОВ - ЧИТАЙТЕ ПОСТ В \NГРУППЕ И СМОТРИТЕ АНОНС НА КАНАЛЕ!
 Dialogue: 2:14:58.77, 2:15:01.97, Default, {\c&H88FF00&}Dariya_Willis{\c&HFFFFFF&}: ЛЮДИ, КОТОРЫЕ ПРОСЯТ ПИРАТОВ - ЧИТАЙТЕ ПОСТ В \NГРУППЕ И СМОТРИТЕ АНОНС НА КАНАЛЕ!
 Dialogue: 2:15:02.27, 2:15:04.66, Default, {\c&HFFFFFF&}sultannio{\c&HFFFFFF&}: тосико качай забей на себя
-Dialogue: 2:15:06.57, 2:15:10.65, Default, {\c&H32CD9A&}DudelkaBot{\c&HFFFFFF&}: Случайная цитата LUL - blackufa_twitch, 2017 #13 \N: 'Мы идём не совсем туда. Не только лишь туда. Мало лишь \Nкуда идём мы.[Alien: Isolation]'
+; Dialogue: 2:15:06.57, 2:15:10.65, Default, {\c&H32CD9A&}DudelkaBot{\c&HFFFFFF&}: Случайная цитата LUL - blackufa_twitch, 2017 #13 \N: 'Мы идём не совсем туда. Не только лишь туда. Мало лишь \Nкуда идём мы.[Alien: Isolation]'
 Dialogue: 2:15:06.95, 2:15:09.11, Default, {\c&H88FF00&}Dariya_Willis{\c&HFFFFFF&}: dwillisREEE
 Dialogue: 2:15:11.95, 2:15:15.24, Default, {\c&HE22B8A&}Katerok{\c&HFFFFFF&}: в журнале охотника написано что и как с того или \Nиного монстра выбить и чем лучше бить
 Dialogue: 2:15:13.05, 2:15:15.15, Default, {\c&HFF901E&}Tarakano_o{\c&HFFFFFF&}: LUL x⁣3
@@ -3907,8 +3907,8 @@ Dialogue: 2:16:32.71, 2:16:35.08, Default, {\c&H0000FF&}fomich_na_twitch{\c&HFFF
 Dialogue: 2:16:35.64, 2:16:38.01, Default, {\c&H7FFF00&}Dmitriy_Sergeev{\c&HFFFFFF&}: Тоби на даче CoolStoryBob
 Dialogue: 2:16:35.70, 2:16:37.88, Default, {\c&H0000FF&}yobobo{\c&HFFFFFF&}: где реклама?
 Dialogue: 2:16:36.13, 2:16:38.35, Default, {\c&HFFFFFF&}GaelNeko{\c&HFFFFFF&}: пушистая яшерка
-Dialogue: 2:16:38.26, 2:16:40.33, Default, {\c&HFFFFFF&}PtitsTwitch{\c&HFFFFFF&}: !time
-Dialogue: 2:16:38.62, 2:16:41.61, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Айя Ктулху, Айя Блэк! Мы в эфире уже 2 hours 16 \Nminutes 56 seconds
+; Dialogue: 2:16:38.26, 2:16:40.33, Default, {\c&HFFFFFF&}PtitsTwitch{\c&HFFFFFF&}: !time
+; Dialogue: 2:16:38.62, 2:16:41.61, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Айя Ктулху, Айя Блэк! Мы в эфире уже 2 hours 16 \Nminutes 56 seconds
 Dialogue: 2:16:39.91, 2:16:42.09, Default, {\c&H507FFF&}LomoHiber{\c&HFFFFFF&}: тобика дачи?
 Dialogue: 2:16:40.73, 2:16:43.13, Default, {\c&HFF0000&}lastmord{\c&HFFFFFF&}: Это наэлектризованная лиса!
 Dialogue: 2:16:41.55, 2:16:43.59, Default, {\c&H7FFF00&}Flaiver{\c&HFFFFFF&}: LUL
@@ -3980,8 +3980,8 @@ Dialogue: 2:19:05.75, 2:19:08.27, Default, {\c&HFFFFFF&}xStake13x{\c&HFFFFFF&}: 
 Dialogue: 2:19:16.31, 2:19:18.82, Default, {\c&HE22B8A&}Katerok{\c&HFFFFFF&}: отряд это типо гильдии же или нет?
 Dialogue: 2:19:16.55, 2:19:18.73, Default, {\c&HB469FF&}Dragontid{\c&HFFFFFF&}: ок, спасибо)
 Dialogue: 2:19:24.69, 2:19:27.86, Default, {\c&HFFFFFF&}vlada_osad{\c&HFFFFFF&}: Артуркооо Йоши скоро сделаю когда глуну купли а \Nна сегодня сделала тебе комикс
-Dialogue: 2:19:27.47, 2:19:29.54, Default, {\c&HFFFFFF&}fredbob31{\c&HFFFFFF&}: !time
-Dialogue: 2:19:27.76, 2:19:30.75, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Айя Ктулху, Айя Блэк! Мы в эфире уже 2 hours 19 \Nminutes 45 seconds
+; Dialogue: 2:19:27.47, 2:19:29.54, Default, {\c&HFFFFFF&}fredbob31{\c&HFFFFFF&}: !time
+; Dialogue: 2:19:27.76, 2:19:30.75, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Айя Ктулху, Айя Блэк! Мы в эфире уже 2 hours 19 \Nminutes 45 seconds
 Dialogue: 2:19:31.33, 2:19:34.44, Default, {\c&HFFFFFF&}KaZaK011{\c&HFFFFFF&}: Артур, люди которые прошли эту миссию могут с \Nсамого начала с тобой бегать
 Dialogue: 2:19:38.80, 2:19:41.17, Default, {\c&HFF0000&}LLIAX77777{\c&HFFFFFF&}: @evarain, сам жду этого )
 Dialogue: 2:19:40.87, 2:19:44.25, Default, {\c&H88FF00&}Dariya_Willis{\c&HFFFFFF&}: ЛЮДИ, КОТОРЫЕ ПРОСЯТ ПИРАТОВ - ЧИТАЙТЕ ПОСТ В \NГРУППЕ И СМОТРИТЕ АНОНС НА КАНАЛЕ! dwillisREEE
@@ -4021,15 +4021,15 @@ Dialogue: 2:20:40.82, 2:20:43.67, Default, {\c&HFFFFFF&}Anders_N7{\c&HFFFFFF&}: 
 Dialogue: 2:20:47.12, 2:20:49.88, Default, {\c&HE22B8A&}IliaTheGeth{\c&HFFFFFF&}: @LazySychara По апасной дорожке идешь \NblackufaPride
 Dialogue: 2:20:49.34, 2:20:51.76, Default, {\c&H88FF00&}Dariya_Willis{\c&HFFFFFF&}: @lliax77777, Peka1 GunBadMan
 Dialogue: 2:20:51.40, 2:20:54.07, Default, {\c&HFFFFFF&}KarmaPol1ce{\c&HFFFFFF&}: Лут, прокачка и всякое такое в любой рпг есть
-Dialogue: 2:20:52.36, 2:20:56.64, Default, {\c&H32CD9A&}DudelkaBot{\c&HFFFFFF&}: Ты сегодня особенно хорош, 3anglevision ! Добро \Nпожаловать Kappa /, не забудь оставить сегодня окно \Nоткрытым, тебя ждет сюрприз KappaPride ! CoolCat x⁣3
+; Dialogue: 2:20:52.36, 2:20:56.64, Default, {\c&H32CD9A&}DudelkaBot{\c&HFFFFFF&}: Ты сегодня особенно хорош, 3anglevision ! Добро \Nпожаловать Kappa /, не забудь оставить сегодня окно \Nоткрытым, тебя ждет сюрприз KappaPride ! CoolCat x⁣3
 Dialogue: 2:20:59.61, 2:21:01.86, Default, {\c&HFF0000&}LLIAX77777{\c&HFFFFFF&}: blackufaTosya x⁣3
 Dialogue: 2:21:00.30, 2:21:03.36, Default, {\c&H0000FF&}Bogdossa{\c&HFFFFFF&}: Чтобы после полудня у меня на столе были снимки \NТоби-Кадачи! Всем ясно?
 Dialogue: 2:21:02.61, 2:21:04.88, Default, {\c&HFFFFFF&}kokorik{\c&HFFFFFF&}: каска то что надо!
 Dialogue: 2:21:03.61, 2:21:05.88, Default, {\c&HFFFFFF&}ham102rus{\c&HFFFFFF&}: фуф,закупился таки
 Dialogue: 2:21:04.02, 2:21:06.69, Default, {\c&HFFFFFF&}gif2s{\c&HFFFFFF&}: @hocoiibipka сейчас бы не читать группу vREEE
 Dialogue: 2:21:05.69, 2:21:08.59, Default, {\c&HCC005F&}gaki001{\c&HFFFFFF&}: Чатик,зачем вы агрите Дашу? Даша сейчас банить \Nбудет уже LUL
-Dialogue: 2:21:06.67, 2:21:08.77, Default, {\c&HFFFFFF&}surjic{\c&HFFFFFF&}: !uptime
-Dialogue: 2:21:07.06, 2:21:10.11, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Айя Ктулху, Айя Блэк! Мы в эфире уже \N2 hours 21 minutes 24 seconds x⁣2
+; Dialogue: 2:21:06.67, 2:21:08.77, Default, {\c&HFFFFFF&}surjic{\c&HFFFFFF&}: !uptime
+; Dialogue: 2:21:07.06, 2:21:10.11, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Айя Ктулху, Айя Блэк! Мы в эфире уже \N2 hours 21 minutes 24 seconds x⁣2
 Dialogue: 2:21:10.94, 2:21:13.90, Default, {\c&H0000FF&}gAmmi_ua{\c&HFFFFFF&}: @BlackUFA_Twitch посмотри потом комплект тоби \Nкадачи для кота :)
 Dialogue: 2:21:11.34, 2:21:13.67, Default, {\c&H32CD9A&}TheDex86{\c&HFFFFFF&}: CarlSmile CoolStoryBob
 Dialogue: 2:21:12.08, 2:21:14.86, Default, {\c&HE22B8A&}ana1karnawal{\c&HFFFFFF&}: Всем хай, как даавно уже не заходил к тебе на \Nстрим!
@@ -4090,13 +4090,13 @@ Dialogue: 2:22:49.45, 2:22:51.81, Default, {\c&H0000FF&}demonolog999{\c&HFFFFFF&
 Dialogue: 2:22:50.67, 2:22:53.09, Default, {\c&H008000&}tortertorter{\c&HFFFFFF&}: ппушистенький BibleThump x⁣3
 Dialogue: 2:22:52.73, 2:22:55.40, Default, {\c&HB469FF&}zhopka_ehvana{\c&HFFFFFF&}: где пираты! и с зельдой обманули dwillisKappa
 Dialogue: 2:22:52.80, 2:22:55.10, Default, {\c&H0000FF&}SilverCerberRus{\c&HFFFFFF&}: Сикотица (с) Грогнак
-Dialogue: 2:22:54.67, 2:22:57.46, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Наш сервер в Discord - \Nhttps://discord.gg/fsofbsadw ●
+; Dialogue: 2:22:54.67, 2:22:57.46, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Наш сервер в Discord - \Nhttps://discord.gg/fsofbsadw ●
 Dialogue: 2:22:56.07, 2:22:58.22, Default, {\c&HFFFFFF&}LoveYouSoGay{\c&HFFFFFF&}: Пушииистик
 Dialogue: 2:22:57.87, 2:23:01.25, Default, {\c&HFFFFFF&}Noolina{\c&HFFFFFF&}: Когда у тебя "новогоднее настроение" и чтобы \Nвосстановиться бьешь себя по щекам CoolStoryBob
 Dialogue: 2:23:05.10, 2:23:07.62, Default, {\c&HFFFFFF&}vlada_osad{\c&HFFFFFF&}: Между чатом и Артуром прошла искра)
 Dialogue: 2:23:09.99, 2:23:12.51, Default, {\c&H0045FF&}LLltirIec{\c&HFFFFFF&}: через 10 минут Sea of Thieves ееей!
-Dialogue: 2:23:10.37, 2:23:12.44, Default, {\c&HFFFFFF&}inquves{\c&HFFFFFF&}: !time
-Dialogue: 2:23:10.72, 2:23:13.71, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Айя Ктулху, Айя Блэк! Мы в эфире уже 2 hours 23 \Nminutes 28 seconds
+; Dialogue: 2:23:10.37, 2:23:12.44, Default, {\c&HFFFFFF&}inquves{\c&HFFFFFF&}: !time
+; Dialogue: 2:23:10.72, 2:23:13.71, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Айя Ктулху, Айя Блэк! Мы в эфире уже 2 hours 23 \Nminutes 28 seconds
 Dialogue: 2:23:17.76, 2:23:20.18, Default, {\c&H32CD9A&}Funvit{\c&HFFFFFF&}: Что значит буква Н? - Насос!
 Dialogue: 2:23:19.12, 2:23:21.15, Default, {\c&HFFFFFF&}promolkin{\c&HFFFFFF&}: Да
 Dialogue: 2:23:19.88, 2:23:23.12, Default, {\c&H008000&}Starork{\c&HFFFFFF&}: Артур, ты там нормально сидишь? Если нет, пересядь, \Nесли да - дай рекламу Kappa LUL
@@ -4127,8 +4127,8 @@ Dialogue: 2:24:06.40, 2:24:08.58, Default, {\c&HFFFFFF&}p1ayerspb{\c&HFFFFFF&}: 
 Dialogue: 2:24:10.01, 2:24:12.95, Default, {\c&H0000FF&}mr_rusl90{\c&HFFFFFF&}: BibleThump я опоздал чтио ли? в 18-00 вроде жи \Nговорили стрим?!
 Dialogue: 2:24:10.20, 2:24:12.45, Default, {\c&HFFFFFF&}selimrus{\c&HFFFFFF&}: красивая звурушка
 Dialogue: 2:24:12.67, 2:24:14.97, Default, {\c&HFFFFFF&}1__nestor__1{\c&HFFFFFF&}: @captured_camel ват?
-Dialogue: 2:24:14.89, 2:24:16.96, Default, {\c&H0000FF&}Devcp4{\c&HFFFFFF&}: !time
-Dialogue: 2:24:15.18, 2:24:18.17, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Айя Ктулху, Айя Блэк! Мы в эфире уже 2 hours 24 \Nminutes 32 seconds
+; Dialogue: 2:24:14.89, 2:24:16.96, Default, {\c&H0000FF&}Devcp4{\c&HFFFFFF&}: !time
+; Dialogue: 2:24:15.18, 2:24:18.17, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Айя Ктулху, Айя Блэк! Мы в эфире уже 2 hours 24 \Nminutes 32 seconds
 Dialogue: 2:24:18.90, 2:24:21.69, Default, {\c&HFFFFFF&}Krekerto{\c&HFFFFFF&}: @BlackUFA_Twitch от стана - крути стик бега и мэш \Nикс
 Dialogue: 2:24:19.11, 2:24:21.77, Default, {\c&HFF0000&}LLIAX77777{\c&HFFFFFF&}: Это вызов artgam2ArtRage artgam2AGHeavyHorns
 Dialogue: 2:24:21.35, 2:24:24.61, Default, {\c&HFFFFFF&}mrfrant{\c&HFFFFFF&}: на прошлом стриме говорили, что бетка пиратов \Nзаканчивается. что за магия? продлили?
@@ -4145,7 +4145,7 @@ Dialogue: 2:24:56.67, 2:24:59.42, Default, {\c&H0000FF&}JenkinsRS{\c&HFFFFFF&}: 
 Dialogue: 2:24:56.76, 2:24:59.01, Default, {\c&H0000FF&}mr_rusl90{\c&HFFFFFF&}: @ham102rus :O x⁣3
 Dialogue: 2:24:57.45, 2:24:59.90, Default, {\c&HFF0000&}LLIAX77777{\c&HFFFFFF&}: @pennew1se, дороу blackufaPuke
 Dialogue: 2:25:01.59, 2:25:03.81, Default, {\c&H008000&}tortertorter{\c&HFFFFFF&}: ого, он летяга!
-Dialogue: 2:25:06.59, 2:25:11.32, Default, {\c&H32CD9A&}DudelkaBot{\c&HFFFFFF&}: Случайная цитата LUL - blackufa_twitch, 2017 #49 \N: 'Только попробуй, с@ка, вылези сюда, я тебе покажу, как \Nвот это вот делается, как это у нас здесь, в Уфе, это \Nработает. [Mono.exe]'
+; Dialogue: 2:25:06.59, 2:25:11.32, Default, {\c&H32CD9A&}DudelkaBot{\c&HFFFFFF&}: Случайная цитата LUL - blackufa_twitch, 2017 #49 \N: 'Только попробуй, с@ка, вылези сюда, я тебе покажу, как \Nвот это вот делается, как это у нас здесь, в Уфе, это \Nработает. [Mono.exe]'
 Dialogue: 2:25:08.01, 2:25:10.11, Default, {\c&H2222B2&}Melk0r95{\c&HFFFFFF&}: Дратути
 Dialogue: 2:25:09.54, 2:25:11.97, Default, {\c&H0000FF&}Devcp4{\c&HFFFFFF&}: Всем привет, а чего так рано?
 Dialogue: 2:25:10.75, 2:25:13.14, Default, {\c&HFFFFFF&}4to_za_Di4b{\c&HFFFFFF&}: И шмот из кота на него ТОП
@@ -4263,9 +4263,9 @@ Dialogue: 2:28:52.44, 2:28:54.74, Default, {\c&HAABC0B&}bado__oass{\c&HFFFFFF&}:
 Dialogue: 2:28:53.16, 2:28:55.67, Default, {\c&H0045FF&}LLltirIec{\c&HFFFFFF&}: @BlackUFA_Twitch под вебкой курсор
 Dialogue: 2:28:53.82, 2:28:55.92, Default, {\c&HFFFFFF&}pennew1se{\c&HFFFFFF&}: ой дааа
 Dialogue: 2:28:54.49, 2:28:56.68, Default, {\c&HFFFFFF&}LoveYouSoGay{\c&HFFFFFF&}: Сядь ровно!1!
-Dialogue: 2:28:54.96, 2:28:57.03, Default, {\c&H7FFF00&}Games_on_the_weak_PC{\c&HFFFFFF&}: !time
+; Dialogue: 2:28:54.96, 2:28:57.03, Default, {\c&H7FFF00&}Games_on_the_weak_PC{\c&HFFFFFF&}: !time
 Dialogue: 2:28:55.03, 2:28:57.19, Default, {\c&H0000FF&}vinsent0loy{\c&HFFFFFF&}: ну дааа....
-Dialogue: 2:28:55.27, 2:28:58.26, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Айя Ктулху, Айя Блэк! Мы в эфире уже 2 hours 29 \Nminutes 12 seconds
+; Dialogue: 2:28:55.27, 2:28:58.26, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Айя Ктулху, Айя Блэк! Мы в эфире уже 2 hours 29 \Nminutes 12 seconds
 Dialogue: 2:28:55.29, 2:28:57.42, Default, {\c&HFF901E&}DippusDipri{\c&HFFFFFF&}: Это Эван!
 Dialogue: 2:28:55.94, 2:28:58.09, Default, {\c&H7FFF00&}Flaiver{\c&HFFFFFF&}: BibleThump
 Dialogue: 2:28:56.34, 2:28:58.74, Default, {\c&HFFFFFF&}RystPorton{\c&HFFFFFF&}: Зачем этих бедных животных,
@@ -4301,8 +4301,8 @@ Dialogue: 2:29:20.43, 2:29:22.85, Default, {\c&HB469FF&}Tr0yz{\c&HFFFFFF&}: Эт
 Dialogue: 2:29:20.55, 2:29:22.92, Default, {\c&HFFFFFF&}Soldatuuxa{\c&HFFFFFF&}: да слева же, около камеры
 Dialogue: 2:29:21.35, 2:29:23.66, Default, {\c&HFFFFFF&}isaliy{\c&HFFFFFF&}: BibleThump BibleThump
 Dialogue: 2:29:21.52, 2:29:24.73, Default, {\c&H1E69D2&}Maximilian758{\c&HFFFFFF&}: @killilspeed смотри на часы внимательнее. \NВремя которое заявлено в анонсе пришло?
-Dialogue: 2:29:26.18, 2:29:28.25, Default, {\c&H0000FF&}MasterMaster0k{\c&HFFFFFF&}: !time
-Dialogue: 2:29:26.51, 2:29:29.50, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Айя Ктулху, Айя Блэк! Мы в эфире уже 2 hours 29 \Nminutes 44 seconds
+; Dialogue: 2:29:26.18, 2:29:28.25, Default, {\c&H0000FF&}MasterMaster0k{\c&HFFFFFF&}: !time
+; Dialogue: 2:29:26.51, 2:29:29.50, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Айя Ктулху, Айя Блэк! Мы в эфире уже 2 hours 29 \Nminutes 44 seconds
 Dialogue: 2:29:28.03, 2:29:30.34, Default, {\c&H7FFF00&}PinkMintTea{\c&HFFFFFF&}: ПИРАТЫ ЧЕРЕЗ 4 МИНУТЫ
 Dialogue: 2:29:29.32, 2:29:32.17, Default, {\c&HFFFFFF&}prynic{\c&HFFFFFF&}: @BlackUFA_Twitch А соло не интереснее и более \Nчеленджово?
 Dialogue: 2:29:29.90, 2:29:32.36, Default, {\c&H0000FF&}brutalvarg{\c&HFFFFFF&}: Мы их изучаем, это же очевидна!
@@ -4429,7 +4429,7 @@ Dialogue: 2:31:54.16, 2:31:56.22, Default, {\c&HA09E5F&}APTEMD{\c&HFFFFFF&}: с�
 Dialogue: 2:31:54.22, 2:31:56.67, Default, {\c&H2222B2&}veselyi_miasnik{\c&HFFFFFF&}: неееееет не уходи! blackufaAAA
 Dialogue: 2:31:55.21, 2:31:57.76, Default, {\c&HFFFFFF&}abaddon888{\c&HFFFFFF&}: Стрим давно идёт? Вроде же рано ещё ?
 Dialogue: 2:31:55.24, 2:31:57.58, Default, {\c&HB469FF&}AmpyNaggets{\c&HFFFFFF&}: Поцти и подушить питона
-Dialogue: 2:31:57.04, 2:31:59.92, Default, {\c&H32CD9A&}DudelkaBot{\c&HFFFFFF&}: Сейчас в VK играет: Mewone! - Mercy (Original \NMix) Kreygasm
+; Dialogue: 2:31:57.04, 2:31:59.92, Default, {\c&H32CD9A&}DudelkaBot{\c&HFFFFFF&}: Сейчас в VK играет: Mewone! - Mercy (Original \NMix) Kreygasm
 Dialogue: 2:31:57.16, 2:31:59.22, Default, {\c&H0000FF&}Kingtiger1189{\c&HFFFFFF&}: КОКС
 Dialogue: 2:31:57.17, 2:31:59.96, Default, {\c&HFF0000&}LLIAX77777{\c&HFFFFFF&}: @andshak, а вдруг ты Американский шпиён \NblackufaSnake
 Dialogue: 2:31:58.01, 2:32:00.26, Default, {\c&H0045FF&}JohnRAYChannel{\c&HFFFFFF&}: А покурить можно?
@@ -4486,7 +4486,7 @@ Dialogue: 2:32:54.17, 2:32:56.33, Default, {\c&HB469FF&}fivepointsgang{\c&HFFFFF
 Dialogue: 2:32:55.17, 2:32:57.42, Default, {\c&HE22B8A&}zhiyura59{\c&HFFFFFF&}: Спасибо за стрим!
 Dialogue: 2:32:55.82, 2:32:58.00, Default, {\c&H0000FF&}Devcp4{\c&HFFFFFF&}: конец начала
 Dialogue: 2:32:57.89, 2:33:00.04, Default, {\c&HFF901E&}darja_m{\c&HFFFFFF&}: што такое?
-Dialogue: 2:32:58.23, 2:33:01.02, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Наш сервер в Discord - \Nhttps://discord.gg/fsofbsadw ●
+; Dialogue: 2:32:58.23, 2:33:01.02, Default, {\c&H701919&}Nightbot{\c&HFFFFFF&}: Наш сервер в Discord - \Nhttps://discord.gg/fsofbsadw ●
 Dialogue: 2:33:00.83, 2:33:02.90, Default, {\c&HFF901E&}Lovelas11{\c&HFFFFFF&}: конец
 Dialogue: 2:33:03.65, 2:33:05.87, Default, {\c&HFFFFFF&}sultannio{\c&HFFFFFF&}: NotLikeThis x⁣4
 Dialogue: 2:33:06.33, 2:33:08.49, Default, {\c&HFFFFFF&}TheDrHax{\c&HFFFFFF&}: blackufaAAA
